@@ -4,7 +4,8 @@
     "description": "tradcli",
     "author": "mpech",
     "dependencies": {
-        "mustache": "2.3.0"
+        "mustache": "2.3.0",
+        "mocha": "3.4.2"
     },
     "private":true,
     "license": "MIT"
