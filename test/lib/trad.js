@@ -63,4 +63,12 @@ describe('trad',function(){
             return done();
         })
     });
+
+    it('listens to onload', function(done){
+        var t = new Trad({fname:__dirname+'/../../samples/dic.jsonl'});
+        t.on('load', function(res){
+            assert.equal(res,null);
+            return done();
+        });
+    });
 });

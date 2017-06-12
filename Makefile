@@ -1,8 +1,11 @@
 mocha=./node_modules/mocha/bin/mocha --recursive
 folders=lib
-.PHONY: test $(folders)
+.PHONY: test $(folders) validate
 test: $(folders)
 
 lib:
 	@$(mocha) test/lib
+
+validate:
+	@./tools/validate.js && echo "dic.jsonl is ok"
 
