@@ -1,17 +1,25 @@
 {"k":"_version","en":"1.0.0"}
-{"k":"NOTIF_LYYTI_STATUS_CHANGED","fr":"Le statut de {{title}} est passé à {{state}}"}
-{"k":"NOTIF_NEW_OFFER_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier"}
-{"k":"NOTIF_NEW_COMMENT","fr":"{{username}} a commenté {{title}}"}
-{"k":"NOTIF_NEW_DOCUMENT_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}"}
-{"k":"NOTIF_NEW_NOTE_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}"}
-{"k":"NOTIF_MGR_ANSWER_PRIVATE_LYYTI","fr":"{{username}} a répondu à votre demande {{title}}"}
-{"k":"NOTIF_MGR_ANSWER","fr":"{{username}} a publié un commentaire sur {{title}}"}
-{"k":"NOTIF_MODERATED_LYYTI","fr":"{{title}} a été modéré par la communauté"}
-{"k":"NOTIF_NEW_TOPIC_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier"}
-{"k":"NOTIF_NEW_ISSUE_BUILDING","fr":"{{username}} a signalé un incident de type {{type}} dans votre immeuble du {{address}}"}
-{"k":"NOTIF_NEW_FLAT_ISSUE","fr":"{{username}} a signalé un incident de type {{type}} dans votre appartement du {{address}}"}
-{"k":"NOTIF_LYYTI_FOLLOWED_COMMENT","fr":"{{username}} a commenté {{title}}"}
-{"k":"NOTIF_NEW_MESSAGE","fr":"{{username}} vous a envoyé un nouveau message : {{title}}"}
-{"k":"NOTIF_NEW_MESSAGE_ON_LYYTI","fr":"{{username}} a commenté {{title}}"}
-{"k":"NOTIF_NEW_USER_BUILDING","fr":"{{username}} vient de rejoindre votre communauté du {{address}}"}
+{"k":"NOTIF_LYYTI_STATUS_CHANGED","fr":"Le statut de {{title}} est passé à {{state}}", "en":"\"{{title}}\"'s status has changed"}
+{"k":"NOTIF_NEW_OFFER_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier", "en":"{{username}} posted a new ad in your building / neighborhood"}
+{"k":"NOTIF_NEW_COMMENT","fr":"{{username}} a commenté {{title}}", "en":"You have received a comment"}
+{"k":"NOTIF_NEW_DOCUMENT_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en":"{{username}} uploaded a new document about your building {{address}}"}
+{"k":"NOTIF_NEW_DOCUMENT_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en":"{{username}} uploaded a new document about your flat {{address}}"}
+{"k":"NOTIF_NEW_DOCUMENT_CAMPUS","fr":"{{username}} a ajouté un nouveau document", "en":"{{username}} added a new document"}
+{"k":"NOTIF_NEW_NOTE_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published a new note about your building {{address}}"}
+{"k":"NOTIF_NEW_NOTE_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published a new note about your flat {{address}}"}
+{"k":"NOTIF_NEW_NOTE_CAMPUS","fr":"{{username}} a ajouté une nouvelle note", "en": "{{username}} added new information"}
+{"k":"NOTIF_NEW_WORK_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published new works about your building {{address}}"}
+{"k":"NOTIF_NEW_WORK_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published new works about your flat {{address}}"}
+{"k":"NOTIF_NEW_WORK_CAMPUS","fr":"{{username}} a ajouté un nouveau travaux", "en": "{{username}} added new works"}
+{"k":"NOTIF_MGR_ANSWER_PRIVATE_LYYTI","fr":"{{username}} a répondu à votre demande {{title}}", "en":"{{username}} answered to your request {{title}}"}
+{"k":"NOTIF_MGR_ANSWER","fr":"{{username}} a publié un commentaire sur {{title}}", "en":"{{username}} added a new comment to {{title}}"}
+{"k":"NOTIF_MODERATED_LYYTI","fr":"{{title}} a été modéré par la communauté", "en":"{{title}} has been moderated by the community"}
+{"k":"NOTIF_NEW_TOPIC_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier", "en":"{{username}} posted a new ad in your building / neighborhood"}
+{"k":"NOTIF_NEW_ISSUE_BUILDING","fr":"{{username}} a signalé un incident de type {{type}} dans votre immeuble du {{address}}", "en":"{{username}} has reported an issue of type {{type}} in your building {{address}}"}
+{"k":"NOTIF_NEW_FLAT_ISSUE","fr":"{{username}} a signalé un incident de type {{type}} dans votre appartement du {{address}}", "en":"{{username}} has reported an issue of type {{type}} in your flat {{address}}"}
+{"k":"NOTIF_LYYTI_FOLLOWED_COMMENT","fr":"{{username}} a commenté {{title}}", "en":"{{username}} added a comment to {{title}}"}
+{"k":"NOTIF_NEW_MESSAGE","fr":"{{username}} vous a envoyé un nouveau message : {{title}}", "en":"{{username}} sent you a new message"}
+{"k":"NOTIF_NEW_MESSAGE_ON_LYYTI","fr":"{{username}} a commenté {{title}}", "en":"{{username}} replied to your lyyti {{title}}"}
+{"k":"NOTIF_NEW_USER_BUILDING","fr":"{{username}} vient de rejoindre votre communauté du {{address}}", "en":"{{username}} has just joined your community"}
+
 

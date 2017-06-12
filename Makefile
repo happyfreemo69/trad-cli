@@ -1,7 +1,7 @@
 mocha=./node_modules/mocha/bin/mocha --recursive
 folders=lib
 .PHONY: test $(folders) validate
-test: $(folders)
+test: $(folders) validate
 
 lib:
 	@$(mocha) test/lib
