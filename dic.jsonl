@@ -21,5 +21,6 @@
 {"k":"NOTIF_NEW_MESSAGE","fr":"{{username}} vous a envoyé un nouveau message : {{title}}", "en":"{{username}} sent you a new message"}
 {"k":"NOTIF_NEW_MESSAGE_ON_LYYTI","fr":"{{username}} a commenté {{title}}", "en":"{{username}} replied to your lyyti {{title}}"}
 {"k":"NOTIF_NEW_USER_BUILDING","fr":"{{username}} vient de rejoindre votre communauté du {{address}}", "en":"{{username}} has just joined your community"}
+{"k":"NOTIF_NEW_VOTE_CITY","fr":"{{username}} voudrait avoir votre avis", "en":"{{username}} would like to know your opinion"}
 
 
