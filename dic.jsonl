@@ -11,6 +11,8 @@
 {"k":"NOTIF_NEW_WORK_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published new works about your building {{address}}"}
 {"k":"NOTIF_NEW_WORK_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published new works about your flat {{address}}"}
 {"k":"NOTIF_NEW_WORK_CAMPUS","fr":"{{username}} a ajouté un nouveau travaux", "en": "{{username}} added new works"}
+{"k":"NOTIF_NEW_DOCUMENT_CITY","fr":"{{username}} a publié {{title}}", "en":"{{username}} published {{title}}"}
+{"k":"NOTIF_NEW_WORK_CITY","fr":"{{username}} a signalé {{title}}", "en":"{{username}} has reported {{title}}"}
 {"k":"NOTIF_MGR_ANSWER_PRIVATE_LYYTI","fr":"{{username}} a répondu à votre demande {{title}}", "en":"{{username}} answered to your request {{title}}"}
 {"k":"NOTIF_MGR_ANSWER","fr":"{{username}} a publié un commentaire sur {{title}}", "en":"{{username}} added a new comment to {{title}}"}
 {"k":"NOTIF_MODERATED_LYYTI","fr":"{{title}} a été modéré par la communauté", "en":"{{title}} has been moderated by the community"}
@@ -22,5 +24,4 @@
 {"k":"NOTIF_NEW_MESSAGE_ON_LYYTI","fr":"{{username}} a commenté {{title}}", "en":"{{username}} replied to your lyyti {{title}}"}
 {"k":"NOTIF_NEW_USER_BUILDING","fr":"{{username}} vient de rejoindre votre communauté du {{address}}", "en":"{{username}} has just joined your community"}
 {"k":"NOTIF_NEW_VOTE_CITY","fr":"{{username}} voudrait avoir votre avis", "en":"{{username}} would like to know your opinion"}
-
 
