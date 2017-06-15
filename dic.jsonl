@@ -8,6 +8,7 @@
 {"k":"NOTIF_NEW_NOTE_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published a new note about your building {{address}}"}
 {"k":"NOTIF_NEW_NOTE_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published a new note about your flat {{address}}"}
 {"k":"NOTIF_NEW_NOTE_CAMPUS","fr":"{{username}} a ajouté une nouvelle note", "en": "{{username}} added new information"}
+{"k":"NOTIF_NEW_NOTE_CITY","fr":"{{username}} a publié {{title}}", "en":"{{username}} published {{title}}"}
 {"k":"NOTIF_NEW_WORK_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published new works about your building {{address}}"}
 {"k":"NOTIF_NEW_WORK_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}", "en": "{{username}} published new works about your flat {{address}}"}
 {"k":"NOTIF_NEW_WORK_CAMPUS","fr":"{{username}} a ajouté un nouveau travaux", "en": "{{username}} added new works"}
