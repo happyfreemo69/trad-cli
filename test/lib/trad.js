@@ -1,6 +1,5 @@
 var assert = require('assert');
 var Trad = require('../../');
-
 describe('trad',function(){
 
     it('getLanguages on existing key', function(done){
@@ -70,5 +69,14 @@ describe('trad',function(){
             assert.equal(res,null);
             return done();
         });
+    });
+
+    it('translate without escaping variables', function(done){
+        var t = new Trad({fname:__dirname+'/../../samples/dic.jsonl'});
+        t.reload().then(function(){
+            var str = t.translate('a','fr',{createdAt:1, title:"l'arbre"});
+            assert.equal(str, "1: l'arbre");
+            return done();
+        }).catch(done)
     });
 });
