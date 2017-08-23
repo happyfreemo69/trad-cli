@@ -25,4 +25,10 @@
 {"k":"NOTIF_NEW_MESSAGE_ON_LYYTI","fr":"{{username}} a commenté {{title}}", "en":"{{username}} replied to your lyyti {{title}}"}
 {"k":"NOTIF_NEW_USER_BUILDING","fr":"{{username}} vient de rejoindre votre communauté du {{address}}", "en":"{{username}} has just joined your community"}
 {"k":"NOTIF_NEW_VOTE_CITY","fr":"{{username}} voudrait avoir votre avis", "en":"{{username}} would like to know your opinion"}
-
+{"k":"LYYTI_STATE_OPENED","fr":"Ouvert", "en":"En cours"}
+{"k":"LYYTI_STATE_READ","fr":"Lu", "en":"Read"}
+{"k":"LYYTI_STATE_ANSWERED","fr":"Répondu", "en":"Answered"}
+{"k":"LYYTI_STATE_STANDBY","fr":"En attente", "en":"Stand by"}
+{"k":"LYYTI_STATE_ONGOING","fr":"En cours", "en":"Ongoing"}
+{"k":"LYYTI_STATE_RESOLVED","fr":"Résolu", "en":"Resolved"}
+{"k":"LYYTI_STATE_CLOSED","fr":"Fermé", "en":"Closed"}

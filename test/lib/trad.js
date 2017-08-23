@@ -79,4 +79,16 @@ describe('trad',function(){
             return done();
         }).catch(done)
     });
+
+    it('functional translates if defined', function(){
+        var t = new Trad({fname:__dirname+'/../../samples/dic.jsonl'});
+        return t.reload().then(function(){
+            t.dic['NOTIF_LYYTI_STATUS_CHANGED'] = {fr:'ignored', en:'delegated anyway'}
+            t.dic['LYYTI_STATE_ANSWERED'] = {fr:'Répondu'}
+            var str = t.translate('NOTIF_LYYTI_STATUS_CHANGED','fr',{title:'x', state:"ANSWERED"});
+            assert.equal(str, "Le statut de x est passé à Répondu");
+            str = t.translate('NOTIF_LYYTI_STATUS_CHANGED','en',{title:'x', state:"ANSWERED"});
+            assert.equal(str, "delegated anyway");
+        })
+    });
 });
