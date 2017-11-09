@@ -29,6 +29,7 @@ function retrieveLoco(locale){
                 try{
                     return resolve(JSON.parse(s));
                 }catch(e){
+                    console.log('failed for ', locale)
                     return reject(e);
                 }
             })
@@ -46,13 +47,18 @@ function main(){
     var dic = {};
     return Promise.all(['fr','en','de'].map(locale=>{
         return retrieveLoco(locale).then(json=>{
+            fs.writeFile('tmp_'+locale+'.json', JSON.stringify(json,null,1));
             Object.keys(json).forEach(assetId=>{
                 dic[assetId] = dic[assetId]||{fr:'', en:'', de:''};
+                if(typeof(json[assetId])!='string'){
+                    console.log('WAATF FUCKKKK ', locale, assetId, json[assetId])
+                    throw 'should never happen, check your assetId '+assetId;
+                }
                 dic[assetId][locale] = json[assetId];
             });
         });
     })).then(_=>{
-        var lines = Object.keys(dic).map(k=>{
+        var lines = Object.keys(dic).sort((a,b)=>a.localeCompare(b)).map(k=>{
             return JSON.stringify(Object.assign({k:k}, dic[k]));
         });
         fs.writeFileSync('dic.jsonl', lines.join('\n'));
