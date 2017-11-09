@@ -56,7 +56,9 @@ function main(){
                 }
                 dic[assetId][locale] = json[assetId];
             });
-        });
+        }).catch(e=>{
+            console.log('e',e)
+        })
     })).then(_=>{
         var lines = Object.keys(dic).sort((a,b)=>a.localeCompare(b)).map(k=>{
             return JSON.stringify(Object.assign({k:k}, dic[k]));

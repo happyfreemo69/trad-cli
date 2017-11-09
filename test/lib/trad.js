@@ -91,4 +91,14 @@ describe('trad',function(){
             assert.equal(str, "delegated anyway");
         })
     });
+
+    it('overrides existing NS', function(){
+        var k = Trad.key('randomNS_st','TE');
+        assert.equal(k,'TEST');
+    });
+
+    it('add it if missing ns', function(){
+        var k = Trad.key('st','TE');
+        assert.equal(k,'TEST');
+    });
 });

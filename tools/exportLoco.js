@@ -25,7 +25,7 @@ if(argv.help){
 var fs = require('fs');
 var path = require('path');
 var trad = require('../');
-const NS = 'TRADCLI_';
+const NS = 'TRADCLINS_';
 function main(){
     const defLanguages = ['fr','en','de'];
     var languages = [];
@@ -45,8 +45,10 @@ function main(){
         var o = JSON.parse(x);
         languages.forEach(l=>{
             if(o[l]){
-                var key = o.k.toUpperCase().replace(NS,'');
-                key = trad.key(NS+key);
+                var key = o.k
+                if(!o.k.includes('NS_')){
+                    key = trad.key(o.k, NS);
+                }
                 dic[l][key] = o[l];
             }
         })
