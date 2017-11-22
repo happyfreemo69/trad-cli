@@ -183,6 +183,7 @@
 {"k":"CATEGNS_HARMFUL","fr":"Nuisances","en":"Annoyances","de":"Belästigungen"}
 {"k":"CATEGNS_HBERGEMENTS","fr":"Hébergements","en":"Accommodation","de":"Unterkünfte"}
 {"k":"CATEGNS_HOLIDAYS","fr":"Vacances","en":"Holidays","de":"Ferien"}
+{"k":"CATEGNS_HOTWATER","fr":"Eau chaude","en":"Hot water","de":""}
 {"k":"CATEGNS_HOUSEHOLDLINEN","fr":"Linge de maison","en":"Household linen","de":"householdLinen"}
 {"k":"CATEGNS_HUNTWEEK","fr":"Huntweek","en":"Huntweek","de":"Huntweek"}
 {"k":"CATEGNS_IDE","fr":"Idée","en":"Idée","de":"Idée"}
@@ -372,6 +373,7 @@
 {"k":"CATEGNS_VIDEDRESSING","fr":"Vide dressing","en":"Closet clean-out","de":"Second-Hand"}
 {"k":"CATEGNS_VIGILANCE","fr":"Vigilance","en":"Vigilance","de":"Wachsamkeit"}
 {"k":"CATEGNS_VISIBILIT","fr":"Visibilité","en":"","de":""}
+{"k":"CATEGNS_VMC","fr":"VMC","en":"VMC","de":"VMC"}
 {"k":"CATEGNS_VOIDCAMPUS","fr":"VOIDCAMPUS","en":"VOIDCAMPUS","de":"VOIDCAMPUS"}
 {"k":"CATEGNS_VOIESNAVIGABLES","fr":"Voies Navigables","en":"Voies Navigables","de":"Voies Navigables"}
 {"k":"CATEGNS_VOLIATOULOUSE","fr":"Véolia Toulouse","en":"Véolia Toulouse","de":"Véolia Toulouse"}
