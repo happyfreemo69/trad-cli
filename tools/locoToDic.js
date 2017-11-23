@@ -11,42 +11,15 @@ if(argv.help){
 var trad = require('../');
 var https = require('https');
 var fs = require('fs');
-function retrieveLoco(locale){
-    return new Promise(function(resolve, reject){
-        var req = https.request({
-            method:'GET',
-            path:'/api/export/locale/'+locale+'.json?format=i18next&key='+process.env.LOCO_APIKEY,
-            hostname:'localise.biz',
-        }, function(res){
-            s = '';
-            res.on('data', function(chunk){
-                if(res.statusCode != 200){
-                    return reject(chunk.toString());
-                }
-                s+=chunk.toString();
-            });
-            res.on('end', function(){
-                try{
-                    return resolve(JSON.parse(s));
-                }catch(e){
-                    console.log('failed for ', locale)
-                    return reject(e);
-                }
-            })
-        });
-        req.on('error', function(err){
-            return reject(err);
-        });
-        req.end();
-    })
-}
+var loco = require('loco-client');
+
 function main(){
     if(!process.env.LOCO_APIKEY){
         throw 'missing export LOCO_APIKEY=something';
     }
     var dic = {};
     return Promise.all(['fr','en','de'].map(locale=>{
-        return retrieveLoco(locale).then(json=>{
+        return loco.getExport({loco_apiKey:process.env.LOCO_APIKEY},locale).then(json=>{
             fs.writeFile('tmp_'+locale+'.json', JSON.stringify(json,null,1));
             Object.keys(json).forEach(assetId=>{
                 dic[assetId] = dic[assetId]||{fr:'', en:'', de:''};

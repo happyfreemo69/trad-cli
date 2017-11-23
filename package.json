@@ -6,8 +6,9 @@
     "dependencies": {
         "mustache": "2.3.0",
         "mocha": "3.4.2",
-        "optimist":"0.6.1"
+        "optimist": "0.6.1",
+        "loco-client": "git://github.com:happyfreemo69/loco-client"
     },
-    "private":true,
+    "private": true,
     "license": "MIT"
 }
