@@ -101,4 +101,14 @@ describe('trad',function(){
         var k = Trad.key('st','TE');
         assert.equal(k,'TEST');
     });
+
+    it('has trad', function(done){
+        var t = new Trad({fname:__dirname+'/../../samples/dic.jsonl'});
+        t.reload().then(function(){
+            assert(t.hasTrad('a','fr'));
+            assert(!t.hasTrad('a','uk'), 'by lang');
+            assert(!t.hasTrad('x','fr'), 'by key');
+            return done();
+        })
+    });
 });
