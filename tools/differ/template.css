@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+table{
+    width:100%;
+}
+tr.odd{
+    background-color:#cbcbcb;
+}
