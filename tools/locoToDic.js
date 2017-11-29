@@ -24,7 +24,6 @@ function main(){
             Object.keys(json).forEach(assetId=>{
                 dic[assetId] = dic[assetId]||{fr:'', en:'', de:''};
                 if(typeof(json[assetId])!='string'){
-                    console.log('WAATF FUCKKKK ', locale, assetId, json[assetId])
                     throw 'should never happen, check your assetId '+assetId;
                 }
                 dic[assetId][locale] = json[assetId];

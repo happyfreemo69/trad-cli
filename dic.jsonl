@@ -42,7 +42,8 @@
 {"k":"CATEGNS_BENNECARTON","fr":"Benne Carton","en":"Cardboard dumpster","de":"Papiertonne"}
 {"k":"CATEGNS_BERGE","fr":"Berge","en":"Riverbank","de":"Ufer"}
 {"k":"CATEGNS_BIBLIOTHQUE","fr":"Bibliothèque","en":"Library","de":"Bibliothek"}
-{"k":"CATEGNS_BIEN_TRE","fr":"Bien-être","en":"Well-being","de":"Wohlbefinden"}
+{"k":"CATEGNS_BICYCLETTE","fr":"bicyclette","en":"","de":""}
+{"k":"CATEGNS_BIENTRE","fr":"Bien-être","en":"Well-being","de":"Wohlbefinden"}
 {"k":"CATEGNS_BILLETTERIE","fr":"Billetterie","en":"","de":""}
 {"k":"CATEGNS_BLANCHISSERIE","fr":"Blanchisserie","en":"","de":""}
 {"k":"CATEGNS_BOITEAUXLETTRES","fr":"Boite aux lettres","en":"Mailbox","de":"Briefkasten"}
@@ -417,7 +418,7 @@
 {"k":"TRADCLINS_NOTIF_NEW_NOTE_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht"}
 {"k":"TRADCLINS_NOTIF_NEW_NOTE_CAMPUS","fr":"{{username}} a ajouté une nouvelle note","en":"{{username}} added new information","de":"{{username}} hat eine Mitteilung hinzugefügt"}
 {"k":"TRADCLINS_NOTIF_NEW_NOTE_CITY","fr":"{{username}} a publié {{title}}","en":"{{username}} posted {{title}}","de":"{{username}} hat {{title}} veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_NEW_NOTE_FLAT","fr":"{{username}} a publi�� {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted  {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht"}
+{"k":"TRADCLINS_NOTIF_NEW_NOTE_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted  {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht"}
 {"k":"TRADCLINS_NOTIF_NEW_OFFER_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier","en":"{{username}} posted a new ad in your building/neighbourhood","de":"{{username}} hat eine neue Anzeige in Ihrem Gebäude/Viertel veröffentlicht"}
 {"k":"TRADCLINS_NOTIF_NEW_TOPIC_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier","en":"{{username}} posted a new ad in your building/neighbourhood","de":"{{username}} hat in Ihrem Gebäude/Viertel eine neue Anzeige veröffentlicht"}
 {"k":"TRADCLINS_NOTIF_NEW_USER_BUILDING","fr":"{{username}} vient de rejoindre votre communauté du {{address}}","en":"{{username}} has just joined your community {{address}}","de":"{{username}} ist Ihrer Community mit der Adresse {{address}} beigetreten"}
