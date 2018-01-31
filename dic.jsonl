@@ -2,22 +2,25 @@
 {"k":"CATEGNS_ACCSPONTON","fr":"Accès Ponton","en":"Access to pontoon","de":"Zugang Ponton"}
 {"k":"CATEGNS_ACCUEIL","fr":"Accueil","en":"Reception","de":"Empfang"}
 {"k":"CATEGNS_ACCUEILDERSIDENCE","fr":"Accueil de résidence","en":"Reception desk","de":"Hausempfang"}
-{"k":"CATEGNS_ACCUEILRSIDENCE","fr":"Accueil résidence","en":"","de":""}
+{"k":"CATEGNS_ACCUEILRSIDENCE","fr":"Accueil résidence","en":"\"Reception desk\"","de":"Hausempfang"}
 {"k":"CATEGNS_ACHATSGROUPS","fr":"Achats groupés","en":"Group buying","de":"Gruppenkäufe"}
 {"k":"CATEGNS_ACHATVENTE","fr":"Achat/vente","en":"Sale/purchase","de":"Kauf/Verkauf"}
 {"k":"CATEGNS_ACTUALITS","fr":"Actualités","en":"News","de":"Neues"}
 {"k":"CATEGNS_ADFINIR","fr":"A définir","en":"To be determined","de":"Festzulegen"}
 {"k":"CATEGNS_ADMINISTRATION","fr":"Administration","en":"Administration","de":"Verwaltung"}
-{"k":"CATEGNS_AFFRANCHISSEMENT","fr":"Affranchissement","en":"","de":""}
+{"k":"CATEGNS_AFFRANCHISSEMENT","fr":"Affranchissement","en":"Franking","de":"Porto"}
 {"k":"CATEGNS_AFTERWORK","fr":"Afterwork","en":"Afterwork","de":"Afterwork"}
 {"k":"CATEGNS_AGENDA","fr":"Agenda","en":"Agenda","de":"Kalender"}
 {"k":"CATEGNS_AIREDELIVRAISON","fr":"Aire de Livraison","en":"Delivery area","de":"Lieferzone"}
-{"k":"CATEGNS_ALPTIS","fr":"Alptis","en":"","de":""}
+{"k":"CATEGNS_ALPTIS","fr":"Alptis","en":"Alptis","de":"Alptis"}
 {"k":"CATEGNS_ALTERNATEUR","fr":"Alternateur","en":"Alternator","de":"Generator"}
 {"k":"CATEGNS_AMARRAGE","fr":"Amarrage","en":"Mooring","de":"Vertäuung"}
 {"k":"CATEGNS_AMBASSADEURS","fr":"Ambassadeurs","en":"Ambassadors","de":"Botschafter"}
+{"k":"CATEGNS_ANGERSVILLACTU","fr":"Angers Villactu","en":"","de":""}
+{"k":"CATEGNS_ANIMALLOCALIS","fr":"Animal localisé","en":"","de":""}
 {"k":"CATEGNS_ANIMAUX","fr":"Animaux","en":"Animals","de":"Tiere"}
-{"k":"CATEGNS_APRILMARINE","fr":"April marine","en":"","de":""}
+{"k":"CATEGNS_ANIMAUXEXPOSS","fr":"Animaux exposés","en":"","de":""}
+{"k":"CATEGNS_APRILMARINE","fr":"April marine","en":"April Marine","de":"April marine"}
 {"k":"CATEGNS_ARCELORMITTAL","fr":"Arcelor Mittal","en":"Arcelor Mittal","de":"Arcelor Mittal"}
 {"k":"CATEGNS_ARRTDEBUS","fr":"Arrêt de bus","en":"Bus stop","de":"Bushaltestelle"}
 {"k":"CATEGNS_ARRTDETAXI","fr":"Arrêt de taxi","en":"Taxi stand","de":"Taxistand"}
@@ -28,34 +31,38 @@
 {"k":"CATEGNS_ATABLE","fr":"A table!","en":"Food for thought!","de":"A table!"}
 {"k":"CATEGNS_ATELIERS","fr":"Ateliers","en":"Workshops","de":"Workshops"}
 {"k":"CATEGNS_AUDIO","fr":"Audio","en":"Audio","de":"Audio"}
-{"k":"CATEGNS_AUDIOVISUEL","fr":"Audiovisuel","en":"","de":""}
+{"k":"CATEGNS_AUDIOVISUEL","fr":"Audiovisuel","en":"Audiovisual","de":"Medien"}
 {"k":"CATEGNS_AUTRE","fr":"Autre","en":"Other","de":"Sonstige"}
 {"k":"CATEGNS_AUTRES","fr":"Autres","en":"Others","de":"Sonstiges"}
 {"k":"CATEGNS_BABY_SITTING","fr":"Baby-sitting","en":"Babysitting","de":"Babysitting"}
-{"k":"CATEGNS_BADGEBIP","fr":"Badge / Bip","en":"","de":""}
+{"k":"CATEGNS_BABYSITTING","fr":"Baby-sitting","en":"Babysitting","de":"Babysitting"}
+{"k":"CATEGNS_BADGE","fr":"Badge","en":"","de":""}
+{"k":"CATEGNS_BADGEBIP","fr":"Badge / Bip","en":"ID card/remote control","de":"Badge / Bip"}
 {"k":"CATEGNS_BANQUES","fr":"Banques","en":"Banks","de":"Banken"}
-{"k":"CATEGNS_BARRAGE","fr":"Barrage","en":"","de":""}
-{"k":"CATEGNS_BARRIRE","fr":"Barrière","en":"","de":""}
-{"k":"CATEGNS_BARRIREAUTO","fr":"Barrière auto","en":"","de":""}
-{"k":"CATEGNS_BARRIREPARKING","fr":"Barrière/Parking","en":"","de":""}
+{"k":"CATEGNS_BARRAGE","fr":"Barrage","en":"Barricade","de":"Straßensperre"}
+{"k":"CATEGNS_BARRIRE","fr":"Barrière","en":"Dam","de":"Schranke"}
+{"k":"CATEGNS_BARRIREAUTO","fr":"Barrière auto","en":"Car barrier","de":"Autoschranke"}
+{"k":"CATEGNS_BARRIREPARKING","fr":"Barrière/Parking","en":"Barrier/Car Park","de":"Schranke/Parkplatz"}
 {"k":"CATEGNS_BDO_DEMO","fr":"BDO_demo","en":"BDO_demo","de":"BDO_demo"}
 {"k":"CATEGNS_BENNECARTON","fr":"Benne Carton","en":"Cardboard dumpster","de":"Papiertonne"}
 {"k":"CATEGNS_BERGE","fr":"Berge","en":"Riverbank","de":"Ufer"}
 {"k":"CATEGNS_BIBLIOTHQUE","fr":"Bibliothèque","en":"Library","de":"Bibliothek"}
-{"k":"CATEGNS_BICYCLETTE","fr":"bicyclette","en":"","de":""}
+{"k":"CATEGNS_BICYCLETTE","fr":"bicyclette","en":"bicycle","de":"Fahrrad"}
 {"k":"CATEGNS_BIENTRE","fr":"Bien-être","en":"Well-being","de":"Wohlbefinden"}
-{"k":"CATEGNS_BILLETTERIE","fr":"Billetterie","en":"","de":""}
-{"k":"CATEGNS_BLANCHISSERIE","fr":"Blanchisserie","en":"","de":""}
+{"k":"CATEGNS_BILLETTERIE","fr":"Billetterie","en":"Ticket office","de":"Ticketkasse"}
+{"k":"CATEGNS_BLANCHISSERIE","fr":"Blanchisserie","en":"Laundry","de":"Wäscherei"}
 {"k":"CATEGNS_BOITEAUXLETTRES","fr":"Boite aux lettres","en":"Mailbox","de":"Briefkasten"}
 {"k":"CATEGNS_BOITEPOSTALE","fr":"Boite postale","en":"Mailbox","de":"Postfach"}
 {"k":"CATEGNS_BORNELEC","fr":"Borne élec.","en":"Charge point","de":"Stromtankstelle"}
 {"k":"CATEGNS_BORNELECTRIQUE","fr":"Borne électrique","en":"Charge point","de":"Stromtankstelle"}
 {"k":"CATEGNS_BOULANGERIE","fr":"Boulangerie","en":"Bakery","de":"Bäckerei"}
+{"k":"CATEGNS_BRACONNAGE","fr":"Braconnage","en":"","de":""}
 {"k":"CATEGNS_BRICOLAGE","fr":"Bricolage","en":"DIY","de":"Heimwerken"}
 {"k":"CATEGNS_BTIMENT","fr":"Bâtiment","en":"Building","de":"Gebäude"}
 {"k":"CATEGNS_BUILDINGBOUYGUES","fr":"BuildingBouygues","en":"BuildingBouygues","de":"BuildingBouygues"}
 {"k":"CATEGNS_BUILDINGTI","fr":"BuildingTI","en":"BuildingTI","de":"BuildingTI"}
 {"k":"CATEGNS_BULLETINMTO","fr":"Bulletin Météo","en":"Weather forecast","de":"Wetterbericht"}
+{"k":"CATEGNS_BUREAUX","fr":"Bureaux","en":"","de":""}
 {"k":"CATEGNS_BUSINESSGAME","fr":"Business Game","en":"Business Game","de":"Business Game"}
 {"k":"CATEGNS_BUSINESSWEEK","fr":"Business week","en":"Business week","de":"Business week"}
 {"k":"CATEGNS_C10","fr":"C10","en":"C10","de":"C10"}
@@ -64,46 +71,54 @@
 {"k":"CATEGNS_CAFTRIA","fr":"Cafétéria","en":"Cafeteria","de":"Cafeteria"}
 {"k":"CATEGNS_CAIMMO_DEMO","fr":"CaImmo_demo","en":"CaImmo_demo","de":"CaImmo_demo"}
 {"k":"CATEGNS_CAIMMOBILIER","fr":"CA Immobilier","en":"CA Immobilier","de":"CA Immobilier"}
-{"k":"CATEGNS_CAISSE","fr":"Caisse","en":"","de":""}
+{"k":"CATEGNS_CAISSE","fr":"Caisse","en":"Checkout","de":"Kasse"}
 {"k":"CATEGNS_CAMPUSCLEAN","fr":"Campus clean","en":"Clean campus","de":"Campus clean"}
 {"k":"CATEGNS_CANALSUP","fr":"CanalSup","en":"CanalSup","de":"CanalSup"}
 {"k":"CATEGNS_CARBURANT","fr":"Carburant","en":"Fuel","de":"Kraftstoff"}
-{"k":"CATEGNS_CAVEGARAGE","fr":"Cave/Garage","en":"","de":""}
-{"k":"CATEGNS_CHAMPSSURMARNES","fr":"Champs sur Marnes","en":"","de":""}
+{"k":"CATEGNS_CAVEGARAGE","fr":"Cave/Garage","en":"Basement storage space/Garage","de":"Keller/Garage"}
+{"k":"CATEGNS_CHAMPSSURMARNES","fr":"Champs sur Marnes","en":"Champs sur Marnes","de":"Champs-sur-Marne"}
 {"k":"CATEGNS_CHATEAUFORM","fr":"ChateauForm","en":"ChateauForm","de":"ChateauForm"}
 {"k":"CATEGNS_CHAUFFAGE","fr":"Chauffage","en":"Heating","de":"Heizung"}
-{"k":"CATEGNS_CHAUFFAGE_ECS","fr":"Chauffage - ECS","en":"","de":""}
-{"k":"CATEGNS_CHAUFFAGECLIM","fr":"Chauffage/Clim","en":"","de":""}
-{"k":"CATEGNS_CHAUSSE","fr":"Chaussée","en":"","de":""}
-{"k":"CATEGNS_CHEATING","fr":"Cheating","en":"","de":""}
+{"k":"CATEGNS_CHAUFFAGE_ECS","fr":"Chauffage - ECS","en":"Heating - ECS","de":"Heizung - Warmwasser"}
+{"k":"CATEGNS_CHAUFFAGECLIM","fr":"Chauffage/Clim","en":"Heating - a/c","de":"Heizung/Klima"}
+{"k":"CATEGNS_CHAUSSE","fr":"Chaussée","en":"Roadway","de":"Straße"}
+{"k":"CATEGNS_CHEATING","fr":"Cheating","en":"Cheating","de":"Cheating"}
 {"k":"CATEGNS_CHELLECHAFAUD","fr":"Échelle/Échafaud.","en":"Ladder/Scaffold","de":"Leitern/Gerüste"}
 {"k":"CATEGNS_CIRCULATION","fr":"Circulation","en":"Traffic route","de":"Verkehr"}
 {"k":"CATEGNS_CITY","fr":"CITY","en":"CITY","de":"CITY"}
 {"k":"CATEGNS_CITYLITY","fr":"CityLity","en":"CityLity","de":"CityLity"}
 {"k":"CATEGNS_CLAIRAGE","fr":"Éclairage","en":"Public lighting","de":"Beleuchtung"}
 {"k":"CATEGNS_CLASSEMENTS","fr":"Classements","en":"Rankings","de":"Kurseinteilung"}
-{"k":"CATEGNS_CLIM","fr":"Clim","en":"","de":""}
+{"k":"CATEGNS_CLIM","fr":"Clim","en":"a/c","de":"Klimaanlage"}
 {"k":"CATEGNS_CLIMATISATION","fr":"Climatisation","en":"Air conditioning","de":"Klimatisierung"}
+{"k":"CATEGNS_CLINE","fr":"Céline","en":"","de":""}
 {"k":"CATEGNS_CNR","fr":"CNR","en":"CNR","de":"CNR"}
 {"k":"CATEGNS_CO_ACTIVIT","fr":"Co-activité","en":"Coordinated activity","de":"Gruppenaktiv."}
 {"k":"CATEGNS_CO_VOITURAGE","fr":"Co-Voiturage","en":"Car-sharing","de":"Car-Sharing"}
 {"k":"CATEGNS_COLOCATION","fr":"Colocation","en":"Flat-share","de":"WG"}
 {"k":"CATEGNS_COMMERCES","fr":"Commerces","en":"Shops","de":"Geschäfte"}
 {"k":"CATEGNS_COMMUNIQUER","fr":"Communiquer","en":"Communicate","de":"Mitteilen"}
+{"k":"CATEGNS_COMPORTEMENT","fr":"Comportement","en":"","de":""}
+{"k":"CATEGNS_COMPORTEMENTINNA","fr":"Comportement inna.","en":"","de":""}
 {"k":"CATEGNS_COMPOST","fr":"Compost","en":"Compost","de":"Kompost"}
 {"k":"CATEGNS_CONCOURSPASS","fr":"Concours PASS","en":"Concours PASS","de":"Concours PASS"}
 {"k":"CATEGNS_CONFORT","fr":"Confort","en":"Comfort","de":"Komfort"}
+{"k":"CATEGNS_CONRLEACCS","fr":"Conrôle accès","en":"Access control","de":"Zugriffskontrolle"}
 {"k":"CATEGNS_CONTAINER_ISSUE","fr":"container_issue","en":"container_issue","de":"container_issue"}
+{"k":"CATEGNS_CONTRLEACCS","fr":"Contrôle accès","en":"Access control","de":"Zugriffskontrolle"}
+{"k":"CATEGNS_CONTRLEDACCS","fr":"Contrôle d'accès","en":"Access control","de":"Zugriffskontrolle"}
+{"k":"CATEGNS_CONTRLEDESACCS","fr":"Contrôle des accès","en":"Access control","de":"Zugriffskontrolle"}
+{"k":"CATEGNS_CONTROLEDACCS","fr":"Controle d'accès","en":"Access control","de":"Zugriffskontrolle"}
 {"k":"CATEGNS_CONVOYAGE","fr":"Convoyage","en":"Driveaway","de":"Fahrservice"}
 {"k":"CATEGNS_COULOIR","fr":"Couloir","en":"Hallway","de":"Gang"}
 {"k":"CATEGNS_COUPDEPOUCE","fr":"Coup de pouce","en":"Helping hand","de":"Coup de pouce"}
-{"k":"CATEGNS_COURRIER","fr":"Courrier","en":"","de":""}
+{"k":"CATEGNS_COURRIER","fr":"Courrier","en":"Mail","de":"Post"}
 {"k":"CATEGNS_COURS","fr":"Cours","en":"Lessons","de":"Kurs"}
 {"k":"CATEGNS_COVOITURAGE","fr":"Covoiturage","en":"Car-sharing","de":"Car-Sharing"}
-{"k":"CATEGNS_CRAN","fr":"Écran","en":"","de":""}
+{"k":"CATEGNS_CRAN","fr":"Écran","en":"Screen","de":"Bildschirm"}
 {"k":"CATEGNS_CUISINE","fr":"Cuisine","en":"Cooking","de":"Küche"}
 {"k":"CATEGNS_DATESDESPORTESOUVERTES","fr":"Dates des portes ouvertes","en":"Open House Days","de":"Tage der offenen Tür"}
-{"k":"CATEGNS_DCHET","fr":"Déchet","en":"","de":""}
+{"k":"CATEGNS_DCHET","fr":"Déchet","en":"Waste","de":"Abfall"}
 {"k":"CATEGNS_DCHETS","fr":"Déchets","en":"Waste","de":"Abfälle"}
 {"k":"CATEGNS_DCHTERIE","fr":"Déchèterie","en":"Recycle Center","de":"Recyclinghof"}
 {"k":"CATEGNS_DGRADATION","fr":"Dégradation","en":"Damage","de":"Beschädigung"}
@@ -113,7 +128,7 @@
 {"k":"CATEGNS_DOCUMENTCAMPUS","fr":"Document Campus","en":"Campus Document","de":"Dokument Campus"}
 {"k":"CATEGNS_DOCUMENTS","fr":"Documents","en":"Documents","de":"Dokumente"}
 {"k":"CATEGNS_DOUCHES","fr":"Douches","en":"Showers","de":"Duschen"}
-{"k":"CATEGNS_DTRIORATION","fr":"Détérioration","en":"","de":""}
+{"k":"CATEGNS_DTRIORATION","fr":"Détérioration","en":"Deterioration","de":"Beschädigung"}
 {"k":"CATEGNS_E_SPORT","fr":"e-sport","en":"e-sport","de":"E-Sport"}
 {"k":"CATEGNS_EAU","fr":"Eau","en":"Water","de":"Wasser"}
 {"k":"CATEGNS_EAUCHAUDE","fr":"Eau chaude","en":"Hot water","de":"Warmes Wasser"}
@@ -123,41 +138,51 @@
 {"k":"CATEGNS_ECLUSE","fr":"Ecluse","en":"Lock","de":"Schleuse"}
 {"k":"CATEGNS_ECO_CITOYEN","fr":"Eco-citoyen","en":"Eco-citizenship","de":"Öko-Bürger"}
 {"k":"CATEGNS_ECOTIME","fr":"Eco time","en":"Eco time","de":"Eco time"}
-{"k":"CATEGNS_ECS","fr":"ECS","en":"","de":""}
+{"k":"CATEGNS_ECS","fr":"ECS","en":"ECS","de":"Warmwasser"}
 {"k":"CATEGNS_ELECTROMNAGER","fr":"Electroménager","en":"Electrical appliances","de":"Elektrogerät"}
-{"k":"CATEGNS_ELEVATOR","fr":"Barrière auto","en":"","de":""}
+{"k":"CATEGNS_ELEVATOR","fr":"Barrière auto","en":"Car barrier","de":"Autoschranke"}
 {"k":"CATEGNS_ENCOMBRANTS","fr":"Encombrants","en":"Bulky waste","de":"Sperrmüll"}
-{"k":"CATEGNS_ENEDIS","fr":"enedis","en":"","de":""}
-{"k":"CATEGNS_ENGIE","fr":"Engie","en":"","de":""}
+{"k":"CATEGNS_ENEDIS","fr":"enedis","en":"enedis","de":"enedis"}
+{"k":"CATEGNS_ENGIE","fr":"Engie","en":"Engie","de":"Engie"}
 {"k":"CATEGNS_ENGINSMATRIEL","fr":"Engins/Matériel","en":"Machines/equipment","de":"Geräte/Material"}
 {"k":"CATEGNS_ENTRAIDE","fr":"Entraide","en":"Mutual aid","de":"Hilfestellung"}
+{"k":"CATEGNS_ENV1","fr":"Env 1","en":"","de":""}
+{"k":"CATEGNS_ENV2","fr":"Env 2","en":"","de":""}
+{"k":"CATEGNS_ENV3","fr":"Env 3","en":"","de":""}
+{"k":"CATEGNS_ENV4","fr":"Env 4","en":"","de":""}
+{"k":"CATEGNS_ENV5","fr":"Env 5","en":"","de":""}
+{"k":"CATEGNS_ENV6","fr":"Env 6","en":"","de":""}
 {"k":"CATEGNS_EOLIEN","fr":"Eolien","en":"Wind turbine","de":"Windkraft"}
 {"k":"CATEGNS_EPI","fr":"EPI","en":"PPE","de":"Schutzausrüstung"}
-{"k":"CATEGNS_ESCALATOR","fr":"Escalator","en":"","de":""}
-{"k":"CATEGNS_ESPACESVERT","fr":"Espaces vert","en":"","de":""}
+{"k":"CATEGNS_ESCALATOR","fr":"Escalator","en":"Escalator","de":"Rolltreppe"}
+{"k":"CATEGNS_ESPACESVERT","fr":"Espaces vert","en":"Green spaces","de":"Grünflächen"}
 {"k":"CATEGNS_ESPACESVERTS","fr":"Espaces verts","en":"Green spaces","de":"Grünflächen"}
 {"k":"CATEGNS_ESPACEVERTS","fr":"Espace verts","en":"Green spaces","de":"Grünflächen"}
+{"k":"CATEGNS_ESPIBAL","fr":"espi bal","en":"espi bal","de":"espi bal"}
+{"k":"CATEGNS_ESPITERTIAIRE","fr":"ESPI tertiaire","en":"ESPI tertiaire","de":"ESPI tertiaire"}
 {"k":"CATEGNS_EVACUATION","fr":"Evacuation","en":"Evacuation","de":"Abfluss"}
 {"k":"CATEGNS_EVENTS","fr":"events","en":"events","de":"Events"}
 {"k":"CATEGNS_EVNEMENT","fr":"Evènement","en":"Event","de":"Ereignis"}
 {"k":"CATEGNS_EVNEMENTS","fr":"Evénements","en":"Events","de":"Ereignisse"}
-{"k":"CATEGNS_EXTINCTEURFEU","fr":"Extincteur feu","en":"","de":""}
+{"k":"CATEGNS_EXTINCTEURFEU","fr":"Extincteur feu","en":"Fire extinguisher","de":"Feuerlöscher"}
 {"k":"CATEGNS_EXTRIEUR","fr":"Extérieur","en":"Exterior","de":"Außen"}
 {"k":"CATEGNS_FACEBOOK","fr":"Facebook","en":"Facebook","de":"Facebook"}
 {"k":"CATEGNS_FENTREVOLET","fr":"Fenêtre/Volet","en":"Windows/Shutters","de":"Fenster/Laden"}
 {"k":"CATEGNS_FERREPASSER","fr":"Fer à repasser","en":"Iron","de":"Bügeleisen"}
 {"k":"CATEGNS_FETEDESLUMIERES","fr":"feteDesLumieres","en":"feteDesLumieres","de":"feteDesLumieres"}
 {"k":"CATEGNS_FEU","fr":"Feu","en":"Fire","de":"Brand"}
-{"k":"CATEGNS_FIDLIT","fr":"Fidélité","en":"","de":""}
+{"k":"CATEGNS_FIDLIT","fr":"Fidélité","en":"Loyalty","de":"Treue"}
 {"k":"CATEGNS_FISSURE","fr":"Fissure","en":"Crack","de":"Riss"}
 {"k":"CATEGNS_FLAT","fr":"flat","en":"FLAT","de":"FLAT"}
 {"k":"CATEGNS_FLEURISTE","fr":"Fleuriste","en":"Florist","de":"Blumengeschäft"}
+{"k":"CATEGNS_FLEXOM","fr":"Flexom","en":"","de":""}
+{"k":"CATEGNS_FLUXRSS","fr":"Flux RSS","en":"","de":""}
 {"k":"CATEGNS_FOYERSTUDIANTS","fr":"Foyers étudiants","en":"Halls of residence","de":"Wohnheime"}
 {"k":"CATEGNS_FTE","fr":"Fête","en":"Party","de":"Fest"}
 {"k":"CATEGNS_FTEDESLUMIRES","fr":"Fête des Lumières","en":"Fête des Lumières","de":"Fête des Lumières"}
 {"k":"CATEGNS_FUITEDEAU","fr":"Fuite d'eau","en":"Water leak","de":"Wasserleck"}
-{"k":"CATEGNS_GARDECORPS","fr":"Garde corps","en":"","de":""}
-{"k":"CATEGNS_GARDIENNAGE","fr":"Gardiennage","en":"","de":""}
+{"k":"CATEGNS_GARDECORPS","fr":"Garde corps","en":"Handrail","de":"Geländer"}
+{"k":"CATEGNS_GARDIENNAGE","fr":"Gardiennage","en":"Caretaking","de":"Bewachung"}
 {"k":"CATEGNS_GAREFERROVIAIRE","fr":"Gare ferroviaire","en":"Train station","de":"Bahnhof"}
 {"k":"CATEGNS_GEEK","fr":"Geek","en":"Geek","de":"Geek"}
 {"k":"CATEGNS_GENERIC_BUILDING_AID","fr":"GENERIC_BUILDING_AID","en":"GENERIC_BUILDING_AID","de":"GENERIC_BUILDING_AID"}
@@ -172,7 +197,7 @@
 {"k":"CATEGNS_GENERIC_CITY_DOCUMENT_CONTAINER","fr":"GENERIC_CITY_DOCUMENT_CONTAINER","en":"GENERIC_CITY_DOCUMENT_CONTAINER","de":"GENERIC_CITY_DOCUMENT_CONTAINER"}
 {"k":"CATEGNS_GENERIC_CITY_ISSUE","fr":"GENERIC_CITY_ISSUE","en":"GENERIC_CITY_ISSUE","de":"GENERIC_CITY_ISSUE"}
 {"k":"CATEGNS_GENERIC_FLAT_ISSUE","fr":"GENERIC_FLAT_ISSUE","en":"GENERIC_FLAT_ISSUE","de":"GENERIC_FLAT_ISSUE"}
-{"k":"CATEGNS_GERIC","fr":"Geric","en":"","de":""}
+{"k":"CATEGNS_GERIC","fr":"Geric","en":"Geric","de":"Geric"}
 {"k":"CATEGNS_GESTIONDESDOCUMENTS","fr":"Gestion des documents","en":"Manage documents","de":"Dokumente verwalten"}
 {"k":"CATEGNS_GNIECIVIL","fr":"Génie civil","en":"Civil engineering","de":"Hoch-/Tiefbau"}
 {"k":"CATEGNS_GRAFFITI","fr":"Graffiti","en":"Graffiti","de":"Graffiti"}
@@ -190,7 +215,7 @@
 {"k":"CATEGNS_INCIDENTLIVRAISON","fr":"Incident Livraison","en":"Incident Livraison","de":"Vorfall Lieferung"}
 {"k":"CATEGNS_INCIDENTS","fr":"Incidents","en":"Incidents","de":"Vorfälle"}
 {"k":"CATEGNS_INCUBATEUR","fr":"Incubateur","en":"Incubator","de":"Inkubator"}
-{"k":"CATEGNS_INFORMATION","fr":"Information","en":"","de":""}
+{"k":"CATEGNS_INFORMATION","fr":"Information","en":"Information","de":"Information"}
 {"k":"CATEGNS_INFORMATIONS","fr":"Informations","en":"News","de":"Informationen"}
 {"k":"CATEGNS_INFORMATIQUE","fr":"Informatique","en":"IT","de":"Informatik"}
 {"k":"CATEGNS_INFORMATIQUEETRSEAU","fr":"Informatique et réseau","en":"IT & Network","de":"IT und Netzwerk"}
@@ -208,7 +233,7 @@
 {"k":"CATEGNS_ITINRAIRE","fr":"Itinéraire","en":"Route","de":"Anfahrt"}
 {"k":"CATEGNS_JAIME","fr":"J'aime","en":"Like","de":"Gefällt mir"}
 {"k":"CATEGNS_JAIMEMOINS","fr":"J'aime moins","en":"I'm not keen","de":"Mag ich nicht"}
-{"k":"CATEGNS_JANEGOODALL","fr":"Jane Goodall","en":"","de":""}
+{"k":"CATEGNS_JANEGOODALL","fr":"Jane Goodall","en":"Jane Goodall","de":"Jane Goodall"}
 {"k":"CATEGNS_JARDIN","fr":"Jardin","en":"Garden","de":"Garten"}
 {"k":"CATEGNS_JARDINPRIVATIF","fr":"Jardin privatif","en":"Private garden","de":"Privatgarten"}
 {"k":"CATEGNS_JEDONNE","fr":"Je donne","en":"I donate","de":"Ich gebe"}
@@ -227,14 +252,15 @@
 {"k":"CATEGNS_LINGEDEMAISON","fr":"Linge de maison","en":"Household linen","de":"Hauswäsche"}
 {"k":"CATEGNS_LISTEDEDOC","fr":"Liste de doc","en":"Doc. list","de":"Dok.-Liste"}
 {"k":"CATEGNS_LIVRAISON","fr":"Livraison","en":"Delivery","de":"Lieferung"}
-{"k":"CATEGNS_LOCALISATION","fr":"Localisation","en":"","de":""}
+{"k":"CATEGNS_LOCALISATION","fr":"Localisation","en":"Localisation","de":"Ortsbestimmung"}
 {"k":"CATEGNS_LOCALVLO","fr":"Local Vélo","en":"Bike shed","de":"Fahrradraum"}
 {"k":"CATEGNS_LOCAUXCOMMUNS","fr":"Locaux communs","en":"Common areas","de":"Gemeinsame Räume"}
+{"k":"CATEGNS_LOGICIEL","fr":"Logiciel","en":"","de":""}
 {"k":"CATEGNS_LOISIRS","fr":"Loisirs","en":"Leisure","de":"Hobbys"}
 {"k":"CATEGNS_LONGUEUR","fr":"Longueur","en":"Length","de":"Länge"}
 {"k":"CATEGNS_LU","fr":"L&U","en":"L&U","de":"L&U"}
 {"k":"CATEGNS_LUXEMBOURG","fr":"luxembourg","en":"Luxembourg","de":"Luxemburg"}
-{"k":"CATEGNS_MACHINECAF","fr":"Machine à café","en":"","de":""}
+{"k":"CATEGNS_MACHINECAF","fr":"Machine à café","en":"Coffee machine","de":"Kaffeemaschine"}
 {"k":"CATEGNS_MACHINES","fr":"Machines","en":"Machines","de":"Maschinen"}
 {"k":"CATEGNS_MAKEUPFOREVER","fr":"Make up for ever","en":"Make Up For Ever","de":"Make up for ever"}
 {"k":"CATEGNS_MASTER_LIKE","fr":"MASTER_LIKE","en":"MASTER_LIKE","de":"MASTER_LIKE"}
@@ -245,40 +271,42 @@
 {"k":"CATEGNS_MASTERCATEGFUTURINSEEC","fr":"master categ futur inseec","en":"master categ futur inseec","de":"master categ futur inseec"}
 {"k":"CATEGNS_MATSURI","fr":"matsuri","en":"matsuri","de":"Matsuri"}
 {"k":"CATEGNS_MAVILLE","fr":"Ma ville","en":"My city","de":"Meine Stadt"}
-{"k":"CATEGNS_MENUISERIE","fr":"Menuiserie","en":"","de":""}
+{"k":"CATEGNS_MENUISERIE","fr":"Menuiserie","en":"Woodworking","de":"Schreinerei"}
 {"k":"CATEGNS_MEUDON","fr":"Meudon","en":"Meudon","de":"Meudon"}
-{"k":"CATEGNS_MNAGE","fr":"Ménage","en":"","de":""}
+{"k":"CATEGNS_MNAGE","fr":"Ménage","en":"Cleaning","de":"Haushalt"}
 {"k":"CATEGNS_MOBILIER","fr":"Mobilier","en":"Furniture","de":"Möbel"}
 {"k":"CATEGNS_MOBILIT","fr":"Mobilité","en":"Mobility","de":"Mobilität"}
 {"k":"CATEGNS_MONCOMPTE","fr":"Mon Compte","en":"My account","de":"Mein Konto"}
 {"k":"CATEGNS_MONPOST","fr":"Mon post","en":"My post","de":"Mein Post"}
 {"k":"CATEGNS_MSCMBA","fr":"Msc & MBA","en":"MSc & MBA","de":"M.Sc. & MBA"}
 {"k":"CATEGNS_MTROPOLE","fr":"Métropole","en":"Metropolis","de":"Metropole"}
+{"k":"CATEGNS_MUSEMUDAM","fr":"Musée Mudam","en":"","de":""}
 {"k":"CATEGNS_MUSIQUE","fr":"Musique","en":"Music","de":"Musik"}
 {"k":"CATEGNS_MY_CITY","fr":"MY_CITY","en":"MY_CITY","de":"MY_CITY"}
 {"k":"CATEGNS_NETTOYAGE","fr":"Nettoyage","en":"Cleanliness","de":"Reinigung"}
 {"k":"CATEGNS_NIVEAUXDEAU","fr":"Niveaux d'eau","en":"Water level","de":"Wasserstände"}
 {"k":"CATEGNS_NUISANCES","fr":"Nuisances","en":"Noise","de":"Belästigungen"}
-{"k":"CATEGNS_NUISIBLE","fr":"Nuisible","en":"","de":""}
-{"k":"CATEGNS_NUISSANCES","fr":"Nuissances","en":"","de":""}
+{"k":"CATEGNS_NUISIBLE","fr":"Nuisible","en":"Detrimental","de":"Schädlich"}
+{"k":"CATEGNS_NUISSANCES","fr":"Nuissances","en":"Noise","de":"Lärmbelästigungen"}
 {"k":"CATEGNS_OCCUPATION","fr":"Occupation","en":"Occupation","de":"Beschäftigung"}
-{"k":"CATEGNS_OPH74","fr":"oph74","en":"","de":""}
-{"k":"CATEGNS_PARCAUTO","fr":"Parc auto","en":"","de":""}
+{"k":"CATEGNS_OPH74","fr":"oph74","en":"oph74","de":"oph74"}
+{"k":"CATEGNS_ORDINATEUR","fr":"Ordinateur","en":"","de":""}
+{"k":"CATEGNS_PARCAUTO","fr":"Parc auto","en":"Car park","de":"Fuhrpark"}
 {"k":"CATEGNS_PARCS","fr":"Parcs","en":"Parks","de":"Parks"}
 {"k":"CATEGNS_PARKING","fr":"Parking","en":"Car park","de":"Parkplatz"}
 {"k":"CATEGNS_PARQUET","fr":"Parquet","en":"Wooden flooring","de":"Parkett"}
 {"k":"CATEGNS_PEDIBUS","fr":"Pedibus","en":"Walking bus","de":"Pedibus"}
 {"k":"CATEGNS_PERDUTROUV","fr":"Perdu/trouvé","en":"Lost & found","de":"Fundsachen"}
 {"k":"CATEGNS_PETIT_DJEUNER","fr":"Petit-déjeuner","en":"Breakfast","de":"Frühstück"}
-{"k":"CATEGNS_PETITDJEUNER","fr":"Petit déjeuner","en":"","de":""}
+{"k":"CATEGNS_PETITDJEUNER","fr":"Petit déjeuner","en":"Breakfast","de":"Frühstück"}
 {"k":"CATEGNS_PETITJOBS","fr":"Petit Jobs","en":"Odd Jobs","de":"Kleine Jobs"}
 {"k":"CATEGNS_PETITSJOBS","fr":"Petits Jobs","en":"Odd Jobs","de":"Kleine Jobs"}
-{"k":"CATEGNS_PHOTOCOPIEUR","fr":"Photocopieur","en":"","de":""}
+{"k":"CATEGNS_PHOTOCOPIEUR","fr":"Photocopieur","en":"Photocopier","de":"Kopierer"}
 {"k":"CATEGNS_PHOTOVOLTAQUE","fr":"Photovoltaïque","en":"Solar cell","de":"Photovoltaik"}
 {"k":"CATEGNS_PISCINE","fr":"Piscine","en":"Swimming pool","de":"Schwimmbad"}
 {"k":"CATEGNS_PLACARD","fr":"Placard","en":"Closet","de":"Schrank"}
 {"k":"CATEGNS_PLAGE","fr":"Plage","en":"Beach","de":"Strand"}
-{"k":"CATEGNS_PLAN3D","fr":"Plan 3D","en":"","de":""}
+{"k":"CATEGNS_PLAN3D","fr":"Plan 3D","en":"3D floor plan","de":"Plan 3D"}
 {"k":"CATEGNS_PLNIRES","fr":"Plénières","en":"Plenary sessions","de":"Versammlungen"}
 {"k":"CATEGNS_PLOMBERIE","fr":"Plomberie","en":"Plumbing","de":"Klempner"}
 {"k":"CATEGNS_POLLUTION","fr":"Pollution","en":"Pollution","de":"Verschmutzung"}
@@ -288,20 +316,22 @@
 {"k":"CATEGNS_PORTESERRURERIE","fr":"Porte/Serrurerie","en":"Door/Locks","de":"Tür/Schloss"}
 {"k":"CATEGNS_POSITION","fr":"Position","en":"Position","de":"Standort"}
 {"k":"CATEGNS_POUBELLE","fr":"Poubelle","en":"Bin","de":"Mülleimer"}
-{"k":"CATEGNS_POUBELLES","fr":"Poubelles","en":"","de":""}
+{"k":"CATEGNS_POUBELLES","fr":"Poubelles","en":"Dustbins","de":"Mülltonnen"}
 {"k":"CATEGNS_POUBELLEVERRE","fr":"Poubelle Verre","en":"Glass Recycling","de":"Glascontainer"}
 {"k":"CATEGNS_PROGRAMMEBBA","fr":"Programme BBA","en":"BBA Programme","de":"BBA-Programm"}
 {"k":"CATEGNS_PROJECTEUR","fr":"Projecteur","en":"Video projector","de":"Projektor"}
-{"k":"CATEGNS_PROPERT","fr":"Properté","en":"","de":""}
+{"k":"CATEGNS_PROPERT","fr":"Properté","en":"Cleanliness","de":"Sauberkeit"}
 {"k":"CATEGNS_PROPRET","fr":"Propreté","en":"Cleanliness","de":"Sauberkeit"}
 {"k":"CATEGNS_PROTECTION","fr":"Protection","en":"Safety measure","de":"Schutz"}
 {"k":"CATEGNS_PRTERRENDRE","fr":"Prêter/Rendre","en":"Lend or give","de":"Ausleihe/Rückg."}
+{"k":"CATEGNS_PUBLIER","fr":"Publier","en":"","de":""}
 {"k":"CATEGNS_PV","fr":"P&V","en":"P&V","de":"P&V"}
 {"k":"CATEGNS_QUAI","fr":"Quai","en":"Dock","de":"Anlegekai"}
 {"k":"CATEGNS_QUALITDELEAU","fr":"Qualité de l'eau","en":"Water quality","de":"Wasserqualität"}
 {"k":"CATEGNS_QUISAIT","fr":"Qui sait ?","en":"Who knows?","de":"Wer weiß es?"}
 {"k":"CATEGNS_RAMPE","fr":"Rampe","en":"Ramp","de":"Rampe"}
-{"k":"CATEGNS_RCOMPENSE","fr":"Récompense","en":"","de":""}
+{"k":"CATEGNS_RANDOMTESTENTRY","fr":"random test entry","en":"random test entry","de":"random test entry"}
+{"k":"CATEGNS_RCOMPENSE","fr":"Récompense","en":"Reward","de":"Belohnung"}
 {"k":"CATEGNS_RELAIS","fr":"Relais","en":"Clothes Recycling","de":"Kleidercontainer"}
 {"k":"CATEGNS_RESTAURANT","fr":"Restaurant","en":"Restaurant","de":"Restaurant"}
 {"k":"CATEGNS_RESTAURANTS","fr":"Restaurants","en":"Restaurants","de":"Restaurants"}
@@ -309,6 +339,8 @@
 {"k":"CATEGNS_RGLEMENT","fr":"Règlement","en":"Rules","de":"Ordnung"}
 {"k":"CATEGNS_RGLEMENTATION","fr":"Réglementation","en":"Regulations","de":"Regulierung"}
 {"k":"CATEGNS_RSEAU","fr":"Réseau","en":"Network","de":"Netz"}
+{"k":"CATEGNS_RSEAUXWIFI","fr":"Réseaux/WiFi","en":"","de":""}
+{"k":"CATEGNS_RSSFEED","fr":"RSS Feed","en":"","de":""}
 {"k":"CATEGNS_RUES","fr":"Rues","en":"Streets","de":"Straßen"}
 {"k":"CATEGNS_RVISIONEXAM","fr":"Révision/Exam","en":"Revision/Exams","de":"Lernen/Prüfung"}
 {"k":"CATEGNS_SAINT_TROPEZ","fr":"Saint-Tropez","en":"Saint-Tropez","de":"Saint-Tropez"}
@@ -339,7 +371,7 @@
 {"k":"CATEGNS_STOCKAGES","fr":"Stockages","en":"Storage areas","de":"Lager"}
 {"k":"CATEGNS_STUDENTCAR","fr":"Student car","en":"Student car","de":"Student car"}
 {"k":"CATEGNS_SUPERMARCH","fr":"Supermarché","en":"Supermarket","de":"Supermarkt"}
-{"k":"CATEGNS_SURETSECURIT","fr":"Sureté/Securité","en":"","de":""}
+{"k":"CATEGNS_SURETSECURIT","fr":"Sureté/Securité","en":"Security/Safety","de":"Sicherheit"}
 {"k":"CATEGNS_SUSHIPDF","fr":"Sushi PDF","en":"Sushi PDF","de":"Sushi PDF"}
 {"k":"CATEGNS_SUSHIRECETTE","fr":"Sushi recette","en":"Sushi recipe","de":"Sushi-Rezept"}
 {"k":"CATEGNS_SUSHIRESTAURANT","fr":"Sushi restaurant","en":"Sushi restaurant","de":"Sushi-Restaurant"}
@@ -350,12 +382,14 @@
 {"k":"CATEGNS_TESTCATEG_115867555","fr":"TESTCATEG_115867555","en":"TESTCATEG_115867555","de":"TESTCATEG_115867555"}
 {"k":"CATEGNS_TESTCATEG_115867555_2","fr":"TESTCATEG_115867555_2","en":"TESTCATEG_115867555_2","de":"TESTCATEG_115867555_2"}
 {"k":"CATEGNS_TLPHONIE","fr":"Téléphonie","en":"Telephony","de":"Telefonie"}
-{"k":"CATEGNS_TOILETTE","fr":"Toilette","en":"","de":""}
+{"k":"CATEGNS_TOILETTE","fr":"Toilette","en":"Toilets","de":"Toilette"}
 {"k":"CATEGNS_TOILETTES","fr":"Toilettes","en":"Toilets","de":"Toiletten"}
 {"k":"CATEGNS_TOTAL","fr":"Total","en":"Total","de":"Total"}
 {"k":"CATEGNS_TOTAL_DEMO","fr":"Total_demo","en":"Total_demo","de":"Total_demo"}
 {"k":"CATEGNS_TOURISME","fr":"Tourisme","en":"Tourism","de":"Tourismus"}
 {"k":"CATEGNS_TRACTRUEGRENETTE","fr":"Tract Rue Grenette","en":"Tract Rue Grenette","de":"Tract Rue Grenette"}
+{"k":"CATEGNS_TRAFFIQUER","fr":"Traffiquer","en":"","de":""}
+{"k":"CATEGNS_TRAFIC","fr":"Trafic","en":"","de":""}
 {"k":"CATEGNS_TRANSFORMATEUR","fr":"Transformateur","en":"Transformer","de":"Transformator"}
 {"k":"CATEGNS_TRANSPORTS","fr":"Transports","en":"Transportation","de":"Verkehrsmittel"}
 {"k":"CATEGNS_TRAVAUX","fr":"Travaux","en":"Construction works","de":"Arbeiten"}
@@ -366,20 +400,25 @@
 {"k":"CATEGNS_TROUV","fr":"Trouvé !","en":"Spotted!","de":"Gefunden!"}
 {"k":"CATEGNS_TURBINE","fr":"Turbine","en":"Turbine","de":"Turbine"}
 {"k":"CATEGNS_TWITTER","fr":"Twitter","en":"Twitter","de":"Twitter"}
+{"k":"CATEGNS_UBIANTSYNDICROOT","fr":"ubiant syndic root","en":"ubiant syndic root","de":"ubiant syndic root"}
 {"k":"CATEGNS_UNILIM","fr":"Unilim","en":"Unilim","de":"Unilim"}
 {"k":"CATEGNS_VACANCES","fr":"Vacances","en":"Holidays","de":"Ferien"}
+{"k":"CATEGNS_VEILLESINDUP","fr":"Veille Sindup","en":"","de":""}
 {"k":"CATEGNS_VENTILATION","fr":"Ventilation","en":"Ventilation","de":"Belüftung"}
+{"k":"CATEGNS_VENTILLATION","fr":"Ventilation","en":"Ventilation","de":"Lüftung"}
 {"k":"CATEGNS_VHICULES","fr":"Véhicules","en":"Vehicles","de":"Fahrzeuge"}
 {"k":"CATEGNS_VIDEDRESSING","fr":"Vide dressing","en":"Closet clean-out","de":"Trödelmarkt"}
 {"k":"CATEGNS_VIDEPLACARD","fr":"Vide placard","en":"Closet sale","de":"Trödelmarkt"}
-{"k":"CATEGNS_VIDOPROJECTEUR","fr":"Vidéo projecteur","en":"","de":""}
+{"k":"CATEGNS_VIDOPROJECTEUR","fr":"Vidéo projecteur","en":"Video projector","de":"Videoprojektor"}
 {"k":"CATEGNS_VIETUDIANTE","fr":"Vie étudiante","en":"Student life","de":"Studentenleben"}
 {"k":"CATEGNS_VIGILANCE","fr":"Vigilance","en":"Vigilance","de":"Wachsamkeit"}
-{"k":"CATEGNS_VILLAGEDELOUEST","fr":"Village de l'Ouest","en":"","de":""}
+{"k":"CATEGNS_VILLAGEDELOUEST","fr":"Village de l'Ouest","en":"Village de l'Ouest","de":"Village de l'Ouest"}
 {"k":"CATEGNS_VISIBILIT","fr":"Visibilité","en":"Visibility","de":"Sichtbarkeit"}
 {"k":"CATEGNS_VLO","fr":"Vélo","en":"Bikes","de":"Fahrrad"}
 {"k":"CATEGNS_VMC","fr":"VMC","en":"Ventilation Sys.","de":"Lüftung"}
 {"k":"CATEGNS_VOIDCAMPUS","fr":"VOIDCAMPUS","en":"VOIDCAMPUS","de":"VOIDCAMPUS"}
+{"k":"CATEGNS_VOIEDEDISPA","fr":"Voie de dispa.","en":"","de":""}
+{"k":"CATEGNS_VOIEDEDISPARITION","fr":"Voie de disparition","en":"","de":""}
 {"k":"CATEGNS_VOIESNAVIGABLES","fr":"Voies Navigables","en":"Navigable waterways","de":"Wasserstraßen"}
 {"k":"CATEGNS_VOITURE","fr":"Voiture","en":"Car-related","de":"Auto"}
 {"k":"CATEGNS_VOITURELEC","fr":"Voiture élec.","en":"Electric car","de":"E-Auto"}
@@ -388,7 +427,7 @@
 {"k":"CATEGNS_VOTECAMPUS","fr":"Vote Campus","en":"Campus vote","de":"Vote Campus"}
 {"k":"CATEGNS_VOTEFLASH","fr":"Vote flash","en":"Flash vote","de":"Flashvote"}
 {"k":"CATEGNS_VOTESUSHI","fr":"Vote Sushi","en":"Sushi vote","de":"Sushi-Abstimmung"}
-{"k":"CATEGNS_VOYAGE","fr":"Voyage","en":"","de":""}
+{"k":"CATEGNS_VOYAGE","fr":"Voyage","en":"Journey","de":"Reise"}
 {"k":"CATEGNS_VUDUWEB","fr":"Vu du web","en":"From the web","de":"Vu du web"}
 {"k":"CATEGNS_WEEK_END","fr":"Week-end","en":"Weekend","de":"Wochenende"}
 {"k":"CATEGNS_WIFI","fr":"Wifi","en":"Wifi","de":"WLAN"}
@@ -401,6 +440,8 @@
 {"k":"TRADCLINS_LYYTI_STATE_READ","fr":"Lu","en":"Read","de":"Gelesen"}
 {"k":"TRADCLINS_LYYTI_STATE_RESOLVED","fr":"Résolu","en":"Resolved","de":"Gelöst"}
 {"k":"TRADCLINS_LYYTI_STATE_STANDBY","fr":"En attente","en":"Pending","de":"Ausstehend"}
+{"k":"TRADCLINS_NOTIF_COPRO_SHARED","fr":"Votre gestionnaire a procédé au regroupement d'immeuble par copropriété","en":"","de":""}
+{"k":"TRADCLINS_NOTIF_COPRO_UNSHARED","fr":"Votre gestionnaire est passé à la gestion par immeubles distincts","en":"","de":""}
 {"k":"TRADCLINS_NOTIF_LYYTI_FOLLOWED_COMMENT","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert"}
 {"k":"TRADCLINS_NOTIF_LYYTI_STATUS_CHANGED","fr":"Le statut de {{title}} est passé à {{state}}","en":"\"{{title}}\"'s status has changed to {{state}}","de":"Der Status von {{title}} wurde zu {{state}} geändert"}
 {"k":"TRADCLINS_NOTIF_MGR_ANSWER","fr":"{{username}} a publié un commentaire sur {{title}}","en":"{{username}} added a new comment to {{title}}","de":"{{username}} hat einen Kommentar zu {{title}} veröffentlicht"}
