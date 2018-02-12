@@ -9,3 +9,6 @@ lib:
 validate:
 	@./tools/validate.js && echo "dic.jsonl is ok"
 
+jenkins: 
+	@$(mocha) --reporter mocha-jenkins-reporter --colors --reporter-options junit_report_path=./test-reports/report.xml test/lib
+	@./tools/validate.js && echo "dic.jsonl is ok"
