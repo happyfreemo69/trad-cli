@@ -214,6 +214,7 @@
 {"k":"CATEGNS_INCIDENT","fr":"Incident","en":"New Issue","de":"Vorfall"}
 {"k":"CATEGNS_INCIDENTLIVRAISON","fr":"Incident Livraison","en":"Incident Livraison","de":"Vorfall Lieferung"}
 {"k":"CATEGNS_INCIDENTS","fr":"Incidents","en":"Incidents","de":"Vorfälle"}
+{"k":"CATEGNS_INCIDENTSCAMPUS","fr":"Incidents campus","en":"","de":""}
 {"k":"CATEGNS_INCUBATEUR","fr":"Incubateur","en":"Incubator","de":"Inkubator"}
 {"k":"CATEGNS_INFORMATION","fr":"Information","en":"Information","de":"Information"}
 {"k":"CATEGNS_INFORMATIONS","fr":"Informations","en":"News","de":"Informationen"}
@@ -453,6 +454,7 @@
 {"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_CITY","fr":"{{username}} a publié {{title}}","en":"{{username}} posted {{title}}","de":"{{username}} hat {{title}} veröffentlicht"}
 {"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht"}
 {"k":"TRADCLINS_NOTIF_NEW_FLAT_ISSUE","fr":"{{username}} a signalé un incident de type {{type}} dans votre appartement du {{address}}","en":"{{username}} has reported an issue of type {{type}} in your flat {{address}}","de":"{{username}} hat einen Vorfall vom Typ {{type}} in Ihrer Wohnung mit der Adresse {{address}} gemeldet"}
+{"k":"TRADCLINS_NOTIF_NEW_FMLYYTI","fr":"{{username}} a publié {{title}}","en":"{{username}} posted {{title}}","de":"{{username}} hat {{title}} veröffentlicht"}
 {"k":"TRADCLINS_NOTIF_NEW_ISSUE_BUILDING","fr":"{{username}} a signalé un incident de type {{type}} dans votre immeuble du {{address}}","en":"{{username}} has reported an issue of type {{type}} in your building {{address}}","de":"{{username}}hat einen Vorfall vom Typ {{type}} in Ihrem Gebäude mit der Adresse {{address}} gemeldet"}
 {"k":"TRADCLINS_NOTIF_NEW_MESSAGE","fr":"{{username}} vous a envoyé un nouveau message : {{title}}","en":"{{username}} sent you a new message: {{title}}","de":"{{username}} hat Ihnen eine neue Nachricht gesendet: {{title}}"}
 {"k":"TRADCLINS_NOTIF_NEW_MESSAGE_ON_LYYTI","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert"}
