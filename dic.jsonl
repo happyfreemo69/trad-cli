@@ -61,7 +61,9 @@
 {"k":"CATEGNS_BOITEPOSTALE","fr":"Boite postale","en":"Mailbox","de":"Postfach"}
 {"k":"CATEGNS_BORNELEC","fr":"Borne élec.","en":"Charge point","de":"Stromtankstelle"}
 {"k":"CATEGNS_BORNELECTRIQUE","fr":"Borne électrique","en":"Charge point","de":"Stromtankstelle"}
+{"k":"CATEGNS_BOUCHON","fr":"Bouchon","en":"","de":""}
 {"k":"CATEGNS_BOULANGERIE","fr":"Boulangerie","en":"Bakery","de":"Bäckerei"}
+{"k":"CATEGNS_BOUTEILLE","fr":"Bouteille","en":"","de":""}
 {"k":"CATEGNS_BRACONNAGE","fr":"Braconnage","en":"","de":""}
 {"k":"CATEGNS_BRICOLAGE","fr":"Bricolage","en":"DIY","de":"Heimwerken"}
 {"k":"CATEGNS_BTIMENT","fr":"Bâtiment","en":"Building","de":"Gebäude"}
@@ -129,6 +131,7 @@
 {"k":"CATEGNS_CROIXROUGE","fr":"Croix Rouge","en":"","de":""}
 {"k":"CATEGNS_CTG","fr":"CTG","en":"","de":""}
 {"k":"CATEGNS_CUISINE","fr":"Cuisine","en":"Cooking","de":"Küche"}
+{"k":"CATEGNS_CUVE","fr":"Cuve","en":"","de":""}
 {"k":"CATEGNS_DANGER","fr":"Danger","en":"","de":""}
 {"k":"CATEGNS_DATESDESPORTESOUVERTES","fr":"Dates des portes ouvertes","en":"Open House Days","de":"Tage der offenen Tür"}
 {"k":"CATEGNS_DCHET","fr":"Déchet","en":"Waste","de":"Abfall"}
@@ -183,6 +186,7 @@
 {"k":"CATEGNS_EXTRIEUR","fr":"Extérieur","en":"Exterior","de":"Außen"}
 {"k":"CATEGNS_FACEBOOK","fr":"Facebook","en":"Facebook","de":"Facebook"}
 {"k":"CATEGNS_FENTREVOLET","fr":"Fenêtre/Volet","en":"Windows/Shutters","de":"Fenster/Laden"}
+{"k":"CATEGNS_FERMENTATION","fr":"Fermentation","en":"","de":""}
 {"k":"CATEGNS_FERREPASSER","fr":"Fer à repasser","en":"Iron","de":"Bügeleisen"}
 {"k":"CATEGNS_FETEDESLUMIERES","fr":"feteDesLumieres","en":"feteDesLumieres","de":"feteDesLumieres"}
 {"k":"CATEGNS_FEU","fr":"Feu","en":"Fire","de":"Brand"}
@@ -195,6 +199,7 @@
 {"k":"CATEGNS_FOYERSTUDIANTS","fr":"Foyers étudiants","en":"Halls of residence","de":"Wohnheime"}
 {"k":"CATEGNS_FTE","fr":"Fête","en":"Party","de":"Fest"}
 {"k":"CATEGNS_FTEDESLUMIRES","fr":"Fête des Lumières","en":"Fête des Lumières","de":"Fête des Lumières"}
+{"k":"CATEGNS_FUITE","fr":"Fuite","en":"","de":""}
 {"k":"CATEGNS_FUITEDEAU","fr":"Fuite d'eau","en":"Water leak","de":"Wasserleck"}
 {"k":"CATEGNS_GARDECORPS","fr":"Garde corps","en":"Handrail","de":"Geländer"}
 {"k":"CATEGNS_GARDIENNAGE","fr":"Gardiennage","en":"Caretaking","de":"Bewachung"}
@@ -304,6 +309,8 @@
 {"k":"CATEGNS_MONCOMPTE","fr":"Mon Compte","en":"My account","de":"Mein Konto"}
 {"k":"CATEGNS_MONPOST","fr":"Mon post","en":"My post","de":"Mein Post"}
 {"k":"CATEGNS_MONQUARTIER","fr":"Mon quartier","en":"","de":""}
+{"k":"CATEGNS_MOTHENNESSY","fr":"Moët Hennessy","en":"","de":""}
+{"k":"CATEGNS_MOTHENNESSYVINSETSPIRITUEUX","fr":"Moët Hennessy Vins et Spiritueux","en":"","de":""}
 {"k":"CATEGNS_MSCMBA","fr":"Msc & MBA","en":"MSc & MBA","de":"M.Sc. & MBA"}
 {"k":"CATEGNS_MTROPOLE","fr":"Métropole","en":"Metropolis","de":"Metropole"}
 {"k":"CATEGNS_MULTIBURO","fr":"Multiburo","en":"","de":""}
@@ -368,6 +375,7 @@
 {"k":"CATEGNS_QUAI","fr":"Quai","en":"Dock","de":"Anlegekai"}
 {"k":"CATEGNS_QUALITDELEAU","fr":"Qualité de l'eau","en":"Water quality","de":"Wasserqualität"}
 {"k":"CATEGNS_QUISAIT","fr":"Qui sait ?","en":"Who knows?","de":"Wer weiß es?"}
+{"k":"CATEGNS_RAISIN","fr":"Raisin","en":"","de":""}
 {"k":"CATEGNS_RAMPE","fr":"Rampe","en":"Ramp","de":"Rampe"}
 {"k":"CATEGNS_RANDOMTESTENTRY","fr":"random test entry","en":"random test entry","de":"random test entry"}
 {"k":"CATEGNS_RCEPTION","fr":"Réception","en":"","de":""}
@@ -424,9 +432,11 @@
 {"k":"CATEGNS_TAXI","fr":"Taxi","en":"","de":""}
 {"k":"CATEGNS_TCL","fr":"TCL","en":"TCL","de":"TCL"}
 {"k":"CATEGNS_TEMP_SHIT","fr":"temp_shit","en":"temp_shit","de":"temp_shit"}
+{"k":"CATEGNS_TEMPRATURE","fr":"Température","en":"","de":""}
 {"k":"CATEGNS_TERRASSE","fr":"Terrasse","en":"Terrace","de":"Terrasse"}
 {"k":"CATEGNS_TESTCATEG_115867555","fr":"TESTCATEG_115867555","en":"TESTCATEG_115867555","de":"TESTCATEG_115867555"}
 {"k":"CATEGNS_TESTCATEG_115867555_2","fr":"TESTCATEG_115867555_2","en":"TESTCATEG_115867555_2","de":"TESTCATEG_115867555_2"}
+{"k":"CATEGNS_TIQUETTE","fr":"Étiquette","en":"","de":""}
 {"k":"CATEGNS_TLPHONIE","fr":"Téléphonie","en":"Telephony","de":"Telefonie"}
 {"k":"CATEGNS_TOILETTE","fr":"Toilette","en":"Toilets","de":"Toilette"}
 {"k":"CATEGNS_TOILETTES","fr":"Toilettes","en":"Toilets","de":"Toiletten"}
@@ -494,7 +504,7 @@
 {"k":"TRADCLINS_NOTIF_LYYTI_FOLLOWED_COMMENT","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert"}
 {"k":"TRADCLINS_NOTIF_LYYTI_STATUS_CHANGED","fr":"Le statut de {{title}} est passé à {{state}}","en":"\"{{title}}\"'s status has changed to {{state}}","de":"Der Status von {{title}} wurde zu {{state}} geändert"}
 {"k":"TRADCLINS_NOTIF_MGR_ANSWER","fr":"{{username}} a publié un commentaire sur {{title}}","en":"{{username}} added a new comment to {{title}}","de":"{{username}} hat einen Kommentar zu {{title}} veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_MGR_ANSWER_FMLYYTI","fr":"{{username}} a répondu à votre demande {{title}}","en":"{{username}} responded to your request {{title}}","de":"{{username}} hat auf Ihre Frage {{title}} geantwortet"}
+{"k":"TRADCLINS_NOTIF_MGR_ANSWER_FMLYYTI","fr":"{{username}} a publié un commentaire sur {{title}}","en":"{{username}} added a new comment to {{title}}","de":"{{username}} hat einen Kommentar zu {{title}} geändert"}
 {"k":"TRADCLINS_NOTIF_MGR_ANSWER_PRIVATE_LYYTI","fr":"{{username}} a répondu à votre demande {{title}}","en":"{{username}} responded to your request {{title}}","de":"{{username}} hat auf Ihre Frage {{title}} geantwortet"}
 {"k":"TRADCLINS_NOTIF_MODERATED_LYYTI","fr":"{{title}} a été modéré par la communauté","en":"{{title}} has been moderated by the community","de":"{{title}} wurde von der Community moderiert"}
 {"k":"TRADCLINS_NOTIF_NEW_COMMENT","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert"}

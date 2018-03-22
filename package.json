@@ -1,6 +1,6 @@
 {
     "name": "trad-cli",
-    "version": "1.1.3",
+    "version": "1.1.5",
     "description": "tradcli",
     "author": "mpech",
     "dependencies": {
