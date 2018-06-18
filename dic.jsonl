@@ -1,531 +1,601 @@
-{"k":"CATEGNS_ACCIDENT","fr":"Accident","en":"","de":""}
-{"k":"CATEGNS_ACCSINTERNET","fr":"Accès internet","en":"Internet access","de":"Internet"}
-{"k":"CATEGNS_ACCSPONTON","fr":"Accès Ponton","en":"Access to pontoon","de":"Zugang Ponton"}
-{"k":"CATEGNS_ACCSRIVERAINS","fr":"Accès riverains","en":"","de":""}
-{"k":"CATEGNS_ACCUEIL","fr":"Accueil","en":"Reception","de":"Empfang"}
-{"k":"CATEGNS_ACCUEILDERSIDENCE","fr":"Accueil de résidence","en":"Reception desk","de":"Hausempfang"}
-{"k":"CATEGNS_ACCUEILRSIDENCE","fr":"Accueil résidence","en":"\"Reception desk\"","de":"Hausempfang"}
-{"k":"CATEGNS_ACHATSGROUPS","fr":"Achats groupés","en":"Group buying","de":"Gruppenkäufe"}
-{"k":"CATEGNS_ACHATVENTE","fr":"Achat/vente","en":"Sale/purchase","de":"Kauf/Verkauf"}
-{"k":"CATEGNS_ACTU1","fr":"Actu 1","en":"","de":""}
-{"k":"CATEGNS_ACTU2","fr":"Actu 2","en":"","de":""}
-{"k":"CATEGNS_ACTU3","fr":"Actu 3","en":"","de":""}
-{"k":"CATEGNS_ACTUALITS","fr":"Actualités","en":"News","de":"Neues"}
-{"k":"CATEGNS_ADFINIR","fr":"A définir","en":"To be determined","de":"Festzulegen"}
-{"k":"CATEGNS_ADMINISTRATION","fr":"Administration","en":"Administration","de":"Verwaltung"}
-{"k":"CATEGNS_AFFRANCHISSEMENT","fr":"Affranchissement","en":"Franking","de":"Porto"}
-{"k":"CATEGNS_AFTERWORK","fr":"Afterwork","en":"Afterwork","de":"Afterwork"}
-{"k":"CATEGNS_AGENDA","fr":"Agenda","en":"Agenda","de":"Kalender"}
-{"k":"CATEGNS_AIREDELIVRAISON","fr":"Aire de Livraison","en":"Delivery area","de":"Lieferzone"}
-{"k":"CATEGNS_ALPTIS","fr":"Alptis","en":"Alptis","de":"Alptis"}
-{"k":"CATEGNS_ALTERNATEUR","fr":"Alternateur","en":"Alternator","de":"Generator"}
-{"k":"CATEGNS_AMARRAGE","fr":"Amarrage","en":"Mooring","de":"Vertäuung"}
-{"k":"CATEGNS_AMBASSADEURS","fr":"Ambassadeurs","en":"Ambassadors","de":"Botschafter"}
-{"k":"CATEGNS_ANGERSVILLACTU","fr":"Angers Villactu","en":"","de":""}
-{"k":"CATEGNS_ANIMALLOCALIS","fr":"Animal localisé","en":"","de":""}
-{"k":"CATEGNS_ANIMAUX","fr":"Animaux","en":"Animals","de":"Tiere"}
-{"k":"CATEGNS_ANIMAUXEXPOSS","fr":"Animaux exposés","en":"","de":""}
-{"k":"CATEGNS_APRILMARINE","fr":"April marine","en":"April Marine","de":"April marine"}
-{"k":"CATEGNS_ARCELORMITTAL","fr":"Arcelor Mittal","en":"Arcelor Mittal","de":"Arcelor Mittal"}
-{"k":"CATEGNS_ARRTDEBUS","fr":"Arrêt de bus","en":"Bus stop","de":"Bushaltestelle"}
-{"k":"CATEGNS_ARRTDETAXI","fr":"Arrêt de taxi","en":"Taxi stand","de":"Taxistand"}
-{"k":"CATEGNS_ARTISANS","fr":"Artisans","en":"Artisans","de":"Handwerker"}
-{"k":"CATEGNS_ASCENSEUR","fr":"Ascenseur","en":"Elevator","de":"Aufzug"}
-{"k":"CATEGNS_ASPIRATEUR","fr":"Aspirateur","en":"Vacuum cleaner","de":"Staubsauger"}
-{"k":"CATEGNS_ASSOCIATIONS","fr":"Associations","en":"Associations","de":"Vereine"}
-{"k":"CATEGNS_ATABLE","fr":"A table!","en":"Food for thought!","de":"A table!"}
-{"k":"CATEGNS_ATELIERS","fr":"Ateliers","en":"Workshops","de":"Workshops"}
-{"k":"CATEGNS_AUDIO","fr":"Audio","en":"Audio","de":"Audio"}
-{"k":"CATEGNS_AUDIOVISUEL","fr":"Audiovisuel","en":"Audiovisual","de":"Medien"}
-{"k":"CATEGNS_AUTRE","fr":"Autre","en":"Other","de":"Sonstige"}
-{"k":"CATEGNS_AUTRES","fr":"Autres","en":"Others","de":"Sonstiges"}
-{"k":"CATEGNS_BABY_SITTING","fr":"Baby-sitting","en":"Babysitting","de":"Babysitting"}
-{"k":"CATEGNS_BABYSITTING","fr":"Baby-sitting","en":"Babysitting","de":"Babysitting"}
-{"k":"CATEGNS_BADGE","fr":"Badge","en":"","de":""}
-{"k":"CATEGNS_BADGEBIP","fr":"Badge / Bip","en":"ID card/remote control","de":"Badge / Bip"}
-{"k":"CATEGNS_BANQUES","fr":"Banques","en":"Banks","de":"Banken"}
-{"k":"CATEGNS_BARRAGE","fr":"Barrage","en":"Barricade","de":"Straßensperre"}
-{"k":"CATEGNS_BARRIRE","fr":"Barrière","en":"Dam","de":"Schranke"}
-{"k":"CATEGNS_BARRIREAUTO","fr":"Barrière auto","en":"Car barrier","de":"Autoschranke"}
-{"k":"CATEGNS_BARRIREPARKING","fr":"Barrière/Parking","en":"Barrier/Car Park","de":"Schranke/Parkplatz"}
-{"k":"CATEGNS_BATIMENTAVECSERVICESETACTU","fr":"batiment avec services et actu","en":"","de":""}
-{"k":"CATEGNS_BDO_DEMO","fr":"BDO_demo","en":"BDO_demo","de":"BDO_demo"}
-{"k":"CATEGNS_BENNECARTON","fr":"Benne Carton","en":"Cardboard dumpster","de":"Papiertonne"}
-{"k":"CATEGNS_BERGE","fr":"Berge","en":"Riverbank","de":"Ufer"}
-{"k":"CATEGNS_BIBLIOTHQUE","fr":"Bibliothèque","en":"Library","de":"Bibliothek"}
-{"k":"CATEGNS_BICYCLETTE","fr":"bicyclette","en":"bicycle","de":"Fahrrad"}
-{"k":"CATEGNS_BIENTRE","fr":"Bien-être","en":"Well-being","de":"Wohlbefinden"}
-{"k":"CATEGNS_BILLETTERIE","fr":"Billetterie","en":"Ticket office","de":"Ticketkasse"}
-{"k":"CATEGNS_BLANCHISSERIE","fr":"Blanchisserie","en":"Laundry","de":"Wäscherei"}
-{"k":"CATEGNS_BOITEAUXLETTRES","fr":"Boite aux lettres","en":"Mailbox","de":"Briefkasten"}
-{"k":"CATEGNS_BOITEPOSTALE","fr":"Boite postale","en":"Mailbox","de":"Postfach"}
-{"k":"CATEGNS_BORNELEC","fr":"Borne élec.","en":"Charge point","de":"Stromtankstelle"}
-{"k":"CATEGNS_BORNELECTRIQUE","fr":"Borne électrique","en":"Charge point","de":"Stromtankstelle"}
-{"k":"CATEGNS_BOUCHON","fr":"Bouchon","en":"","de":""}
-{"k":"CATEGNS_BOULANGERIE","fr":"Boulangerie","en":"Bakery","de":"Bäckerei"}
-{"k":"CATEGNS_BOUTEILLE","fr":"Bouteille","en":"","de":""}
-{"k":"CATEGNS_BRACONNAGE","fr":"Braconnage","en":"","de":""}
-{"k":"CATEGNS_BRICOLAGE","fr":"Bricolage","en":"DIY","de":"Heimwerken"}
-{"k":"CATEGNS_BTIMENT","fr":"Bâtiment","en":"Building","de":"Gebäude"}
-{"k":"CATEGNS_BUILDINGBOUYGUES","fr":"BuildingBouygues","en":"BuildingBouygues","de":"BuildingBouygues"}
-{"k":"CATEGNS_BUILDINGTI","fr":"BuildingTI","en":"BuildingTI","de":"BuildingTI"}
-{"k":"CATEGNS_BULLETINMTO","fr":"Bulletin Météo","en":"Weather forecast","de":"Wetterbericht"}
-{"k":"CATEGNS_BUREAUX","fr":"Bureaux","en":"","de":""}
-{"k":"CATEGNS_BUSINESSGAME","fr":"Business Game","en":"Business Game","de":"Business Game"}
-{"k":"CATEGNS_BUSINESSWEEK","fr":"Business week","en":"Business week","de":"Business week"}
-{"k":"CATEGNS_C10","fr":"C10","en":"C10","de":"C10"}
-{"k":"CATEGNS_C11","fr":"C11","en":"C11","de":"C11"}
-{"k":"CATEGNS_C9","fr":"C9","en":"C9","de":"C9"}
-{"k":"CATEGNS_CAFTRIA","fr":"Cafétéria","en":"Cafeteria","de":"Cafeteria"}
-{"k":"CATEGNS_CAIMMO_DEMO","fr":"CaImmo_demo","en":"CaImmo_demo","de":"CaImmo_demo"}
-{"k":"CATEGNS_CAIMMOBILIER","fr":"CA Immobilier","en":"CA Immobilier","de":"CA Immobilier"}
-{"k":"CATEGNS_CAISSE","fr":"Caisse","en":"Checkout","de":"Kasse"}
-{"k":"CATEGNS_CAMPUSCLEAN","fr":"Campus clean","en":"Clean campus","de":"Campus clean"}
-{"k":"CATEGNS_CANALSUP","fr":"CanalSup","en":"CanalSup","de":"CanalSup"}
-{"k":"CATEGNS_CARBURANT","fr":"Carburant","en":"Fuel","de":"Kraftstoff"}
-{"k":"CATEGNS_CARROSSERIE","fr":"Carrosserie","en":"","de":""}
-{"k":"CATEGNS_CAVEGARAGE","fr":"Cave/Garage","en":"Basement storage space/Garage","de":"Keller/Garage"}
-{"k":"CATEGNS_CHAMPSSURMARNES","fr":"Champs sur Marnes","en":"Champs sur Marnes","de":"Champs-sur-Marne"}
-{"k":"CATEGNS_CHANTIEROK","fr":"Chantier Ok","en":"","de":""}
-{"k":"CATEGNS_CHATEAUFORM","fr":"ChateauForm","en":"ChateauForm","de":"ChateauForm"}
-{"k":"CATEGNS_CHAUFFAGE","fr":"Chauffage","en":"Heating","de":"Heizung"}
-{"k":"CATEGNS_CHAUFFAGE_ECS","fr":"Chauffage - ECS","en":"Heating - ECS","de":"Heizung - Warmwasser"}
-{"k":"CATEGNS_CHAUFFAGECLIM","fr":"Chauffage/Clim","en":"Heating - a/c","de":"Heizung/Klima"}
-{"k":"CATEGNS_CHAUSSE","fr":"Chaussée","en":"Roadway","de":"Straße"}
-{"k":"CATEGNS_CHEATING","fr":"Cheating","en":"Cheating","de":"Cheating"}
-{"k":"CATEGNS_CHELLECHAFAUD","fr":"Échelle/Échafaud.","en":"Ladder/Scaffold","de":"Leitern/Gerüste"}
-{"k":"CATEGNS_CIRCUAUTO","fr":"Circu. auto","en":"","de":""}
-{"k":"CATEGNS_CIRCULATION","fr":"Circulation","en":"Traffic route","de":"Verkehr"}
-{"k":"CATEGNS_CIRCUPITONNE","fr":"Circu. piètonne","en":"","de":""}
-{"k":"CATEGNS_CITY","fr":"CITY","en":"CITY","de":"CITY"}
-{"k":"CATEGNS_CITYLITY","fr":"CityLity","en":"CityLity","de":"CityLity"}
-{"k":"CATEGNS_CLAIRAGE","fr":"Éclairage","en":"Public lighting","de":"Beleuchtung"}
-{"k":"CATEGNS_CLASSEMENTS","fr":"Classements","en":"Rankings","de":"Kurseinteilung"}
-{"k":"CATEGNS_CLIM","fr":"Clim","en":"a/c","de":"Klimaanlage"}
-{"k":"CATEGNS_CLIMATISATION","fr":"Climatisation","en":"Air conditioning","de":"Klimatisierung"}
-{"k":"CATEGNS_CLINE","fr":"Céline","en":"","de":""}
-{"k":"CATEGNS_CNR","fr":"CNR","en":"CNR","de":"CNR"}
-{"k":"CATEGNS_CO_ACTIVIT","fr":"Co-activité","en":"Coordinated activity","de":"Gruppenaktiv."}
-{"k":"CATEGNS_CO_VOITURAGE","fr":"Co-Voiturage","en":"Car-sharing","de":"Car-Sharing"}
-{"k":"CATEGNS_COLOCATION","fr":"Colocation","en":"Flat-share","de":"WG"}
-{"k":"CATEGNS_COMMERCES","fr":"Commerces","en":"Shops","de":"Geschäfte"}
-{"k":"CATEGNS_COMMUNIQUER","fr":"Communiquer","en":"Communicate","de":"Mitteilen"}
-{"k":"CATEGNS_COMPORTEMENT","fr":"Comportement","en":"","de":""}
-{"k":"CATEGNS_COMPORTEMENTINNA","fr":"Comportement inna.","en":"","de":""}
-{"k":"CATEGNS_COMPOST","fr":"Compost","en":"Compost","de":"Kompost"}
-{"k":"CATEGNS_CONCOURSPASS","fr":"Concours PASS","en":"Concours PASS","de":"Concours PASS"}
-{"k":"CATEGNS_CONFORT","fr":"Confort","en":"Comfort","de":"Komfort"}
-{"k":"CATEGNS_CONRLEACCS","fr":"Conrôle accès","en":"Access control","de":"Zugriffskontrolle"}
-{"k":"CATEGNS_CONTAINER_ISSUE","fr":"container_issue","en":"container_issue","de":"container_issue"}
-{"k":"CATEGNS_CONTRLEACCS","fr":"Contrôle accès","en":"Access control","de":"Zugriffskontrolle"}
-{"k":"CATEGNS_CONTRLEDACCS","fr":"Contrôle d'accès","en":"Access control","de":"Zugriffskontrolle"}
-{"k":"CATEGNS_CONTRLEDESACCS","fr":"Contrôle des accès","en":"Access control","de":"Zugriffskontrolle"}
-{"k":"CATEGNS_CONTROLEDACCS","fr":"Controle d'accès","en":"Access control","de":"Zugriffskontrolle"}
-{"k":"CATEGNS_CONVOYAGE","fr":"Convoyage","en":"Driveaway","de":"Fahrservice"}
-{"k":"CATEGNS_COULOIR","fr":"Couloir","en":"Hallway","de":"Gang"}
-{"k":"CATEGNS_COUPDEPOUCE","fr":"Coup de pouce","en":"Helping hand","de":"Coup de pouce"}
-{"k":"CATEGNS_COURRIER","fr":"Courrier","en":"Mail","de":"Post"}
-{"k":"CATEGNS_COURS","fr":"Cours","en":"Lessons","de":"Kurs"}
-{"k":"CATEGNS_COVOITURAGE","fr":"Covoiturage","en":"Car-sharing","de":"Car-Sharing"}
-{"k":"CATEGNS_CRAN","fr":"Écran","en":"Screen","de":"Bildschirm"}
-{"k":"CATEGNS_CROIXROUGE","fr":"Croix Rouge","en":"","de":""}
-{"k":"CATEGNS_CTG","fr":"CTG","en":"","de":""}
-{"k":"CATEGNS_CUISINE","fr":"Cuisine","en":"Cooking","de":"Küche"}
-{"k":"CATEGNS_CUVE","fr":"Cuve","en":"","de":""}
-{"k":"CATEGNS_DANGER","fr":"Danger","en":"","de":""}
-{"k":"CATEGNS_DATESDESPORTESOUVERTES","fr":"Dates des portes ouvertes","en":"Open House Days","de":"Tage der offenen Tür"}
-{"k":"CATEGNS_DCHET","fr":"Déchet","en":"Waste","de":"Abfall"}
-{"k":"CATEGNS_DCHETS","fr":"Déchets","en":"Waste","de":"Abfälle"}
-{"k":"CATEGNS_DCHTERIE","fr":"Déchèterie","en":"Recycle Center","de":"Recyclinghof"}
-{"k":"CATEGNS_DGRADATION","fr":"Dégradation","en":"Damage","de":"Beschädigung"}
-{"k":"CATEGNS_DGRADATIONS","fr":"Dégradations","en":"Damage","de":"Beschädigungen"}
-{"k":"CATEGNS_DIVERS","fr":"Divers","en":"Misc.","de":"Anderes"}
-{"k":"CATEGNS_DOCUMENTATION","fr":"Documentation","en":"Documentation","de":"Dokumentation"}
-{"k":"CATEGNS_DOCUMENTCAMPUS","fr":"Document Campus","en":"Campus Document","de":"Dokument Campus"}
-{"k":"CATEGNS_DOCUMENTS","fr":"Documents","en":"Documents","de":"Dokumente"}
-{"k":"CATEGNS_DOUCHES","fr":"Douches","en":"Showers","de":"Duschen"}
-{"k":"CATEGNS_DRAPSERVIETTE","fr":"Drap/Serviette","en":"","de":""}
-{"k":"CATEGNS_DTRIORATION","fr":"Détérioration","en":"Deterioration","de":"Beschädigung"}
-{"k":"CATEGNS_E_SPORT","fr":"e-sport","en":"e-sport","de":"E-Sport"}
-{"k":"CATEGNS_EAU","fr":"Eau","en":"Water","de":"Wasser"}
-{"k":"CATEGNS_EAUCHAUDE","fr":"Eau chaude","en":"Hot water","de":"Warmes Wasser"}
-{"k":"CATEGNS_EAUPOTABLE","fr":"Eau potable","en":"Drinking water","de":"Trinkwasser"}
-{"k":"CATEGNS_ECHAFAUDAGES","fr":"Echafaudages","en":"Scaffolding","de":"Gerüste"}
-{"k":"CATEGNS_ECLAIRAGE","fr":"Eclairage","en":"Lighting","de":"Beleuchtung"}
-{"k":"CATEGNS_ECLUSE","fr":"Ecluse","en":"Lock","de":"Schleuse"}
-{"k":"CATEGNS_ECO_CITOYEN","fr":"Eco-citoyen","en":"Eco-citizenship","de":"Öko-Bürger"}
-{"k":"CATEGNS_ECOTIME","fr":"Eco time","en":"Eco time","de":"Eco time"}
-{"k":"CATEGNS_ECS","fr":"ECS","en":"ECS","de":"Warmwasser"}
-{"k":"CATEGNS_ELECTROMNAGER","fr":"Electroménager","en":"Electrical appliances","de":"Elektrogerät"}
-{"k":"CATEGNS_ELEVATOR","fr":"Barrière auto","en":"Car barrier","de":"Autoschranke"}
-{"k":"CATEGNS_ENCOMBRANTS","fr":"Encombrants","en":"Bulky waste","de":"Sperrmüll"}
-{"k":"CATEGNS_ENEDIS","fr":"enedis","en":"enedis","de":"enedis"}
-{"k":"CATEGNS_ENEDISCONTRLE","fr":"Enedis contrôle","en":"","de":""}
-{"k":"CATEGNS_ENGIE","fr":"Engie","en":"Engie","de":"Engie"}
-{"k":"CATEGNS_ENGINSMATRIEL","fr":"Engins/Matériel","en":"Machines/equipment","de":"Geräte/Material"}
-{"k":"CATEGNS_ENTRAIDE","fr":"Entraide","en":"Mutual aid","de":"Hilfestellung"}
-{"k":"CATEGNS_ENV1","fr":"Env 1","en":"","de":""}
-{"k":"CATEGNS_ENV2","fr":"Env 2","en":"","de":""}
-{"k":"CATEGNS_ENV3","fr":"Env 3","en":"","de":""}
-{"k":"CATEGNS_ENV4","fr":"Env 4","en":"","de":""}
-{"k":"CATEGNS_ENV5","fr":"Env 5","en":"","de":""}
-{"k":"CATEGNS_ENV6","fr":"Env 6","en":"","de":""}
-{"k":"CATEGNS_EOLIEN","fr":"Eolien","en":"Wind turbine","de":"Windkraft"}
-{"k":"CATEGNS_EPI","fr":"EPI","en":"PPE","de":"Schutzausrüstung"}
-{"k":"CATEGNS_ESCALATOR","fr":"Escalator","en":"Escalator","de":"Rolltreppe"}
-{"k":"CATEGNS_ESPACESVERT","fr":"Espaces vert","en":"Green spaces","de":"Grünflächen"}
-{"k":"CATEGNS_ESPACESVERTS","fr":"Espaces verts","en":"Green spaces","de":"Grünflächen"}
-{"k":"CATEGNS_ESPACEVERTS","fr":"Espace verts","en":"Green spaces","de":"Grünflächen"}
-{"k":"CATEGNS_ESPIBAL","fr":"espi bal","en":"espi bal","de":"espi bal"}
-{"k":"CATEGNS_ESPITERTIAIRE","fr":"ESPI tertiaire","en":"ESPI tertiaire","de":"ESPI tertiaire"}
-{"k":"CATEGNS_EVACUATION","fr":"Evacuation","en":"Evacuation","de":"Abfluss"}
-{"k":"CATEGNS_EVENTS","fr":"events","en":"events","de":"Events"}
-{"k":"CATEGNS_EVNEMENT","fr":"Evènement","en":"Event","de":"Ereignis"}
-{"k":"CATEGNS_EVNEMENTS","fr":"Evénements","en":"Events","de":"Ereignisse"}
-{"k":"CATEGNS_EXTINCTEURFEU","fr":"Extincteur feu","en":"Fire extinguisher","de":"Feuerlöscher"}
-{"k":"CATEGNS_EXTRIEUR","fr":"Extérieur","en":"Exterior","de":"Außen"}
-{"k":"CATEGNS_FACEBOOK","fr":"Facebook","en":"Facebook","de":"Facebook"}
-{"k":"CATEGNS_FENTREVOLET","fr":"Fenêtre/Volet","en":"Windows/Shutters","de":"Fenster/Laden"}
-{"k":"CATEGNS_FERMENTATION","fr":"Fermentation","en":"","de":""}
-{"k":"CATEGNS_FERREPASSER","fr":"Fer à repasser","en":"Iron","de":"Bügeleisen"}
-{"k":"CATEGNS_FETEDESLUMIERES","fr":"feteDesLumieres","en":"feteDesLumieres","de":"feteDesLumieres"}
-{"k":"CATEGNS_FEU","fr":"Feu","en":"Fire","de":"Brand"}
-{"k":"CATEGNS_FIDLIT","fr":"Fidélité","en":"Loyalty","de":"Treue"}
-{"k":"CATEGNS_FISSURE","fr":"Fissure","en":"Crack","de":"Riss"}
-{"k":"CATEGNS_FLAT","fr":"flat","en":"FLAT","de":"FLAT"}
-{"k":"CATEGNS_FLEURISTE","fr":"Fleuriste","en":"Florist","de":"Blumengeschäft"}
-{"k":"CATEGNS_FLEXOM","fr":"Flexom","en":"","de":""}
-{"k":"CATEGNS_FLUXRSS","fr":"Flux RSS","en":"","de":""}
-{"k":"CATEGNS_FOYERSTUDIANTS","fr":"Foyers étudiants","en":"Halls of residence","de":"Wohnheime"}
-{"k":"CATEGNS_FTE","fr":"Fête","en":"Party","de":"Fest"}
-{"k":"CATEGNS_FTEDESLUMIRES","fr":"Fête des Lumières","en":"Fête des Lumières","de":"Fête des Lumières"}
-{"k":"CATEGNS_FUITE","fr":"Fuite","en":"","de":""}
-{"k":"CATEGNS_FUITEDEAU","fr":"Fuite d'eau","en":"Water leak","de":"Wasserleck"}
-{"k":"CATEGNS_GARDECORPS","fr":"Garde corps","en":"Handrail","de":"Geländer"}
-{"k":"CATEGNS_GARDIENNAGE","fr":"Gardiennage","en":"Caretaking","de":"Bewachung"}
-{"k":"CATEGNS_GAREFERROVIAIRE","fr":"Gare ferroviaire","en":"Train station","de":"Bahnhof"}
-{"k":"CATEGNS_GEEK","fr":"Geek","en":"Geek","de":"Geek"}
-{"k":"CATEGNS_GENERIC_BUILDING_AID","fr":"GENERIC_BUILDING_AID","en":"GENERIC_BUILDING_AID","de":"GENERIC_BUILDING_AID"}
-{"k":"CATEGNS_GENERIC_BUILDING_DOCUMENT","fr":"GENERIC_BUILDING_DOCUMENT","en":"GENERIC_BUILDING_DOCUMENT","de":"GENERIC_BUILDING_DOCUMENT"}
-{"k":"CATEGNS_GENERIC_BUILDING_DOCUMENT_CONTAINER","fr":"GENERIC_BUILDING_DOCUMENT_CONTAINER","en":"GENERIC_BUILDING_DOCUMENT_CONTAINER","de":"GENERIC_BUILDING_DOCUMENT_CONTAINER"}
-{"k":"CATEGNS_GENERIC_BUILDING_ISSUE","fr":"GENERIC_BUILDING_ISSUE","en":"GENERIC_BUILDING_ISSUE","de":"GENERIC_BUILDING_ISSUE"}
-{"k":"CATEGNS_GENERIC_BUILDING_TOPIC","fr":"GENERIC_BUILDING_TOPIC","en":"GENERIC_BUILDING_TOPIC","de":"GENERIC_BUILDING_TOPIC"}
-{"k":"CATEGNS_GENERIC_CAMPUS_DOCUMENT","fr":"GENERIC_CAMPUS_DOCUMENT","en":"GENERIC_CAMPUS_DOCUMENT","de":"GENERIC_CAMPUS_DOCUMENT"}
-{"k":"CATEGNS_GENERIC_CAMPUS_DOCUMENT_CONTAINER","fr":"GENERIC_CAMPUS_DOCUMENT_CONTAINER","en":"GENERIC_CAMPUS_DOCUMENT_CONTAINER","de":"GENERIC_CAMPUS_DOCUMENT_CONTAINER"}
-{"k":"CATEGNS_GENERIC_CAMPUS_ISSUE","fr":"GENERIC_CAMPUS_ISSUE","en":"GENERIC_CAMPUS_ISSUE","de":"GENERIC_CAMPUS_ISSUE"}
-{"k":"CATEGNS_GENERIC_CITY_DOCUMENT","fr":"GENERIC_CITY_DOCUMENT","en":"GENERIC_CITY_DOCUMENT","de":"GENERIC_CITY_DOCUMENT"}
-{"k":"CATEGNS_GENERIC_CITY_DOCUMENT_CONTAINER","fr":"GENERIC_CITY_DOCUMENT_CONTAINER","en":"GENERIC_CITY_DOCUMENT_CONTAINER","de":"GENERIC_CITY_DOCUMENT_CONTAINER"}
-{"k":"CATEGNS_GENERIC_CITY_ISSUE","fr":"GENERIC_CITY_ISSUE","en":"GENERIC_CITY_ISSUE","de":"GENERIC_CITY_ISSUE"}
-{"k":"CATEGNS_GENERIC_FLAT_ISSUE","fr":"GENERIC_FLAT_ISSUE","en":"GENERIC_FLAT_ISSUE","de":"GENERIC_FLAT_ISSUE"}
-{"k":"CATEGNS_GERIC","fr":"Geric","en":"Geric","de":"Geric"}
-{"k":"CATEGNS_GESTIONDESDOCUMENTS","fr":"Gestion des documents","en":"Manage documents","de":"Dokumente verwalten"}
-{"k":"CATEGNS_GNIECIVIL","fr":"Génie civil","en":"Civil engineering","de":"Hoch-/Tiefbau"}
-{"k":"CATEGNS_GRAFFITI","fr":"Graffiti","en":"Graffiti","de":"Graffiti"}
-{"k":"CATEGNS_GRANDLYONTV","fr":"Grand Lyon Tv","en":"Grand Lyon TV","de":"Grand Lyon Tv"}
-{"k":"CATEGNS_GRDF","fr":"GRDF","en":"GRDF","de":"GRDF"}
-{"k":"CATEGNS_GUERMANTES","fr":"Guermantes","en":"Guermantes","de":"Guermantes"}
-{"k":"CATEGNS_GUIDEDESTUDES","fr":"Guide des études","en":"Academic guide","de":"Studienleitfaden"}
-{"k":"CATEGNS_HBERGEMENTS","fr":"Hébergements","en":"Accommodation","de":"Unterkünfte"}
-{"k":"CATEGNS_HUNTWEEK","fr":"HUNTWEEK","en":"Huntweek","de":"Huntweek"}
-{"k":"CATEGNS_IDE","fr":"Idée","en":"Idea","de":"Idee"}
-{"k":"CATEGNS_IDES","fr":"Idées","en":"Ideas","de":"Ideen"}
-{"k":"CATEGNS_ILIKEIT","fr":"I like it!","en":"I like it!","de":"I like it!"}
-{"k":"CATEGNS_IMPRIMANTE","fr":"Imprimante","en":"Printer","de":"Drucker"}
-{"k":"CATEGNS_INCIDENT","fr":"Incident","en":"New Issue","de":"Vorfall"}
-{"k":"CATEGNS_INCIDENTLIVRAISON","fr":"Incident Livraison","en":"Incident Livraison","de":"Vorfall Lieferung"}
-{"k":"CATEGNS_INCIDENTS","fr":"Incidents","en":"Incidents","de":"Vorfälle"}
-{"k":"CATEGNS_INCIDENTSCAMPUS","fr":"Incidents campus","en":"","de":""}
-{"k":"CATEGNS_INCUBATEUR","fr":"Incubateur","en":"Incubator","de":"Inkubator"}
-{"k":"CATEGNS_INFOCHANTIERS","fr":"Info chantiers","en":"","de":""}
-{"k":"CATEGNS_INFORMATION","fr":"Information","en":"Information","de":"Information"}
-{"k":"CATEGNS_INFORMATIONS","fr":"Informations","en":"News","de":"Informationen"}
-{"k":"CATEGNS_INFORMATIQUE","fr":"Informatique","en":"IT","de":"Informatik"}
-{"k":"CATEGNS_INFORMATIQUEETRSEAU","fr":"Informatique et réseau","en":"IT & Network","de":"IT und Netzwerk"}
-{"k":"CATEGNS_INFOSCHANTIERS","fr":"Infos chantiers","en":"","de":""}
-{"k":"CATEGNS_INFOTHQUE","fr":"Infothèque","en":"Info. bank","de":"Infothek"}
-{"k":"CATEGNS_INFRASTRUCTURE","fr":"Infrastructure","en":"Infrastructure","de":"Infrastruktur"}
-{"k":"CATEGNS_INONDATION","fr":"Inondation","en":"","de":""}
-{"k":"CATEGNS_INSEEC","fr":"INSEEC","en":"INSEEC","de":"INSEEC"}
-{"k":"CATEGNS_INSEECBBA","fr":"INSEEC BBA","en":"INSEEC BBA","de":"INSEEC BBA"}
-{"k":"CATEGNS_INSEECCAMPUS","fr":"INSEEC Campus","en":"INSEEC Campus","de":"INSEEC Campus"}
-{"k":"CATEGNS_INSEECDOCUMENTS","fr":"Inseec Documents","en":"Inseec Documents","de":"Inseec-Dokumente"}
-{"k":"CATEGNS_INSEECINTERNATIONAL","fr":"INSEEC International","en":"INSEEC International","de":"INSEEC International"}
-{"k":"CATEGNS_INSEECINTERNATIONNAL","fr":"INSEEC Internationnal","en":"INSEEC International","de":"INSEEC International"}
-{"k":"CATEGNS_INSTALLATION","fr":"Installation","en":"Installation","de":"Installation"}
-{"k":"CATEGNS_INSTALLATIONSPORTIVE","fr":"Installation sportive","en":"Sports facilities","de":"Sportanlage"}
-{"k":"CATEGNS_INSTALLCHANTIER","fr":"Install chantier","en":"Site facilities","de":"Aufbau Baustelle"}
-{"k":"CATEGNS_ITINRAIRE","fr":"Itinéraire","en":"Route","de":"Anfahrt"}
-{"k":"CATEGNS_JAIME","fr":"J'aime","en":"Like","de":"Gefällt mir"}
-{"k":"CATEGNS_JAIMEMOINS","fr":"J'aime moins","en":"I'm not keen","de":"Mag ich nicht"}
-{"k":"CATEGNS_JANEGOODALL","fr":"Jane Goodall","en":"Jane Goodall","de":"Jane Goodall"}
-{"k":"CATEGNS_JARDIN","fr":"Jardin","en":"Garden","de":"Garten"}
-{"k":"CATEGNS_JARDINPRIVATIF","fr":"Jardin privatif","en":"Private garden","de":"Privatgarten"}
-{"k":"CATEGNS_JEDONNE","fr":"Je donne","en":"I donate","de":"Ich gebe"}
-{"k":"CATEGNS_JOBSTAGE","fr":"Job/Stage","en":"Internships/Jobs","de":"Job/Praktikum"}
-{"k":"CATEGNS_JORGANISE","fr":"J'organise","en":"I organise my diary","de":"Organisieren"}
-{"k":"CATEGNS_LARGEUR","fr":"Largeur","en":"Width","de":"Breite"}
-{"k":"CATEGNS_LAVERIE","fr":"Laverie","en":"Launderette","de":"Waschsalon"}
-{"k":"CATEGNS_LEARNINGLAB","fr":"Learning Lab","en":"Learning Lab","de":"Learning Lab"}
-{"k":"CATEGNS_LECTRICIT","fr":"Électricité","en":"Electricity","de":"Strom"}
-{"k":"CATEGNS_LEMANSCIRCUIT","fr":"Le Mans Circuit","en":"Le Mans Circuit","de":"Le Mans Circuit"}
-{"k":"CATEGNS_LESBONSPLANS","fr":"Les bons plans","en":"","de":""}
-{"k":"CATEGNS_LESSTAGES","fr":"Les stages","en":"Internships","de":"Praktika"}
-{"k":"CATEGNS_LESVOILESDEST_TROPEZ","fr":"Les voiles de St-Tropez","en":"Les voiles de St-Tropez","de":"Les voiles de St-Tropez"}
-{"k":"CATEGNS_LIENSUTILES","fr":"Liens utiles","en":"Useful links","de":"Nützliche Links"}
-{"k":"CATEGNS_LIGNEDVAC","fr":"Ligne d'évac.","en":"Evacuat. route","de":"Abwasserleitung"}
-{"k":"CATEGNS_LINGE","fr":"Linge","en":"Laundry","de":"Wäsche"}
-{"k":"CATEGNS_LINGEDELIT","fr":"Linge de lit","en":"","de":""}
-{"k":"CATEGNS_LINGEDEMAISON","fr":"Linge de maison","en":"Household linen","de":"Hauswäsche"}
-{"k":"CATEGNS_LISTEDEDOC","fr":"Liste de doc","en":"Doc. list","de":"Dok.-Liste"}
-{"k":"CATEGNS_LIVRAISON","fr":"Livraison","en":"Delivery","de":"Lieferung"}
-{"k":"CATEGNS_LOCALISATION","fr":"Localisation","en":"Localisation","de":"Ortsbestimmung"}
-{"k":"CATEGNS_LOCALVLO","fr":"Local Vélo","en":"Bike shed","de":"Fahrradraum"}
-{"k":"CATEGNS_LOCAUXCOMMUNS","fr":"Locaux communs","en":"Common areas","de":"Gemeinsame Räume"}
-{"k":"CATEGNS_LODAVEILLE","fr":"LoDaVeille","en":"","de":""}
-{"k":"CATEGNS_LOGICIEL","fr":"Logiciel","en":"","de":""}
-{"k":"CATEGNS_LOGO","fr":"Logo","en":"","de":""}
-{"k":"CATEGNS_LOISIRS","fr":"Loisirs","en":"Leisure","de":"Hobbys"}
-{"k":"CATEGNS_LONGUEUR","fr":"Longueur","en":"Length","de":"Länge"}
-{"k":"CATEGNS_LU","fr":"L&U","en":"L&U","de":"L&U"}
-{"k":"CATEGNS_LUXEMBOURG","fr":"luxembourg","en":"Luxembourg","de":"Luxemburg"}
-{"k":"CATEGNS_MACHINECAF","fr":"Machine à café","en":"Coffee machine","de":"Kaffeemaschine"}
-{"k":"CATEGNS_MACHINES","fr":"Machines","en":"Machines","de":"Maschinen"}
-{"k":"CATEGNS_MAIF","fr":"MAIF","en":"","de":""}
-{"k":"CATEGNS_MAKEUPFOREVER","fr":"Make up for ever","en":"Make Up For Ever","de":"Make up for ever"}
-{"k":"CATEGNS_MASTER_LIKE","fr":"MASTER_LIKE","en":"MASTER_LIKE","de":"MASTER_LIKE"}
-{"k":"CATEGNS_MASTERCATEGDEAPPLICAMPUS","fr":"master categ de appli campus","en":"master categ de appli campus","de":"master categ de appli campus"}
-{"k":"CATEGNS_MASTERCATEGDEAPPLISUSHI","fr":"master categ de appli sushi","en":"master categ de appli sushi","de":"master categ de appli sushi"}
-{"k":"CATEGNS_MASTERCATEGDEFUTURINSEEC","fr":"master categ de futur Inseec","en":"master categ de futur Inseec","de":"master categ de futur Inseec"}
-{"k":"CATEGNS_MASTERCATEGDEINSEEC","fr":"master categ de inseec","en":"master categ de inseec","de":"master categ de inseec"}
-{"k":"CATEGNS_MASTERCATEGFUTURINSEEC","fr":"master categ futur inseec","en":"master categ futur inseec","de":"master categ futur inseec"}
-{"k":"CATEGNS_MATSURI","fr":"matsuri","en":"matsuri","de":"Matsuri"}
-{"k":"CATEGNS_MAVILLE","fr":"Ma ville","en":"My city","de":"Meine Stadt"}
-{"k":"CATEGNS_MENUISERIE","fr":"Menuiserie","en":"Woodworking","de":"Schreinerei"}
-{"k":"CATEGNS_MEUDON","fr":"Meudon","en":"Meudon","de":"Meudon"}
-{"k":"CATEGNS_MIEUXCONSOMMER","fr":"Mieux consommer","en":"","de":""}
-{"k":"CATEGNS_MNAGE","fr":"Ménage","en":"Cleaning","de":"Haushalt"}
-{"k":"CATEGNS_MOBILIER","fr":"Mobilier","en":"Furniture","de":"Möbel"}
-{"k":"CATEGNS_MOBILIT","fr":"Mobilité","en":"Mobility","de":"Mobilität"}
-{"k":"CATEGNS_MONCOMPTE","fr":"Mon Compte","en":"My account","de":"Mein Konto"}
-{"k":"CATEGNS_MONPOST","fr":"Mon post","en":"My post","de":"Mein Post"}
-{"k":"CATEGNS_MONQUARTIER","fr":"Mon quartier","en":"","de":""}
-{"k":"CATEGNS_MOTHENNESSY","fr":"Moët Hennessy","en":"","de":""}
-{"k":"CATEGNS_MOTHENNESSYVINSETSPIRITUEUX","fr":"Moët Hennessy Vins et Spiritueux","en":"","de":""}
-{"k":"CATEGNS_MSCMBA","fr":"Msc & MBA","en":"MSc & MBA","de":"M.Sc. & MBA"}
-{"k":"CATEGNS_MTROPOLE","fr":"Métropole","en":"Metropolis","de":"Metropole"}
-{"k":"CATEGNS_MULTIBURO","fr":"Multiburo","en":"","de":""}
-{"k":"CATEGNS_MULTIMDIA","fr":"Multimédia","en":"","de":""}
-{"k":"CATEGNS_MUSEMUDAM","fr":"Musée Mudam","en":"","de":""}
-{"k":"CATEGNS_MUSIQUE","fr":"Musique","en":"Music","de":"Musik"}
-{"k":"CATEGNS_MY_CITY","fr":"MY_CITY","en":"MY_CITY","de":"MY_CITY"}
-{"k":"CATEGNS_NANTES","fr":"Nantes","en":"","de":""}
-{"k":"CATEGNS_NETTOYAGE","fr":"Nettoyage","en":"Cleanliness","de":"Reinigung"}
-{"k":"CATEGNS_NEWSCHILD1","fr":"NewsChild1","en":"","de":""}
-{"k":"CATEGNS_NIVEAUXDEAU","fr":"Niveaux d'eau","en":"Water level","de":"Wasserstände"}
-{"k":"CATEGNS_NSCS","fr":"NSCS","en":"","de":""}
-{"k":"CATEGNS_NUISANCES","fr":"Nuisances","en":"Noise","de":"Belästigungen"}
-{"k":"CATEGNS_NUISIBLE","fr":"Nuisible","en":"Detrimental","de":"Schädlich"}
-{"k":"CATEGNS_NUISSANCES","fr":"Nuissances","en":"Noise","de":"Lärmbelästigungen"}
-{"k":"CATEGNS_OCCUPATION","fr":"Occupation","en":"Occupation","de":"Beschäftigung"}
-{"k":"CATEGNS_OPH74","fr":"oph74","en":"oph74","de":"oph74"}
-{"k":"CATEGNS_ORDINATEUR","fr":"Ordinateur","en":"","de":""}
-{"k":"CATEGNS_PANNE","fr":"Panne","en":"","de":""}
-{"k":"CATEGNS_PARCAUTO","fr":"Parc auto","en":"Car park","de":"Fuhrpark"}
-{"k":"CATEGNS_PARCS","fr":"Parcs","en":"Parks","de":"Parks"}
-{"k":"CATEGNS_PARECHOC","fr":"Pare-choc","en":"","de":""}
-{"k":"CATEGNS_PARKING","fr":"Parking","en":"Car park","de":"Parkplatz"}
-{"k":"CATEGNS_PARQUET","fr":"Parquet","en":"Wooden flooring","de":"Parkett"}
-{"k":"CATEGNS_PAVE","fr":"Épave","en":"","de":""}
-{"k":"CATEGNS_PEDIBUS","fr":"Pedibus","en":"Walking bus","de":"Pedibus"}
-{"k":"CATEGNS_PERDUTROUV","fr":"Perdu/trouvé","en":"Lost & found","de":"Fundsachen"}
-{"k":"CATEGNS_PETIT_DJEUNER","fr":"Petit-déjeuner","en":"Breakfast","de":"Frühstück"}
-{"k":"CATEGNS_PETITDJEUNER","fr":"Petit déjeuner","en":"Breakfast","de":"Frühstück"}
-{"k":"CATEGNS_PETITJOBS","fr":"Petit Jobs","en":"Odd Jobs","de":"Kleine Jobs"}
-{"k":"CATEGNS_PETITSJOBS","fr":"Petits Jobs","en":"Odd Jobs","de":"Kleine Jobs"}
-{"k":"CATEGNS_PETITSTRAVAUX","fr":"Petits travaux","en":"","de":""}
-{"k":"CATEGNS_PHARE","fr":"Phare","en":"","de":""}
-{"k":"CATEGNS_PHOTOCOPIEUR","fr":"Photocopieur","en":"Photocopier","de":"Kopierer"}
-{"k":"CATEGNS_PHOTOVOLTAQUE","fr":"Photovoltaïque","en":"Solar cell","de":"Photovoltaik"}
-{"k":"CATEGNS_PISCINE","fr":"Piscine","en":"Swimming pool","de":"Schwimmbad"}
-{"k":"CATEGNS_PLACARD","fr":"Placard","en":"Closet","de":"Schrank"}
-{"k":"CATEGNS_PLAGE","fr":"Plage","en":"Beach","de":"Strand"}
-{"k":"CATEGNS_PLAN3D","fr":"Plan 3D","en":"3D floor plan","de":"Plan 3D"}
-{"k":"CATEGNS_PLNIRES","fr":"Plénières","en":"Plenary sessions","de":"Versammlungen"}
-{"k":"CATEGNS_PLOMBERIE","fr":"Plomberie","en":"Plumbing","de":"Klempner"}
-{"k":"CATEGNS_POLLUTION","fr":"Pollution","en":"Pollution","de":"Verschmutzung"}
-{"k":"CATEGNS_PONT","fr":"Pont","en":"Bridge","de":"Brücke"}
-{"k":"CATEGNS_PORTAIL","fr":"Portail","en":"Doorway","de":"Portal"}
-{"k":"CATEGNS_PORTE","fr":"Porte","en":"Door","de":"Tür"}
-{"k":"CATEGNS_PORTECOFFRE","fr":"Porte/Coffre","en":"","de":""}
-{"k":"CATEGNS_PORTESERRURERIE","fr":"Porte/Serrurerie","en":"Door/Locks","de":"Tür/Schloss"}
-{"k":"CATEGNS_POSITION","fr":"Position","en":"Position","de":"Standort"}
-{"k":"CATEGNS_POUBELLE","fr":"Poubelle","en":"Bin","de":"Mülleimer"}
-{"k":"CATEGNS_POUBELLES","fr":"Poubelles","en":"Dustbins","de":"Mülltonnen"}
-{"k":"CATEGNS_POUBELLEVERRE","fr":"Poubelle Verre","en":"Glass Recycling","de":"Glascontainer"}
-{"k":"CATEGNS_PRESSING","fr":"Pressing","en":"","de":""}
-{"k":"CATEGNS_PROGRAMMEBBA","fr":"Programme BBA","en":"BBA Programme","de":"BBA-Programm"}
-{"k":"CATEGNS_PROJECTEUR","fr":"Projecteur","en":"Video projector","de":"Projektor"}
-{"k":"CATEGNS_PROPERT","fr":"Properté","en":"Cleanliness","de":"Sauberkeit"}
-{"k":"CATEGNS_PROPRET","fr":"Propreté","en":"Cleanliness","de":"Sauberkeit"}
-{"k":"CATEGNS_PROTECTION","fr":"Protection","en":"Safety measure","de":"Schutz"}
-{"k":"CATEGNS_PROTECTIONARBRE","fr":"Protection arbre","en":"","de":""}
-{"k":"CATEGNS_PRTERRENDRE","fr":"Prêter/Rendre","en":"Lend or give","de":"Ausleihe/Rückg."}
-{"k":"CATEGNS_PUBLIER","fr":"Publier","en":"","de":""}
-{"k":"CATEGNS_PV","fr":"P&V","en":"P&V","de":"P&V"}
-{"k":"CATEGNS_QUAI","fr":"Quai","en":"Dock","de":"Anlegekai"}
-{"k":"CATEGNS_QUALITDELEAU","fr":"Qualité de l'eau","en":"Water quality","de":"Wasserqualität"}
-{"k":"CATEGNS_QUISAIT","fr":"Qui sait ?","en":"Who knows?","de":"Wer weiß es?"}
-{"k":"CATEGNS_RAISIN","fr":"Raisin","en":"","de":""}
-{"k":"CATEGNS_RAMPE","fr":"Rampe","en":"Ramp","de":"Rampe"}
-{"k":"CATEGNS_RANDOMTESTENTRY","fr":"random test entry","en":"random test entry","de":"random test entry"}
-{"k":"CATEGNS_RCEPTION","fr":"Réception","en":"","de":""}
-{"k":"CATEGNS_RCOMPENSE","fr":"Récompense","en":"Reward","de":"Belohnung"}
-{"k":"CATEGNS_RELAIS","fr":"Relais","en":"Clothes Recycling","de":"Kleidercontainer"}
-{"k":"CATEGNS_RESTAURANT","fr":"Restaurant","en":"Restaurant","de":"Restaurant"}
-{"k":"CATEGNS_RESTAURANTS","fr":"Restaurants","en":"Restaurants","de":"Restaurants"}
-{"k":"CATEGNS_RESTAURATION","fr":"Restauration","en":"Cafeteria","de":"Gastronomie"}
-{"k":"CATEGNS_RGLEMENT","fr":"Règlement","en":"Rules","de":"Ordnung"}
-{"k":"CATEGNS_RGLEMENTATION","fr":"Réglementation","en":"Regulations","de":"Regulierung"}
-{"k":"CATEGNS_ROUE","fr":"Roue","en":"","de":""}
-{"k":"CATEGNS_RSEAU","fr":"Réseau","en":"Network","de":"Netz"}
-{"k":"CATEGNS_RSEAUXWIFI","fr":"Réseaux/WiFi","en":"","de":""}
-{"k":"CATEGNS_RSSFEED","fr":"RSS Feed","en":"","de":""}
-{"k":"CATEGNS_RTROVISEUR","fr":"Rétroviseur","en":"","de":""}
-{"k":"CATEGNS_RUES","fr":"Rues","en":"Streets","de":"Straßen"}
-{"k":"CATEGNS_RVISIONEXAM","fr":"Révision/Exam","en":"Revision/Exams","de":"Lernen/Prüfung"}
-{"k":"CATEGNS_SAINT_TROPEZ","fr":"Saint-Tropez","en":"Saint-Tropez","de":"Saint-Tropez"}
-{"k":"CATEGNS_SALLE","fr":"Salle","en":"Room","de":"Raum"}
-{"k":"CATEGNS_SALLEAMPHI","fr":"Salle / Amphi","en":"Classroom/Lecture hall","de":"Raum/Hörsaal"}
-{"k":"CATEGNS_SALLEDEBAIN","fr":"Salle de bain","en":"","de":""}
-{"k":"CATEGNS_SALLEDESPORT","fr":"Salle de sport","en":"Gym","de":"Fitnessraum"}
-{"k":"CATEGNS_SAUNA","fr":"Sauna","en":"Sauna","de":"Sauna"}
-{"k":"CATEGNS_SCURISATION","fr":"Sécurisation","en":"Securing","de":"Schutz"}
-{"k":"CATEGNS_SCURIT","fr":"Sécurité","en":"Safety","de":"Sicherheit"}
-{"k":"CATEGNS_SERVICES","fr":"Services","en":"Services","de":"Services"}
-{"k":"CATEGNS_SERVICESNAV","fr":"Services Nav.","en":"Shuttle services","de":"Navi-Service"}
-{"k":"CATEGNS_SHOPPING","fr":"Shopping","en":"Shopping","de":"Shopping"}
-{"k":"CATEGNS_SIGNALER","fr":"Signaler","en":"Notify","de":"Melden"}
-{"k":"CATEGNS_SIGNALISATION","fr":"Signalisation","en":"Signage","de":"Beschilderung"}
-{"k":"CATEGNS_SITEWEB","fr":"Site Web","en":"Website","de":"Website"}
-{"k":"CATEGNS_SOIRES","fr":"Soirées","en":"Parties","de":"Partys"}
-{"k":"CATEGNS_SOL","fr":"Sol","en":"Ground","de":"Boden"}
-{"k":"CATEGNS_SOLIDARIT","fr":"Solidarité","en":"Solidarity","de":"Solidarität"}
-{"k":"CATEGNS_SOLMURS","fr":"Sol/Murs","en":"Floor/Walls","de":"Boden/Wände"}
-{"k":"CATEGNS_SORTIES","fr":"Sorties","en":"Going out","de":"Ausgehen"}
-{"k":"CATEGNS_SOUTENIR","fr":"Soutenir","en":"Help with studies","de":"Unterstützung"}
-{"k":"CATEGNS_SPABIENTRE","fr":"SPA / Bien-être","en":"","de":""}
-{"k":"CATEGNS_SPORT","fr":"Sport","en":"Sports","de":"Sport"}
-{"k":"CATEGNS_ST_TROPEZ","fr":"St-Tropez","en":"St-Tropez","de":"St.-Tropez"}
-{"k":"CATEGNS_STAGESETEMPLOI","fr":"Stages et emploi","en":"Employment & internships","de":"Praktika & Jobs"}
-{"k":"CATEGNS_STATIONDEMTRO","fr":"Station de métro","en":"Metro station","de":"U-Bahn-Station"}
-{"k":"CATEGNS_STATIONNEMENT","fr":"Stationnement","en":"Parking","de":"Anlegestelle"}
-{"k":"CATEGNS_STATIONSERVICE","fr":"Station service","en":"Filling station","de":"Tankstelle"}
-{"k":"CATEGNS_STOCKAGES","fr":"Stockages","en":"Storage areas","de":"Lager"}
-{"k":"CATEGNS_STUDENTCAR","fr":"Student car","en":"Student car","de":"Student car"}
-{"k":"CATEGNS_SUPERMARCH","fr":"Supermarché","en":"Supermarket","de":"Supermarkt"}
-{"k":"CATEGNS_SURETSECURIT","fr":"Sureté/Securité","en":"Security/Safety","de":"Sicherheit"}
-{"k":"CATEGNS_SUSHIPDF","fr":"Sushi PDF","en":"Sushi PDF","de":"Sushi PDF"}
-{"k":"CATEGNS_SUSHIRECETTE","fr":"Sushi recette","en":"Sushi recipe","de":"Sushi-Rezept"}
-{"k":"CATEGNS_SUSHIRESTAURANT","fr":"Sushi restaurant","en":"Sushi restaurant","de":"Sushi-Restaurant"}
-{"k":"CATEGNS_SUSHISHOP","fr":"Sushi Shop","en":"Sushi Shop","de":"Sushi"}
-{"k":"CATEGNS_TAN","fr":"Tan","en":"","de":""}
-{"k":"CATEGNS_TAXI","fr":"Taxi","en":"","de":""}
-{"k":"CATEGNS_TCL","fr":"TCL","en":"TCL","de":"TCL"}
-{"k":"CATEGNS_TEMP_SHIT","fr":"temp_shit","en":"temp_shit","de":"temp_shit"}
-{"k":"CATEGNS_TEMPRATURE","fr":"Température","en":"","de":""}
-{"k":"CATEGNS_TERRASSE","fr":"Terrasse","en":"Terrace","de":"Terrasse"}
-{"k":"CATEGNS_TESTCATEG_115867555","fr":"TESTCATEG_115867555","en":"TESTCATEG_115867555","de":"TESTCATEG_115867555"}
-{"k":"CATEGNS_TESTCATEG_115867555_2","fr":"TESTCATEG_115867555_2","en":"TESTCATEG_115867555_2","de":"TESTCATEG_115867555_2"}
-{"k":"CATEGNS_TIQUETTE","fr":"Étiquette","en":"","de":""}
-{"k":"CATEGNS_TLPHONIE","fr":"Téléphonie","en":"Telephony","de":"Telefonie"}
-{"k":"CATEGNS_TOILETTE","fr":"Toilette","en":"Toilets","de":"Toilette"}
-{"k":"CATEGNS_TOILETTES","fr":"Toilettes","en":"Toilets","de":"Toiletten"}
-{"k":"CATEGNS_TOTAL","fr":"Total","en":"Total","de":"Total"}
-{"k":"CATEGNS_TOTAL_DEMO","fr":"Total_demo","en":"Total_demo","de":"Total_demo"}
-{"k":"CATEGNS_TOURISME","fr":"Tourisme","en":"Tourism","de":"Tourismus"}
-{"k":"CATEGNS_TRACTRUEGRENETTE","fr":"Tract Rue Grenette","en":"Tract Rue Grenette","de":"Tract Rue Grenette"}
-{"k":"CATEGNS_TRAFFIQUER","fr":"Traffiquer","en":"","de":""}
-{"k":"CATEGNS_TRAFIC","fr":"Trafic","en":"","de":""}
-{"k":"CATEGNS_TRANSFORMATEUR","fr":"Transformateur","en":"Transformer","de":"Transformator"}
-{"k":"CATEGNS_TRANSPORTS","fr":"Transports","en":"Transportation","de":"Verkehrsmittel"}
-{"k":"CATEGNS_TRAVAUX","fr":"Travaux","en":"Construction works","de":"Arbeiten"}
-{"k":"CATEGNS_TRAVAUXACTUELS","fr":"Travaux actuels","en":"Current works","de":"Akt. Arbeiten"}
-{"k":"CATEGNS_TRAVELER","fr":"Traveler","en":"Traveller","de":"Traveler"}
-{"k":"CATEGNS_TRISLECTIF","fr":"Tri Sélectif","en":"Selective Sorting","de":"Mülltrennung"}
-{"k":"CATEGNS_TROTTOIR","fr":"Trottoir","en":"Pavement","de":"Gehweg"}
-{"k":"CATEGNS_TROUV","fr":"Trouvé !","en":"Spotted!","de":"Gefunden!"}
-{"k":"CATEGNS_TURBINE","fr":"Turbine","en":"Turbine","de":"Turbine"}
-{"k":"CATEGNS_TWITTER","fr":"Twitter","en":"Twitter","de":"Twitter"}
-{"k":"CATEGNS_UBIANTSYNDICROOT","fr":"ubiant syndic root","en":"ubiant syndic root","de":"ubiant syndic root"}
-{"k":"CATEGNS_UNILIM","fr":"Unilim","en":"Unilim","de":"Unilim"}
-{"k":"CATEGNS_VACANCES","fr":"Vacances","en":"Holidays","de":"Ferien"}
-{"k":"CATEGNS_VEILLESINDUP","fr":"Veille Sindup","en":"","de":""}
-{"k":"CATEGNS_VENDALISME","fr":"Vendalisme","en":"","de":""}
-{"k":"CATEGNS_VENTILATION","fr":"Ventilation","en":"Ventilation","de":"Belüftung"}
-{"k":"CATEGNS_VENTILLATION","fr":"Ventilation","en":"Ventilation","de":"Lüftung"}
-{"k":"CATEGNS_VHICULES","fr":"Véhicules","en":"Vehicles","de":"Fahrzeuge"}
-{"k":"CATEGNS_VIDEDRESSING","fr":"Vide dressing","en":"Closet clean-out","de":"Trödelmarkt"}
-{"k":"CATEGNS_VIDEPLACARD","fr":"Vide placard","en":"Closet sale","de":"Trödelmarkt"}
-{"k":"CATEGNS_VIDOPROJECTEUR","fr":"Vidéo projecteur","en":"Video projector","de":"Videoprojektor"}
-{"k":"CATEGNS_VIETUDIANTE","fr":"Vie étudiante","en":"Student life","de":"Studentenleben"}
-{"k":"CATEGNS_VIGILANCE","fr":"Vigilance","en":"Vigilance","de":"Wachsamkeit"}
-{"k":"CATEGNS_VILLAGEDELOUEST","fr":"Village de l'Ouest","en":"Village de l'Ouest","de":"Village de l'Ouest"}
-{"k":"CATEGNS_VISIBILIT","fr":"Visibilité","en":"Visibility","de":"Sichtbarkeit"}
-{"k":"CATEGNS_VITRE","fr":"Vitre","en":"","de":""}
-{"k":"CATEGNS_VLO","fr":"Vélo","en":"Bikes","de":"Fahrrad"}
-{"k":"CATEGNS_VMC","fr":"VMC","en":"Ventilation Sys.","de":"Lüftung"}
-{"k":"CATEGNS_VOIDCAMPUS","fr":"VOIDCAMPUS","en":"VOIDCAMPUS","de":"VOIDCAMPUS"}
-{"k":"CATEGNS_VOIEDEDISPA","fr":"Voie de dispa.","en":"","de":""}
-{"k":"CATEGNS_VOIEDEDISPARITION","fr":"Voie de disparition","en":"","de":""}
-{"k":"CATEGNS_VOIESNAVIGABLES","fr":"Voies Navigables","en":"Navigable waterways","de":"Wasserstraßen"}
-{"k":"CATEGNS_VOITURE","fr":"Voiture","en":"Car-related","de":"Auto"}
-{"k":"CATEGNS_VOITURELEC","fr":"Voiture élec.","en":"Electric car","de":"E-Auto"}
-{"k":"CATEGNS_VOL","fr":"Vol","en":"","de":""}
-{"k":"CATEGNS_VOLIATOULOUSE","fr":"Véolia Toulouse","en":"Véolia Toulouse","de":"Véolia Toulouse"}
-{"k":"CATEGNS_VOTE","fr":"Vote","en":"Vote","de":"Abstimmung"}
-{"k":"CATEGNS_VOTECAMPUS","fr":"Vote Campus","en":"Campus vote","de":"Vote Campus"}
-{"k":"CATEGNS_VOTEFLASH","fr":"Vote flash","en":"Flash vote","de":"Flashvote"}
-{"k":"CATEGNS_VOTESUSHI","fr":"Vote Sushi","en":"Sushi vote","de":"Sushi-Abstimmung"}
-{"k":"CATEGNS_VOYAGE","fr":"Voyage","en":"Journey","de":"Reise"}
-{"k":"CATEGNS_VUDUWEB","fr":"Vu du web","en":"From the web","de":"Vu du web"}
-{"k":"CATEGNS_WEEK_END","fr":"Week-end","en":"Weekend","de":"Wochenende"}
-{"k":"CATEGNS_WIFI","fr":"Wifi","en":"Wifi","de":"WLAN"}
-{"k":"CATEGNS_YOUTUBE","fr":"Youtube","en":"Youtube","de":"Youtube"}
-{"k":"TRADCLINS__VERSION","fr":"TRADCLINS__VERSION","en":"1.0.0","de":"1.0.0"}
-{"k":"TRADCLINS_LYYTI_STATE_ANSWERED","fr":"Répondu","en":"Answered","de":"Beantwortet"}
-{"k":"TRADCLINS_LYYTI_STATE_CLOSED","fr":"Fermé","en":"Closed","de":"Geschlossen"}
-{"k":"TRADCLINS_LYYTI_STATE_ONGOING","fr":"En cours","en":"Ongoing","de":"In Bearbeitung"}
-{"k":"TRADCLINS_LYYTI_STATE_OPENED","fr":"Ouvert","en":"Open","de":"Offen"}
-{"k":"TRADCLINS_LYYTI_STATE_READ","fr":"Lu","en":"Read","de":"Gelesen"}
-{"k":"TRADCLINS_LYYTI_STATE_RESOLVED","fr":"Résolu","en":"Resolved","de":"Gelöst"}
-{"k":"TRADCLINS_LYYTI_STATE_STANDBY","fr":"En attente","en":"Pending","de":"Ausstehend"}
-{"k":"TRADCLINS_NOTIF_COPRO_SHARED","fr":"Votre gestionnaire a procédé au regroupement d'immeuble par copropriété","en":"","de":""}
-{"k":"TRADCLINS_NOTIF_COPRO_UNSHARED","fr":"Votre gestionnaire est passé à la gestion par immeubles distincts","en":"","de":""}
-{"k":"TRADCLINS_NOTIF_LYYTI_FOLLOWED_COMMENT","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert"}
-{"k":"TRADCLINS_NOTIF_LYYTI_STATUS_CHANGED","fr":"Le statut de {{title}} est passé à {{state}}","en":"\"{{title}}\"'s status has changed to {{state}}","de":"Der Status von {{title}} wurde zu {{state}} geändert"}
-{"k":"TRADCLINS_NOTIF_MGR_ANSWER","fr":"{{username}} a publié un commentaire sur {{title}}","en":"{{username}} added a new comment to {{title}}","de":"{{username}} hat einen Kommentar zu {{title}} veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_MGR_ANSWER_FMLYYTI","fr":"{{username}} a publié un commentaire sur {{title}}","en":"{{username}} added a new comment to {{title}}","de":"{{username}} hat einen Kommentar zu {{title}} geändert"}
-{"k":"TRADCLINS_NOTIF_MGR_ANSWER_PRIVATE_LYYTI","fr":"{{username}} a répondu à votre demande {{title}}","en":"{{username}} responded to your request {{title}}","de":"{{username}} hat auf Ihre Frage {{title}} geantwortet"}
-{"k":"TRADCLINS_NOTIF_MODERATED_LYYTI","fr":"{{title}} a été modéré par la communauté","en":"{{title}} has been moderated by the community","de":"{{title}} wurde von der Community moderiert"}
-{"k":"TRADCLINS_NOTIF_NEW_COMMENT","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert"}
-{"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}}"}
-{"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_CAMPUS","fr":"{{username}} a ajouté un nouveau document","en":"{{username}} added a new document","de":"{{username}} hat ein neues Dokument hinzugefügt"}
-{"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_CITY","fr":"{{username}} a publié {{title}}","en":"{{username}} posted {{title}}","de":"{{username}} hat {{title}} veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_NEW_FLAT_ISSUE","fr":"{{username}} a signalé un incident de type {{type}} dans votre appartement du {{address}}","en":"{{username}} has reported an issue of type {{type}} in your flat {{address}}","de":"{{username}} hat einen Vorfall vom Typ {{type}} in Ihrer Wohnung mit der Adresse {{address}} gemeldet"}
-{"k":"TRADCLINS_NOTIF_NEW_FMLYYTI","fr":"{{username}} a publié {{title}}","en":"","de":""}
-{"k":"TRADCLINS_NOTIF_NEW_ISSUE_BUILDING","fr":"{{username}} a signalé un incident de type {{type}} dans votre immeuble du {{address}}","en":"{{username}} has reported an issue of type {{type}} in your building {{address}}","de":"{{username}}hat einen Vorfall vom Typ {{type}} in Ihrem Gebäude mit der Adresse {{address}} gemeldet"}
-{"k":"TRADCLINS_NOTIF_NEW_MESSAGE","fr":"{{username}} vous a envoyé un nouveau message : {{title}}","en":"{{username}} sent you a new message: {{title}}","de":"{{username}} hat Ihnen eine neue Nachricht gesendet: {{title}}"}
-{"k":"TRADCLINS_NOTIF_NEW_MESSAGE_ON_LYYTI","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert"}
-{"k":"TRADCLINS_NOTIF_NEW_NOTE_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_NEW_NOTE_CAMPUS","fr":"{{username}} a ajouté une nouvelle note","en":"{{username}} added new information","de":"{{username}} hat eine Mitteilung hinzugefügt"}
-{"k":"TRADCLINS_NOTIF_NEW_NOTE_CITY","fr":"{{username}} a publié {{title}}","en":"{{username}} posted {{title}}","de":"{{username}} hat {{title}} veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_NEW_NOTE_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted  {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_NEW_OFFER_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier","en":"{{username}} posted a new ad in your building/neighbourhood","de":"{{username}} hat eine neue Anzeige in Ihrem Gebäude/Viertel veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_NEW_TOPIC_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier","en":"{{username}} posted a new ad in your building/neighbourhood","de":"{{username}} hat in Ihrem Gebäude/Viertel eine neue Anzeige veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_NEW_USER_BUILDING","fr":"{{username}} vient de rejoindre votre communauté du {{address}}","en":"{{username}} has just joined your community {{address}}","de":"{{username}} ist Ihrer Community mit der Adresse {{address}} beigetreten"}
-{"k":"TRADCLINS_NOTIF_NEW_VOTE_CITY","fr":"{{username}} voudrait avoir votre avis","en":"{{username}} would like your opinion","de":"{{username}} bittet um Ihre Meinung"}
-{"k":"TRADCLINS_NOTIF_NEW_WORK_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht"}
-{"k":"TRADCLINS_NOTIF_NEW_WORK_CAMPUS","fr":"{{username}} a ajouté un nouveau travaux","en":"{{username}} added new works","de":"{{username}} hat eine neue Arbeit hinzugefügt"}
-{"k":"TRADCLINS_NOTIF_NEW_WORK_CITY","fr":"{{username}} a signalé {{title}}","en":"{{username}} has reported {{title}}","de":"{{username}} hat {{title}} gemeldet"}
-{"k":"TRADCLINS_NOTIF_NEW_WORK_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht"}
+{"k":"CATEGNS_750G","fr":"750g","en":"\n750g\n","de":"750g","nl":""}
+{"k":"CATEGNS_ACCIDENT","fr":"Accident","en":"Accident\na","de":"Unfall","nl":""}
+{"k":"CATEGNS_ACCSBTIMENT","fr":"Accès/Bâtiment","en":"Access/Building","de":"Zugang/Gebäude","nl":""}
+{"k":"CATEGNS_ACCSINTERNET","fr":"Accès internet","en":"Internet access","de":"Internet","nl":""}
+{"k":"CATEGNS_ACCSPONTON","fr":"Accès Ponton","en":"Access to pontoon","de":"Zugang Ponton","nl":""}
+{"k":"CATEGNS_ACCSRIVERAINS","fr":"Accès riverains","en":"Resident access\n","de":"Zugang für Anlieger","nl":""}
+{"k":"CATEGNS_ACCUEIL","fr":"Accueil","en":"Reception","de":"Empfang","nl":""}
+{"k":"CATEGNS_ACCUEILDERSIDENCE","fr":"Accueil de résidence","en":"Reception desk","de":"Hausempfang","nl":""}
+{"k":"CATEGNS_ACCUEILRSIDENCE","fr":"Accueil résidence","en":"\"Reception desk\"","de":"Hausempfang","nl":""}
+{"k":"CATEGNS_ACHATSGROUPS","fr":"Achats groupés","en":"Group buying","de":"Gruppenkäufe","nl":""}
+{"k":"CATEGNS_ACHATVENTE","fr":"Achat/vente","en":"Sale/purchase","de":"Kauf/Verkauf","nl":""}
+{"k":"CATEGNS_ACTIVITS","fr":"Activités","en":"Activities\n","de":"Aktivitäten","nl":""}
+{"k":"CATEGNS_ACTU1","fr":"Actu 1","en":"News 1","de":"Actu 1","nl":""}
+{"k":"CATEGNS_ACTU2","fr":"Actu 2","en":"News 2","de":"Actu 2","nl":""}
+{"k":"CATEGNS_ACTU3","fr":"Actu 3","en":"New 3\n\n","de":"Actu 3","nl":""}
+{"k":"CATEGNS_ACTUALITS","fr":"Actualités","en":"News","de":"Neues","nl":""}
+{"k":"CATEGNS_ADFINIR","fr":"A définir","en":"To be determined","de":"Festzulegen","nl":""}
+{"k":"CATEGNS_ADMINISTRATION","fr":"Administration","en":"Administration","de":"Verwaltung","nl":""}
+{"k":"CATEGNS_AFFRANCHISSEMENT","fr":"Affranchissement","en":"Franking","de":"Porto","nl":""}
+{"k":"CATEGNS_AFTERWORK","fr":"Afterwork","en":"Afterwork","de":"Afterwork","nl":""}
+{"k":"CATEGNS_AGENDA","fr":"Agenda","en":"Agenda","de":"Kalender","nl":""}
+{"k":"CATEGNS_AIREDELIVRAISON","fr":"Aire de Livraison","en":"Delivery area","de":"Lieferzone","nl":""}
+{"k":"CATEGNS_ALPTIS","fr":"Alptis","en":"Alptis","de":"Alptis","nl":""}
+{"k":"CATEGNS_ALTERNATEUR","fr":"Alternateur","en":"Alternator","de":"Generator","nl":""}
+{"k":"CATEGNS_AMARRAGE","fr":"Amarrage","en":"Mooring","de":"Vertäuung","nl":""}
+{"k":"CATEGNS_AMBASSADEURS","fr":"Ambassadeurs","en":"Ambassadors","de":"Botschafter","nl":""}
+{"k":"CATEGNS_AMPOULELECTRIQUE","fr":"ampoule électrique","en":"electric light bulb\n","de":"Glühbirne","nl":""}
+{"k":"CATEGNS_ANGERSVILLACTU","fr":"Angers Villactu","en":"Angers Villactu\n","de":"Angers Villactu","nl":""}
+{"k":"CATEGNS_ANIMALLOCALIS","fr":"Animal localisé","en":"Animal located\n","de":"Heimisches Tier","nl":""}
+{"k":"CATEGNS_ANIMAUX","fr":"Animaux","en":"Animals","de":"Tiere","nl":""}
+{"k":"CATEGNS_ANIMAUXEXPOSS","fr":"Animaux exposés","en":"Animals on display\n","de":"Ausgestellte Tiere","nl":""}
+{"k":"CATEGNS_APRILMARINE","fr":"April marine","en":"April Marine","de":"April marine","nl":""}
+{"k":"CATEGNS_ARCELORMITTAL","fr":"Arcelor Mittal","en":"Arcelor Mittal","de":"Arcelor Mittal","nl":""}
+{"k":"CATEGNS_ARRTDEBUS","fr":"Arrêt de bus","en":"Bus stop","de":"Bushaltestelle","nl":""}
+{"k":"CATEGNS_ARRTDETAXI","fr":"Arrêt de taxi","en":"Taxi stand","de":"Taxistand","nl":""}
+{"k":"CATEGNS_ARTISANS","fr":"Artisans","en":"Artisans","de":"Handwerker","nl":""}
+{"k":"CATEGNS_ASCENSEUR","fr":"Ascenseur","en":"Elevator","de":"Aufzug","nl":""}
+{"k":"CATEGNS_ASPIRATEUR","fr":"Aspirateur","en":"Vacuum cleaner","de":"Staubsauger","nl":""}
+{"k":"CATEGNS_ASSOCIATIONS","fr":"Associations","en":"Associations","de":"Vereine","nl":""}
+{"k":"CATEGNS_ATABLE","fr":"A table!","en":"Food for thought!","de":"A table!","nl":""}
+{"k":"CATEGNS_ATELIERS","fr":"Ateliers","en":"Workshops","de":"Workshops","nl":""}
+{"k":"CATEGNS_AUDIO","fr":"Audio","en":"Audio","de":"Audio","nl":""}
+{"k":"CATEGNS_AUDIOVISUEL","fr":"Audiovisuel","en":"Audiovisual","de":"Medien","nl":""}
+{"k":"CATEGNS_AUTRE","fr":"Autre","en":"Other","de":"Sonstige","nl":""}
+{"k":"CATEGNS_AUTRES","fr":"Autres","en":"Others","de":"Sonstiges","nl":""}
+{"k":"CATEGNS_AVIS","fr":"Avis","en":"Reviews\n","de":"Meinungen","nl":""}
+{"k":"CATEGNS_BABY_SITTING","fr":"Baby-sitting","en":"Babysitting","de":"Babysitting","nl":""}
+{"k":"CATEGNS_BABYSITTING","fr":"Baby-sitting","en":"Babysitting","de":"Babysitting","nl":""}
+{"k":"CATEGNS_BADGE","fr":"Badge","en":"Badge\n","de":"Badge","nl":""}
+{"k":"CATEGNS_BADGEBIP","fr":"Badge / Bip","en":"ID card/remote control","de":"Badge / Bip","nl":""}
+{"k":"CATEGNS_BAL","fr":"BAL","en":"BAL\n","de":"BAL","nl":""}
+{"k":"CATEGNS_BALANCE","fr":"Balance","en":"Scale\n","de":"Waage","nl":""}
+{"k":"CATEGNS_BANQUES","fr":"Banques","en":"Banks","de":"Banken","nl":""}
+{"k":"CATEGNS_BARRAGE","fr":"Barrage","en":"Barricade","de":"Straßensperre","nl":""}
+{"k":"CATEGNS_BARRIRE","fr":"Barrière","en":"Dam","de":"Schranke","nl":""}
+{"k":"CATEGNS_BARRIREAUTO","fr":"Barrière auto","en":"Car barrier","de":"Autoschranke","nl":""}
+{"k":"CATEGNS_BARRIREPARKING","fr":"Barrière/Parking","en":"Barrier/Car Park","de":"Schranke/Parkplatz","nl":""}
+{"k":"CATEGNS_BATIMENTAVECSERVICESETACTU","fr":"batiment avec services et actu","en":"building with services and news\n","de":"Gebäude mit Dienstleistungen und Neuigkeiten","nl":""}
+{"k":"CATEGNS_BDO_DEMO","fr":"BDO_demo","en":"BDO_demo","de":"BDO_demo","nl":""}
+{"k":"CATEGNS_BELFORT","fr":"Belfort","en":"Belfort\n","de":"Belfort","nl":""}
+{"k":"CATEGNS_BENNECARTON","fr":"Benne Carton","en":"Cardboard dumpster","de":"Papiertonne","nl":""}
+{"k":"CATEGNS_BERGE","fr":"Berge","en":"Riverbank","de":"Ufer","nl":""}
+{"k":"CATEGNS_BIBLIOTHQUE","fr":"Bibliothèque","en":"Library","de":"Bibliothek","nl":""}
+{"k":"CATEGNS_BICYCLETTE","fr":"bicyclette","en":"bicycle","de":"Fahrrad","nl":""}
+{"k":"CATEGNS_BIENTRE","fr":"Bien-être","en":"Well-being","de":"Wohlbefinden","nl":""}
+{"k":"CATEGNS_BILLETTERIE","fr":"Billetterie","en":"Ticket office","de":"Ticketkasse","nl":""}
+{"k":"CATEGNS_BLANCHISSERIE","fr":"Blanchisserie","en":"Laundry","de":"Wäscherei","nl":""}
+{"k":"CATEGNS_BOITEAUXLETTRES","fr":"Boite aux lettres","en":"Mailbox","de":"Briefkasten","nl":""}
+{"k":"CATEGNS_BOITEPOSTALE","fr":"Boite postale","en":"Mailbox","de":"Postfach","nl":""}
+{"k":"CATEGNS_BOOKING","fr":"Booking","en":"Booking\n","de":"Buchung","nl":""}
+{"k":"CATEGNS_BORNELEC","fr":"Borne élec.","en":"Charge point","de":"Stromtankstelle","nl":""}
+{"k":"CATEGNS_BORNELECTRIQUE","fr":"Borne électrique","en":"Charge point","de":"Stromtankstelle","nl":""}
+{"k":"CATEGNS_BOUCHON","fr":"Bouchon","en":"Plug\n","de":"Korken","nl":""}
+{"k":"CATEGNS_BOULANGERIE","fr":"Boulangerie","en":"Bakery","de":"Bäckerei","nl":""}
+{"k":"CATEGNS_BOUTEILLE","fr":"Bouteille","en":"Bottle\n","de":"Flasche","nl":""}
+{"k":"CATEGNS_BRACONNAGE","fr":"Braconnage","en":"Poaching\n","de":"Wilderei","nl":""}
+{"k":"CATEGNS_BRASSERIEMEEUS","fr":"Brasserie Meeus","en":"Meeus Brewery\n","de":"Brasserie Meeus","nl":""}
+{"k":"CATEGNS_BRICOLAGE","fr":"Bricolage","en":"DIY","de":"Heimwerken","nl":""}
+{"k":"CATEGNS_BTIMENT","fr":"Bâtiment","en":"Building","de":"Gebäude","nl":""}
+{"k":"CATEGNS_BUILDINGBOUYGUES","fr":"BuildingBouygues","en":"BuildingBouygues","de":"BuildingBouygues","nl":""}
+{"k":"CATEGNS_BUILDINGTI","fr":"BuildingTI","en":"BuildingTI","de":"BuildingTI","nl":""}
+{"k":"CATEGNS_BULLETINMTO","fr":"Bulletin Météo","en":"Weather forecast","de":"Wetterbericht","nl":""}
+{"k":"CATEGNS_BUREAUX","fr":"Bureaux","en":"Offices\n","de":"Büros","nl":""}
+{"k":"CATEGNS_BUSINESSGAME","fr":"Business Game","en":"Business Game","de":"Business Game","nl":""}
+{"k":"CATEGNS_BUSINESSWEEK","fr":"Business week","en":"Business week","de":"Business week","nl":""}
+{"k":"CATEGNS_C10","fr":"C10","en":"C10","de":"C10","nl":""}
+{"k":"CATEGNS_C11","fr":"C11","en":"C11","de":"C11","nl":""}
+{"k":"CATEGNS_C9","fr":"C9","en":"C9","de":"C9","nl":""}
+{"k":"CATEGNS_CADDIE","fr":"Caddie","en":"Cart\n","de":"Caddie","nl":""}
+{"k":"CATEGNS_CAFCENTRAL","fr":"Café Central","en":"Café Central\n","de":"Café Central","nl":""}
+{"k":"CATEGNS_CAFNEWYORKAIS","fr":"Café New Yorkais","en":"New York Coffee\n","de":"Café New Yorkais","nl":""}
+{"k":"CATEGNS_CAFTRIA","fr":"Cafétéria","en":"Cafeteria","de":"Cafeteria","nl":""}
+{"k":"CATEGNS_CAIMMO_DEMO","fr":"CaImmo_demo","en":"CaImmo_demo","de":"CaImmo_demo","nl":""}
+{"k":"CATEGNS_CAIMMOBILIER","fr":"CA Immobilier","en":"CA Immobilier","de":"CA Immobilier","nl":""}
+{"k":"CATEGNS_CAISSE","fr":"Caisse","en":"Checkout","de":"Kasse","nl":""}
+{"k":"CATEGNS_CAMPANILE","fr":"Campanile","en":"Campanile\n","de":"Campanile","nl":""}
+{"k":"CATEGNS_CAMPUSCLEAN","fr":"Campus clean","en":"Clean campus","de":"Campus clean","nl":""}
+{"k":"CATEGNS_CANALSUP","fr":"CanalSup","en":"CanalSup","de":"CanalSup","nl":""}
+{"k":"CATEGNS_CARBURANT","fr":"Carburant","en":"Fuel","de":"Kraftstoff","nl":""}
+{"k":"CATEGNS_CARROSSERIE","fr":"Carrosserie","en":"Bodywork\n","de":"Karrosserie","nl":""}
+{"k":"CATEGNS_CAVEGARAGE","fr":"Cave/Garage","en":"Basement storage space/Garage","de":"Keller/Garage","nl":""}
+{"k":"CATEGNS_CHAMPSSURMARNES","fr":"Champs sur Marnes","en":"Champs sur Marnes","de":"Champs-sur-Marne","nl":""}
+{"k":"CATEGNS_CHANTIEROK","fr":"Chantier Ok","en":"Construction site Ok\n","de":"Baustelle OK","nl":""}
+{"k":"CATEGNS_CHATEAUFORM","fr":"ChateauForm","en":"ChateauForm","de":"ChateauForm","nl":""}
+{"k":"CATEGNS_CHAUFFAGE","fr":"Chauffage","en":"Heating","de":"Heizung","nl":""}
+{"k":"CATEGNS_CHAUFFAGE_ECS","fr":"Chauffage - ECS","en":"Heating - ECS","de":"Heizung - Warmwasser","nl":""}
+{"k":"CATEGNS_CHAUFFAGECHAUD","fr":"Chauffagechaud","en":"Heatingheat\n","de":"Heizung","nl":""}
+{"k":"CATEGNS_CHAUFFAGECLIM","fr":"Chauffage/Clim","en":"Heating - a/c","de":"Heizung/Klima","nl":""}
+{"k":"CATEGNS_CHAUSSE","fr":"Chaussée","en":"Roadway","de":"Straße","nl":""}
+{"k":"CATEGNS_CHEATING","fr":"Cheating","en":"Cheating","de":"Cheating","nl":""}
+{"k":"CATEGNS_CHELLECHAFAUD","fr":"Échelle/Échafaud.","en":"Ladder/Scaffold","de":"Leitern/Gerüste","nl":""}
+{"k":"CATEGNS_CIRCUAUTO","fr":"Circu. auto","en":"Circu. car\n","de":"Autoverkehr","nl":""}
+{"k":"CATEGNS_CIRCULATION","fr":"Circulation","en":"Traffic route","de":"Verkehr","nl":""}
+{"k":"CATEGNS_CIRCUPITONNE","fr":"Circu. piètonne","en":"Pedestrian circulation\n","de":"Fußgängerverkehr","nl":""}
+{"k":"CATEGNS_CITY","fr":"CITY","en":"CITY","de":"CITY","nl":""}
+{"k":"CATEGNS_CITYLITY","fr":"CityLity","en":"CityLity","de":"CityLity","nl":""}
+{"k":"CATEGNS_CLAIRAGE","fr":"Éclairage","en":"Public lighting","de":"Beleuchtung","nl":""}
+{"k":"CATEGNS_CLASSEMENTS","fr":"Classements","en":"Rankings","de":"Kurseinteilung","nl":""}
+{"k":"CATEGNS_CLIM","fr":"Clim","en":"a/c","de":"Klimaanlage","nl":""}
+{"k":"CATEGNS_CLIMATISATION","fr":"Climatisation","en":"Air conditioning","de":"Klimatisierung","nl":""}
+{"k":"CATEGNS_CLINE","fr":"Céline","en":"Celine\n","de":"Céline","nl":""}
+{"k":"CATEGNS_CLUSTERMARITIME","fr":"Cluster Maritime","en":"Maritime Cluster\ns","de":"Cluster Maritime","nl":""}
+{"k":"CATEGNS_CNR","fr":"CNR","en":"CNR","de":"CNR","nl":""}
+{"k":"CATEGNS_CO_ACTIVIT","fr":"Co-activité","en":"Coordinated activity","de":"Gruppenaktiv.","nl":""}
+{"k":"CATEGNS_CO_VOITURAGE","fr":"Co-Voiturage","en":"Car-sharing","de":"Car-Sharing","nl":""}
+{"k":"CATEGNS_COACTIVIT","fr":"Co-activité","en":"","de":"","nl":""}
+{"k":"CATEGNS_COLOCATION","fr":"Colocation","en":"Flat-share","de":"WG","nl":""}
+{"k":"CATEGNS_COMMANDETAXI","fr":"Commande Taxi","en":"Order Taxi\n","de":"Taxiruf","nl":""}
+{"k":"CATEGNS_COMMERCES","fr":"Commerces","en":"Shops","de":"Geschäfte","nl":""}
+{"k":"CATEGNS_COMMERCIAL","fr":"Commercial","en":"Commercial\n","de":"Geschäft","nl":""}
+{"k":"CATEGNS_COMMUNIQUER","fr":"Communiquer","en":"Communicate","de":"Mitteilen","nl":""}
+{"k":"CATEGNS_COMPORTEMENT","fr":"Comportement","en":"Behavior\n","de":"Verhalten","nl":""}
+{"k":"CATEGNS_COMPORTEMENTINNA","fr":"Comportement inna.","en":"Inna Behavior.\n","de":"Unangem. Verhalten","nl":""}
+{"k":"CATEGNS_COMPOST","fr":"Compost","en":"Compost","de":"Kompost","nl":""}
+{"k":"CATEGNS_CONCOURSPASS","fr":"Concours PASS","en":"Concours PASS","de":"Concours PASS","nl":""}
+{"k":"CATEGNS_CONFORT","fr":"Confort","en":"Comfort","de":"Komfort","nl":""}
+{"k":"CATEGNS_CONRLEACCS","fr":"Conrôle accès","en":"Access control","de":"Zugriffskontrolle","nl":""}
+{"k":"CATEGNS_CONSERVATION","fr":"Conservation","en":"Conservation\n","de":"Aufbewahrung","nl":""}
+{"k":"CATEGNS_CONTAINER_ISSUE","fr":"container_issue","en":"container_issue","de":"container_issue","nl":""}
+{"k":"CATEGNS_CONTRLEACCS","fr":"Contrôle accès","en":"Access control","de":"Zugriffskontrolle","nl":""}
+{"k":"CATEGNS_CONTRLEDACCS","fr":"Contrôle d'accès","en":"Access control","de":"Zugriffskontrolle","nl":""}
+{"k":"CATEGNS_CONTRLEDESACCS","fr":"Contrôle des accès","en":"Access control","de":"Zugriffskontrolle","nl":""}
+{"k":"CATEGNS_CONTROLEDACCS","fr":"Controle d'accès","en":"Access control","de":"Zugriffskontrolle","nl":""}
+{"k":"CATEGNS_CONVOYAGE","fr":"Convoyage","en":"Driveaway","de":"Fahrservice","nl":""}
+{"k":"CATEGNS_COPAINSTOQUS","fr":"Copains Toqués","en":"Copains Toqués","de":"Copains Toqués","nl":""}
+{"k":"CATEGNS_COPAINTOQUS","fr":"Copain Toqués","en":"Copains Toqués","de":"Copains Toqués","nl":""}
+{"k":"CATEGNS_COULOIR","fr":"Couloir","en":"Hallway","de":"Gang","nl":""}
+{"k":"CATEGNS_COUPDEPOUCE","fr":"Coup de pouce","en":"Helping hand","de":"Coup de pouce","nl":""}
+{"k":"CATEGNS_COURRIER","fr":"Courrier","en":"Mail","de":"Post","nl":""}
+{"k":"CATEGNS_COURRIERCOLIS","fr":"Courrier/colis","en":"Mail/parcels\n","de":"Briefe/Pakete","nl":""}
+{"k":"CATEGNS_COURS","fr":"Cours","en":"Lessons","de":"Kurs","nl":""}
+{"k":"CATEGNS_COVOITURAGE","fr":"Covoiturage","en":"Car-sharing","de":"Car-Sharing","nl":""}
+{"k":"CATEGNS_CRAN","fr":"Écran","en":"Screen","de":"Bildschirm","nl":""}
+{"k":"CATEGNS_CROIXROUGE","fr":"Croix Rouge","en":"Red Cross\n","de":"Rotes Kreuz","nl":""}
+{"k":"CATEGNS_CTG","fr":"CTG","en":"CTG\n","de":"CTG","nl":""}
+{"k":"CATEGNS_CUISINE","fr":"Cuisine","en":"Cooking","de":"Küche","nl":""}
+{"k":"CATEGNS_CUVE","fr":"Cuve","en":"Tank\n","de":"Bottich","nl":""}
+{"k":"CATEGNS_DAILYHAPPYFOOD","fr":"Daily Happy Food","en":"Daily happy food","de":"Daily Happy Food","nl":""}
+{"k":"CATEGNS_DANGER","fr":"Danger","en":"Danger\n","de":"Gefahr","nl":""}
+{"k":"CATEGNS_DATESDESPORTESOUVERTES","fr":"Dates des portes ouvertes","en":"Open House Days","de":"Tage der offenen Tür","nl":""}
+{"k":"CATEGNS_DCHET","fr":"Déchet","en":"Waste","de":"Abfall","nl":""}
+{"k":"CATEGNS_DCHETS","fr":"Déchets","en":"Waste","de":"Abfälle","nl":""}
+{"k":"CATEGNS_DCHTERIE","fr":"Déchèterie","en":"Recycle Center","de":"Recyclinghof","nl":""}
+{"k":"CATEGNS_DGRADATION","fr":"Dégradation","en":"Damage","de":"Beschädigung","nl":""}
+{"k":"CATEGNS_DGRADATIONS","fr":"Dégradations","en":"Damage","de":"Beschädigungen","nl":""}
+{"k":"CATEGNS_DIVERS","fr":"Divers","en":"Misc.","de":"Anderes","nl":""}
+{"k":"CATEGNS_DOCUMENTATION","fr":"Documentation","en":"Documentation","de":"Dokumentation","nl":""}
+{"k":"CATEGNS_DOCUMENTCAMPUS","fr":"Document Campus","en":"Campus Document","de":"Dokument Campus","nl":""}
+{"k":"CATEGNS_DOCUMENTS","fr":"Documents","en":"Documents","de":"Dokumente","nl":""}
+{"k":"CATEGNS_DOUCHES","fr":"Douches","en":"Showers","de":"Duschen","nl":""}
+{"k":"CATEGNS_DRAPSERVIETTE","fr":"Drap/Serviette","en":"Sheet/Towel\n","de":"Bettwäsche/Handtücher","nl":""}
+{"k":"CATEGNS_DTRIORATION","fr":"Détérioration","en":"Deterioration","de":"Beschädigung","nl":""}
+{"k":"CATEGNS_E_SPORT","fr":"e-sport","en":"e-sport","de":"E-Sport","nl":""}
+{"k":"CATEGNS_EAU","fr":"Eau","en":"Water","de":"Wasser","nl":""}
+{"k":"CATEGNS_EAUCHAUDE","fr":"Eau chaude","en":"Hot water","de":"Warmes Wasser","nl":""}
+{"k":"CATEGNS_EAUPOTABLE","fr":"Eau potable","en":"Drinking water","de":"Trinkwasser","nl":""}
+{"k":"CATEGNS_ECHAFAUDAGES","fr":"Echafaudages","en":"Scaffolding","de":"Gerüste","nl":""}
+{"k":"CATEGNS_ECLAIRAGE","fr":"Eclairage","en":"Lighting","de":"Beleuchtung","nl":""}
+{"k":"CATEGNS_ECLAIRAGEELEC","fr":"Eclairage/Elec","en":"Lighting/Elec\n","de":"Licht/Strom","nl":""}
+{"k":"CATEGNS_ECLAIRAGEELECT","fr":"Eclairage/Elect","en":"Lighting/Elect\n","de":"Licht/Strom","nl":""}
+{"k":"CATEGNS_ECLUSE","fr":"Ecluse","en":"Lock","de":"Schleuse","nl":""}
+{"k":"CATEGNS_ECO_CITOYEN","fr":"Eco-citoyen","en":"Eco-citizenship","de":"Öko-Bürger","nl":""}
+{"k":"CATEGNS_ECOTIME","fr":"Eco time","en":"Eco time","de":"Eco time","nl":""}
+{"k":"CATEGNS_ECS","fr":"ECS","en":"ECS","de":"Warmwasser","nl":""}
+{"k":"CATEGNS_ELECTROMNAGER","fr":"Electroménager","en":"Electrical appliances","de":"Elektrogerät","nl":""}
+{"k":"CATEGNS_ELEVATOR","fr":"Barrière auto","en":"Car barrier","de":"Autoschranke","nl":""}
+{"k":"CATEGNS_ENCOMBRANTS","fr":"Encombrants","en":"Bulky waste","de":"Sperrmüll","nl":""}
+{"k":"CATEGNS_ENEDIS","fr":"enedis","en":"enedis","de":"enedis","nl":""}
+{"k":"CATEGNS_ENEDISCONTRLE","fr":"Enedis contrôle","en":"Enedis control\n","de":"Enedis Kontrolle","nl":""}
+{"k":"CATEGNS_ENGIE","fr":"Engie","en":"Engie","de":"Engie","nl":""}
+{"k":"CATEGNS_ENGINSMATRIEL","fr":"Engins/Matériel","en":"Machines/equipment","de":"Geräte/Material","nl":""}
+{"k":"CATEGNS_ENTRAIDE","fr":"Entraide","en":"Mutual aid","de":"Hilfestellung","nl":""}
+{"k":"CATEGNS_ENV1","fr":"Env 1","en":"Env 1","de":"Env 1","nl":""}
+{"k":"CATEGNS_ENV2","fr":"Env 2","en":"Env 2","de":"Env 2","nl":""}
+{"k":"CATEGNS_ENV3","fr":"Env 3","en":"Env 3","de":"Env 3","nl":""}
+{"k":"CATEGNS_ENV4","fr":"Env 4","en":"Env 4","de":"Env 4","nl":""}
+{"k":"CATEGNS_ENV5","fr":"Env 5","en":"Env 5","de":"Env 5","nl":""}
+{"k":"CATEGNS_ENV6","fr":"Env 6","en":"Env 6\n","de":"Env 6","nl":""}
+{"k":"CATEGNS_ENVOIDECOLIS","fr":"Envoi de colis","en":"Sending parcels\n","de":"Paketversand","nl":""}
+{"k":"CATEGNS_ENVOIEDECOLIS","fr":"Envoie de colis","en":"Sending parcels\n","de":"Paketversand","nl":""}
+{"k":"CATEGNS_EOLIEN","fr":"Eolien","en":"Wind turbine","de":"Windkraft","nl":""}
+{"k":"CATEGNS_EPI","fr":"EPI","en":"PPE","de":"Schutzausrüstung","nl":""}
+{"k":"CATEGNS_ESCALATOR","fr":"Escalator","en":"Escalator","de":"Rolltreppe","nl":""}
+{"k":"CATEGNS_ESPACESVERT","fr":"Espaces vert","en":"Green spaces","de":"Grünflächen","nl":""}
+{"k":"CATEGNS_ESPACESVERTS","fr":"Espaces verts","en":"Green spaces","de":"Grünflächen","nl":""}
+{"k":"CATEGNS_ESPACEVERTS","fr":"Espace verts","en":"Green spaces","de":"Grünflächen","nl":""}
+{"k":"CATEGNS_ESPIBAL","fr":"espi bal","en":"espi bal","de":"espi bal","nl":""}
+{"k":"CATEGNS_ESPITERTIAIRE","fr":"ESPI tertiaire","en":"ESPI tertiaire","de":"ESPI tertiaire","nl":""}
+{"k":"CATEGNS_ESPORTTTT","fr":"e-sportttt","en":"e-sportttttt\n","de":"e-sportttt","nl":""}
+{"k":"CATEGNS_EVACUATION","fr":"Evacuation","en":"Evacuation","de":"Abfluss","nl":""}
+{"k":"CATEGNS_EVENTS","fr":"events","en":"events","de":"Events","nl":""}
+{"k":"CATEGNS_EVNEMENT","fr":"Evènement","en":"Event","de":"Ereignis","nl":""}
+{"k":"CATEGNS_EVNEMENTS","fr":"Evénements","en":"Events","de":"Ereignisse","nl":""}
+{"k":"CATEGNS_EXTINCTEURFEU","fr":"Extincteur feu","en":"Fire extinguisher","de":"Feuerlöscher","nl":""}
+{"k":"CATEGNS_EXTRIEUR","fr":"Extérieur","en":"Exterior","de":"Außen","nl":""}
+{"k":"CATEGNS_EY","fr":"EY","en":"EY\n","de":"EY","nl":""}
+{"k":"CATEGNS_FACEBOOK","fr":"Facebook","en":"Facebook","de":"Facebook","nl":""}
+{"k":"CATEGNS_FENTREVOLET","fr":"Fenêtre/Volet","en":"Windows/Shutters","de":"Fenster/Laden","nl":""}
+{"k":"CATEGNS_FERMENTATION","fr":"Fermentation","en":"Fermentation\n","de":"Fermentierung","nl":""}
+{"k":"CATEGNS_FERREPASSER","fr":"Fer à repasser","en":"Iron","de":"Bügeleisen","nl":""}
+{"k":"CATEGNS_FETEDESLUMIERES","fr":"feteDesLumieres","en":"feteDesLumieres","de":"feteDesLumieres","nl":""}
+{"k":"CATEGNS_FEU","fr":"Feu","en":"Fire","de":"Brand","nl":""}
+{"k":"CATEGNS_FIDLIT","fr":"Fidélité","en":"Loyalty","de":"Treue","nl":""}
+{"k":"CATEGNS_FIITLI","fr":"Fiitli","en":"Fiitli\n","de":"Fiitli","nl":""}
+{"k":"CATEGNS_FISSURE","fr":"Fissure","en":"Crack","de":"Riss","nl":""}
+{"k":"CATEGNS_FLAT","fr":"flat","en":"FLAT","de":"FLAT","nl":""}
+{"k":"CATEGNS_FLEURISTE","fr":"Fleuriste","en":"Florist","de":"Blumengeschäft","nl":""}
+{"k":"CATEGNS_FLEXOM","fr":"Flexom","en":"Flexom","de":"Flexom","nl":""}
+{"k":"CATEGNS_FLIX","fr":"Félix","en":"Felix\n","de":"Félix","nl":""}
+{"k":"CATEGNS_FLUXRSS","fr":"Flux RSS","en":"RSS Feed\n","de":"RSS-Feed","nl":""}
+{"k":"CATEGNS_FOYERSTUDIANTS","fr":"Foyers étudiants","en":"Halls of residence","de":"Wohnheime","nl":""}
+{"k":"CATEGNS_FTE","fr":"Fête","en":"Party","de":"Fest","nl":""}
+{"k":"CATEGNS_FTEDESLUMIRES","fr":"Fête des Lumières","en":"Fête des Lumières","de":"Fête des Lumières","nl":""}
+{"k":"CATEGNS_FTEDESVOISINS","fr":"Fête des voisins","en":"Neighbours' Day\n","de":"Nachbarschaftsfest","nl":""}
+{"k":"CATEGNS_FUITE","fr":"Fuite","en":"Leak\n","de":"Flucht","nl":""}
+{"k":"CATEGNS_FUITEDEAU","fr":"Fuite d'eau","en":"Water leak","de":"Wasserleck","nl":""}
+{"k":"CATEGNS_GAINE","fr":"Gaine","en":"Girdle\n","de":"Schacht","nl":""}
+{"k":"CATEGNS_GARDECORPS","fr":"Garde corps","en":"Handrail","de":"Geländer","nl":""}
+{"k":"CATEGNS_GARDIENNAGE","fr":"Gardiennage","en":"Caretaking","de":"Bewachung","nl":""}
+{"k":"CATEGNS_GAREFERROVIAIRE","fr":"Gare ferroviaire","en":"Train station","de":"Bahnhof","nl":""}
+{"k":"CATEGNS_GEEK","fr":"Geek","en":"Geek","de":"Geek","nl":""}
+{"k":"CATEGNS_GENERIC_BUILDING_AID","fr":"GENERIC_BUILDING_AID","en":"GENERIC_BUILDING_AID","de":"GENERIC_BUILDING_AID","nl":""}
+{"k":"CATEGNS_GENERIC_BUILDING_DOCUMENT","fr":"GENERIC_BUILDING_DOCUMENT","en":"GENERIC_BUILDING_DOCUMENT","de":"GENERIC_BUILDING_DOCUMENT","nl":""}
+{"k":"CATEGNS_GENERIC_BUILDING_DOCUMENT_CONTAINER","fr":"GENERIC_BUILDING_DOCUMENT_CONTAINER","en":"GENERIC_BUILDING_DOCUMENT_CONTAINER","de":"GENERIC_BUILDING_DOCUMENT_CONTAINER","nl":""}
+{"k":"CATEGNS_GENERIC_BUILDING_ISSUE","fr":"GENERIC_BUILDING_ISSUE","en":"GENERIC_BUILDING_ISSUE","de":"GENERIC_BUILDING_ISSUE","nl":""}
+{"k":"CATEGNS_GENERIC_BUILDING_TOPIC","fr":"GENERIC_BUILDING_TOPIC","en":"GENERIC_BUILDING_TOPIC","de":"GENERIC_BUILDING_TOPIC","nl":""}
+{"k":"CATEGNS_GENERIC_CAMPUS_DOCUMENT","fr":"GENERIC_CAMPUS_DOCUMENT","en":"GENERIC_CAMPUS_DOCUMENT","de":"GENERIC_CAMPUS_DOCUMENT","nl":""}
+{"k":"CATEGNS_GENERIC_CAMPUS_DOCUMENT_CONTAINER","fr":"GENERIC_CAMPUS_DOCUMENT_CONTAINER","en":"GENERIC_CAMPUS_DOCUMENT_CONTAINER","de":"GENERIC_CAMPUS_DOCUMENT_CONTAINER","nl":""}
+{"k":"CATEGNS_GENERIC_CAMPUS_ISSUE","fr":"GENERIC_CAMPUS_ISSUE","en":"GENERIC_CAMPUS_ISSUE","de":"GENERIC_CAMPUS_ISSUE","nl":""}
+{"k":"CATEGNS_GENERIC_CITY_DOCUMENT","fr":"GENERIC_CITY_DOCUMENT","en":"GENERIC_CITY_DOCUMENT","de":"GENERIC_CITY_DOCUMENT","nl":""}
+{"k":"CATEGNS_GENERIC_CITY_DOCUMENT_CONTAINER","fr":"GENERIC_CITY_DOCUMENT_CONTAINER","en":"GENERIC_CITY_DOCUMENT_CONTAINER","de":"GENERIC_CITY_DOCUMENT_CONTAINER","nl":""}
+{"k":"CATEGNS_GENERIC_CITY_ISSUE","fr":"GENERIC_CITY_ISSUE","en":"GENERIC_CITY_ISSUE","de":"GENERIC_CITY_ISSUE","nl":""}
+{"k":"CATEGNS_GENERIC_FLAT_ISSUE","fr":"GENERIC_FLAT_ISSUE","en":"GENERIC_FLAT_ISSUE","de":"GENERIC_FLAT_ISSUE","nl":""}
+{"k":"CATEGNS_GERIC","fr":"Geric","en":"Geric","de":"Geric","nl":""}
+{"k":"CATEGNS_GESTIONDESDOCUMENTS","fr":"Gestion des documents","en":"Manage documents","de":"Dokumente verwalten","nl":""}
+{"k":"CATEGNS_GIULIOSTAVOLA","fr":"Giulio's Tavola","en":"Giulio's Tavola\n","de":"Giulio's Tavola","nl":""}
+{"k":"CATEGNS_GNIECIVIL","fr":"Génie civil","en":"Civil engineering","de":"Hoch-/Tiefbau","nl":""}
+{"k":"CATEGNS_GOTOWELLNESS","fr":"Go to wellness","en":"Go to wellness","de":"Go-To-Wellness","nl":""}
+{"k":"CATEGNS_GRAFFITI","fr":"Graffiti","en":"Graffiti","de":"Graffiti","nl":""}
+{"k":"CATEGNS_GRANDLYONTV","fr":"Grand Lyon Tv","en":"Grand Lyon TV","de":"Grand Lyon Tv","nl":""}
+{"k":"CATEGNS_GRDF","fr":"GRDF","en":"GRDF","de":"GRDF","nl":""}
+{"k":"CATEGNS_GUERMANTES","fr":"Guermantes","en":"Guermantes","de":"Guermantes","nl":""}
+{"k":"CATEGNS_GUIDEDESTUDES","fr":"Guide des études","en":"Academic guide","de":"Studienleitfaden","nl":""}
+{"k":"CATEGNS_HBERGEMENTS","fr":"Hébergements","en":"Accommodation","de":"Unterkünfte","nl":""}
+{"k":"CATEGNS_HIPPOPOTAMUS","fr":"Hippopotamus","en":"Hippopotamus\n","de":"Hippopotamus","nl":""}
+{"k":"CATEGNS_HUNTWEEK","fr":"HUNTWEEK","en":"Huntweek","de":"Huntweek","nl":""}
+{"k":"CATEGNS_IDE","fr":"Idée","en":"Idea","de":"Idee","nl":""}
+{"k":"CATEGNS_IDES","fr":"Idées","en":"Ideas","de":"Ideen","nl":""}
+{"k":"CATEGNS_ILIKEIT","fr":"I like it!","en":"I like it!","de":"I like it!","nl":""}
+{"k":"CATEGNS_IMPRIMANTE","fr":"Imprimante","en":"Printer","de":"Drucker","nl":""}
+{"k":"CATEGNS_INCIDENT","fr":"Incident","en":"New Issue","de":"Vorfall","nl":""}
+{"k":"CATEGNS_INCIDENTLIVRAISON","fr":"Incident Livraison","en":"Incident Livraison","de":"Vorfall Lieferung","nl":""}
+{"k":"CATEGNS_INCIDENTS","fr":"Incidents","en":"Incidents","de":"Vorfälle","nl":""}
+{"k":"CATEGNS_INCIDENTSCAMPUS","fr":"Incidents campus","en":"Campus Incidents\n","de":"Vorfälle Campus","nl":""}
+{"k":"CATEGNS_INCUBATEUR","fr":"Incubateur","en":"Incubator","de":"Inkubator","nl":""}
+{"k":"CATEGNS_INFOCHANTIERS","fr":"Info chantiers","en":"Construction site information\n","de":"Info zu Baustellen","nl":""}
+{"k":"CATEGNS_INFORMATION","fr":"Information","en":"Information","de":"Information","nl":""}
+{"k":"CATEGNS_INFORMATIONS","fr":"Informations","en":"News","de":"Informationen","nl":""}
+{"k":"CATEGNS_INFORMATIQUE","fr":"Informatique","en":"IT","de":"Informatik","nl":""}
+{"k":"CATEGNS_INFORMATIQUEETRSEAU","fr":"Informatique et réseau","en":"IT & Network","de":"IT und Netzwerk","nl":""}
+{"k":"CATEGNS_INFOSCHANTIERS","fr":"Infos chantiers","en":"Construction site info\n","de":"Infos zu Baustellen","nl":""}
+{"k":"CATEGNS_INFOTHQUE","fr":"Infothèque","en":"Info. bank","de":"Infothek","nl":""}
+{"k":"CATEGNS_INFRASTRUCTURE","fr":"Infrastructure","en":"Infrastructure","de":"Infrastruktur","nl":""}
+{"k":"CATEGNS_INONDATION","fr":"Inondation","en":"Flooding\n","de":"Wasserschaden","nl":""}
+{"k":"CATEGNS_INSEEC","fr":"INSEEC","en":"INSEEC","de":"INSEEC","nl":""}
+{"k":"CATEGNS_INSEECBBA","fr":"INSEEC BBA","en":"INSEEC BBA","de":"INSEEC BBA","nl":""}
+{"k":"CATEGNS_INSEECCAMPUS","fr":"INSEEC Campus","en":"INSEEC Campus","de":"INSEEC Campus","nl":""}
+{"k":"CATEGNS_INSEECDOCUMENTS","fr":"Inseec Documents","en":"Inseec Documents","de":"Inseec-Dokumente","nl":""}
+{"k":"CATEGNS_INSEECINTERNATIONAL","fr":"INSEEC International","en":"INSEEC International","de":"INSEEC International","nl":""}
+{"k":"CATEGNS_INSEECINTERNATIONNAL","fr":"INSEEC Internationnal","en":"INSEEC International","de":"INSEEC International","nl":""}
+{"k":"CATEGNS_INSTALLATION","fr":"Installation","en":"Installation","de":"Installation","nl":""}
+{"k":"CATEGNS_INSTALLATIONSPORTIVE","fr":"Installation sportive","en":"Sports facilities","de":"Sportanlage","nl":""}
+{"k":"CATEGNS_INSTALLCHANTIER","fr":"Install chantier","en":"Site facilities","de":"Aufbau Baustelle","nl":""}
+{"k":"CATEGNS_INTERNETWIFI","fr":"Internet/WiFi","en":"Internet/WiFi\n","de":"Internet/WLAN","nl":""}
+{"k":"CATEGNS_ITINRAIRE","fr":"Itinéraire","en":"Route","de":"Anfahrt","nl":""}
+{"k":"CATEGNS_JAIME","fr":"J'aime","en":"Like","de":"Gefällt mir","nl":""}
+{"k":"CATEGNS_JAIMEMOINS","fr":"J'aime moins","en":"I'm not keen","de":"Mag ich nicht","nl":""}
+{"k":"CATEGNS_JANEGOODALL","fr":"Jane Goodall","en":"Jane Goodall","de":"Jane Goodall","nl":""}
+{"k":"CATEGNS_JARDIN","fr":"Jardin","en":"Garden","de":"Garten","nl":""}
+{"k":"CATEGNS_JARDINIRE","fr":"Jardinière","en":"Planter","de":"Gärtner","nl":""}
+{"k":"CATEGNS_JARDINPRIVATIF","fr":"Jardin privatif","en":"Private garden","de":"Privatgarten","nl":""}
+{"k":"CATEGNS_JEDONNE","fr":"Je donne","en":"I donate","de":"Ich gebe","nl":""}
+{"k":"CATEGNS_JOBSTAGE","fr":"Job/Stage","en":"Internships/Jobs","de":"Job/Praktikum","nl":""}
+{"k":"CATEGNS_JOHNPAUL","fr":"John Paul","en":"John Paul\n","de":"John Paul","nl":""}
+{"k":"CATEGNS_JORGANISE","fr":"J'organise","en":"I organise my diary","de":"Organisieren","nl":""}
+{"k":"CATEGNS_JURIDIQUE","fr":"Juridique","en":"Legal\n","de":"Rechtliches","nl":""}
+{"k":"CATEGNS_LAPPART","fr":"L'appart","en":"The apartment","de":"L'appart","nl":""}
+{"k":"CATEGNS_LARAFFINERIE","fr":"La Raffinerie","en":"The Refinery\n","de":"La Raffinerie","nl":""}
+{"k":"CATEGNS_LARGEUR","fr":"Largeur","en":"Width","de":"Breite","nl":""}
+{"k":"CATEGNS_LAVERIE","fr":"Laverie","en":"Launderette","de":"Waschsalon","nl":""}
+{"k":"CATEGNS_LEARNINGLAB","fr":"Learning Lab","en":"Learning Lab","de":"Learning Lab","nl":""}
+{"k":"CATEGNS_LEBELVDRE","fr":"Le Belvédère","en":"The Belvedere\n","de":"Le Belvédère","nl":""}
+{"k":"CATEGNS_LECOUPFOURR","fr":"Le coup fourré","en":"Le coup fourré\ny","de":"Le coup fourré","nl":""}
+{"k":"CATEGNS_LECTRICIT","fr":"Électricité","en":"Electricity","de":"Strom","nl":""}
+{"k":"CATEGNS_LEMANSCIRCUIT","fr":"Le Mans Circuit","en":"Le Mans Circuit","de":"Le Mans Circuit","nl":""}
+{"k":"CATEGNS_LESBONSPLANS","fr":"Les bons plans","en":"Goods to knows\n","de":"Gute Tipps","nl":""}
+{"k":"CATEGNS_LESQUARE","fr":"Le square","en":"The square\n","de":"Le square","nl":""}
+{"k":"CATEGNS_LESSTAGES","fr":"Les stages","en":"Internships","de":"Praktika","nl":""}
+{"k":"CATEGNS_LESVOILESDEST_TROPEZ","fr":"Les voiles de St-Tropez","en":"Les voiles de St-Tropez","de":"Les voiles de St-Tropez","nl":""}
+{"k":"CATEGNS_LIENSUTILES","fr":"Liens utiles","en":"Useful links","de":"Nützliche Links","nl":""}
+{"k":"CATEGNS_LIGNEDVAC","fr":"Ligne d'évac.","en":"Evacuat. route","de":"Abwasserleitung","nl":""}
+{"k":"CATEGNS_LINGE","fr":"Linge","en":"Laundry","de":"Wäsche","nl":""}
+{"k":"CATEGNS_LINGEDELIT","fr":"Linge de lit","en":"Bed linen\n","de":"Bettwäsche","nl":""}
+{"k":"CATEGNS_LINGEDEMAISON","fr":"Linge de maison","en":"Household linen","de":"Hauswäsche","nl":""}
+{"k":"CATEGNS_LISTEDEDOC","fr":"Liste de doc","en":"Doc. list","de":"Dok.-Liste","nl":""}
+{"k":"CATEGNS_LIVRAISON","fr":"Livraison","en":"Delivery","de":"Lieferung","nl":""}
+{"k":"CATEGNS_LOCALISATION","fr":"Localisation","en":"Localisation","de":"Ortsbestimmung","nl":""}
+{"k":"CATEGNS_LOCALVLO","fr":"Local Vélo","en":"Bike shed","de":"Fahrradraum","nl":""}
+{"k":"CATEGNS_LOCAUXCOMMUNS","fr":"Locaux communs","en":"Common areas","de":"Gemeinsame Räume","nl":""}
+{"k":"CATEGNS_LODAVEILLE","fr":"LoDaVeille","en":"LoDaVeille\n","de":"LoDaVeille","nl":""}
+{"k":"CATEGNS_LOGICIEL","fr":"Logiciel","en":"Software\n","de":"Software","nl":""}
+{"k":"CATEGNS_LOGO","fr":"Logo","en":"Logo\n","de":"Logo","nl":""}
+{"k":"CATEGNS_LOISIRS","fr":"Loisirs","en":"Leisure","de":"Hobbys","nl":""}
+{"k":"CATEGNS_LONGUEUR","fr":"Longueur","en":"Length","de":"Länge","nl":""}
+{"k":"CATEGNS_LU","fr":"L&U","en":"L&U","de":"L&U","nl":""}
+{"k":"CATEGNS_LUXEMBOURG","fr":"luxembourg","en":"Luxembourg","de":"Luxemburg","nl":""}
+{"k":"CATEGNS_MACHINECAF","fr":"Machine à café","en":"Coffee machine","de":"Kaffeemaschine","nl":""}
+{"k":"CATEGNS_MACHINES","fr":"Machines","en":"Machines","de":"Maschinen","nl":""}
+{"k":"CATEGNS_MAIF","fr":"MAIF","en":"MAIF\n","de":"MAIF","nl":""}
+{"k":"CATEGNS_MAKEUPFOREVER","fr":"Make up for ever","en":"Make Up For Ever","de":"Make up for ever","nl":""}
+{"k":"CATEGNS_MARKETING","fr":"Marketing","en":"Marketing\n","de":"Marketing","nl":""}
+{"k":"CATEGNS_MASTER_LIKE","fr":"MASTER_LIKE","en":"MASTER_LIKE","de":"MASTER_LIKE","nl":""}
+{"k":"CATEGNS_MASTERCATEGDEAPPLICAMPUS","fr":"master categ de appli campus","en":"master categ de appli campus","de":"master categ de appli campus","nl":""}
+{"k":"CATEGNS_MASTERCATEGDEAPPLISUSHI","fr":"master categ de appli sushi","en":"master categ de appli sushi","de":"master categ de appli sushi","nl":""}
+{"k":"CATEGNS_MASTERCATEGDEFUTURINSEEC","fr":"master categ de futur Inseec","en":"master categ de futur Inseec","de":"master categ de futur Inseec","nl":""}
+{"k":"CATEGNS_MASTERCATEGDEINSEEC","fr":"master categ de inseec","en":"master categ de inseec","de":"master categ de inseec","nl":""}
+{"k":"CATEGNS_MASTERCATEGFUTURINSEEC","fr":"master categ futur inseec","en":"master categ futur inseec","de":"master categ futur inseec","nl":""}
+{"k":"CATEGNS_MATSURI","fr":"matsuri","en":"matsuri","de":"Matsuri","nl":""}
+{"k":"CATEGNS_MAVILLE","fr":"Ma ville","en":"My city","de":"Meine Stadt","nl":""}
+{"k":"CATEGNS_MENUISERIE","fr":"Menuiserie","en":"Woodworking","de":"Schreinerei","nl":""}
+{"k":"CATEGNS_MEUDON","fr":"Meudon","en":"Meudon","de":"Meudon","nl":""}
+{"k":"CATEGNS_MIEUXCONSOMMER","fr":"Mieux consommer","en":"Smarter consumption\n","de":"Besser verbrauchen","nl":""}
+{"k":"CATEGNS_MNAGE","fr":"Ménage","en":"Cleaning","de":"Haushalt","nl":""}
+{"k":"CATEGNS_MOBILIER","fr":"Mobilier","en":"Furniture","de":"Möbel","nl":""}
+{"k":"CATEGNS_MOBILIT","fr":"Mobilité","en":"Mobility","de":"Mobilität","nl":""}
+{"k":"CATEGNS_MONCOMPTE","fr":"Mon Compte","en":"My account","de":"Mein Konto","nl":""}
+{"k":"CATEGNS_MONPOST","fr":"Mon post","en":"My post","de":"Mein Post","nl":""}
+{"k":"CATEGNS_MONQUARTIER","fr":"Mon quartier","en":"My neighbourhood\n","de":"Mein Viertel","nl":""}
+{"k":"CATEGNS_MOOVEE","fr":"Moovee","en":"Moovee","de":"","nl":""}
+{"k":"CATEGNS_MOTHENNESSY","fr":"Moët Hennessy","en":"Moët Hennessy","de":"Moët Hennessy","nl":""}
+{"k":"CATEGNS_MOTHENNESSYVINSETSPIRITUEUX","fr":"Moët Hennessy Vins et Spiritueux","en":"Moët Hennessy Wines and Spirits\n","de":"Moët Hennessy Vins et Spiritueux","nl":""}
+{"k":"CATEGNS_MSCMBA","fr":"Msc & MBA","en":"MSc & MBA","de":"M.Sc. & MBA","nl":""}
+{"k":"CATEGNS_MTROPOLE","fr":"Métropole","en":"Metropolis","de":"Metropole","nl":""}
+{"k":"CATEGNS_MULTIBURO","fr":"Multiburo","en":"Multidesk\n","de":"Multiburo","nl":""}
+{"k":"CATEGNS_MULTIMDIA","fr":"Multimédia","en":"Multimedia","de":"Multimedia","nl":""}
+{"k":"CATEGNS_MUSEMUDAM","fr":"Musée Mudam","en":"Mudam Museum\n","de":"Musée Mudam","nl":""}
+{"k":"CATEGNS_MUSIQUE","fr":"Musique","en":"Music","de":"Musik","nl":""}
+{"k":"CATEGNS_MY_CITY","fr":"MY_CITY","en":"MY_CITY","de":"MY_CITY","nl":""}
+{"k":"CATEGNS_NANTES","fr":"Nantes","en":"Nantes\n","de":"Nantes","nl":""}
+{"k":"CATEGNS_NETTOYAGE","fr":"Nettoyage","en":"Cleanliness","de":"Reinigung","nl":""}
+{"k":"CATEGNS_NEWSCHILD1","fr":"NewsChild1","en":"NewsChild1\n","de":"NewsChild1","nl":""}
+{"k":"CATEGNS_NIVEAUXDEAU","fr":"Niveaux d'eau","en":"Water level","de":"Wasserstände","nl":""}
+{"k":"CATEGNS_NSCS","fr":"NSCS","en":"NSCS\n","de":"NSCS","nl":""}
+{"k":"CATEGNS_NSD","fr":"NSD","en":"NSD\n","de":"NSD","nl":""}
+{"k":"CATEGNS_NUISANCES","fr":"Nuisances","en":"Noise","de":"Belästigungen","nl":""}
+{"k":"CATEGNS_NUISIBLE","fr":"Nuisible","en":"Detrimental","de":"Schädlich","nl":""}
+{"k":"CATEGNS_NUISSANCES","fr":"Nuissances","en":"Noise","de":"Lärmbelästigungen","nl":""}
+{"k":"CATEGNS_OCCUPATION","fr":"Occupation","en":"Occupation","de":"Beschäftigung","nl":""}
+{"k":"CATEGNS_OKKOHTEL","fr":"Okko Hôtel","en":"Okko Hotel\n","de":"Okko Hôtel","nl":""}
+{"k":"CATEGNS_OPH74","fr":"oph74","en":"oph74","de":"oph74","nl":""}
+{"k":"CATEGNS_ORDINATEUR","fr":"Ordinateur","en":"Computer\n","de":"Computer","nl":""}
+{"k":"CATEGNS_OUVRIER","fr":"Ouvrier","en":"Worker","de":"Arbeiter","nl":""}
+{"k":"CATEGNS_PACIFICPIZZA","fr":"Pacific Pizza","en":"Pacific Pizza\n","de":"Pacific Pizza","nl":""}
+{"k":"CATEGNS_PANNE","fr":"Panne","en":"Breakdown\n","de":"Panne","nl":""}
+{"k":"CATEGNS_PARCAUTO","fr":"Parc auto","en":"Car park","de":"Fuhrpark","nl":""}
+{"k":"CATEGNS_PARCS","fr":"Parcs","en":"Parks","de":"Parks","nl":""}
+{"k":"CATEGNS_PARECHOC","fr":"Pare-choc","en":"Bumper\n","de":"Stoßfänger","nl":""}
+{"k":"CATEGNS_PARKING","fr":"Parking","en":"Car park","de":"Parkplatz","nl":""}
+{"k":"CATEGNS_PARQUET","fr":"Parquet","en":"Wooden flooring","de":"Parkett","nl":""}
+{"k":"CATEGNS_PARTENAIRES","fr":"Partenaires","en":"Partners\n","de":"Partner","nl":""}
+{"k":"CATEGNS_PAVE","fr":"Épave","en":"Wreck\n","de":"Wrack","nl":""}
+{"k":"CATEGNS_PEDIBUS","fr":"Pedibus","en":"Walking bus","de":"Pedibus","nl":""}
+{"k":"CATEGNS_PERDUTROUV","fr":"Perdu/trouvé","en":"Lost & found","de":"Fundsachen","nl":""}
+{"k":"CATEGNS_PETIT_DJEUNER","fr":"Petit-déjeuner","en":"Breakfast","de":"Frühstück","nl":""}
+{"k":"CATEGNS_PETITDJEUNER","fr":"Petit déjeuner","en":"Breakfast","de":"Frühstück","nl":""}
+{"k":"CATEGNS_PETITJOBS","fr":"Petit Jobs","en":"Odd Jobs","de":"Kleine Jobs","nl":""}
+{"k":"CATEGNS_PETITSJOBS","fr":"Petits Jobs","en":"Odd Jobs","de":"Kleine Jobs","nl":""}
+{"k":"CATEGNS_PETITSTRAVAUX","fr":"Petits travaux","en":"Small works\n","de":"Kleine Arbeiten","nl":""}
+{"k":"CATEGNS_PHARE","fr":"Phare","en":"Lights\n","de":"Scheinwerfer","nl":""}
+{"k":"CATEGNS_PHOTOCOPIEUR","fr":"Photocopieur","en":"Photocopier","de":"Kopierer","nl":""}
+{"k":"CATEGNS_PHOTOVOLTAQUE","fr":"Photovoltaïque","en":"Solar cell","de":"Photovoltaik","nl":""}
+{"k":"CATEGNS_PILATE","fr":"Pilate","en":"Pilate","de":"Pilates","nl":""}
+{"k":"CATEGNS_PISCINE","fr":"Piscine","en":"Swimming pool","de":"Schwimmbad","nl":""}
+{"k":"CATEGNS_PLACARD","fr":"Placard","en":"Closet","de":"Schrank","nl":""}
+{"k":"CATEGNS_PLAGE","fr":"Plage","en":"Beach","de":"Strand","nl":""}
+{"k":"CATEGNS_PLAN3D","fr":"Plan 3D","en":"3D floor plan","de":"Plan 3D","nl":""}
+{"k":"CATEGNS_PLNIRES","fr":"Plénières","en":"Plenary sessions","de":"Versammlungen","nl":""}
+{"k":"CATEGNS_PLOMBERIE","fr":"Plomberie","en":"Plumbing","de":"Klempner","nl":""}
+{"k":"CATEGNS_POLLUTION","fr":"Pollution","en":"Pollution","de":"Verschmutzung","nl":""}
+{"k":"CATEGNS_PONT","fr":"Pont","en":"Bridge","de":"Brücke","nl":""}
+{"k":"CATEGNS_PORTAIL","fr":"Portail","en":"Doorway","de":"Portal","nl":""}
+{"k":"CATEGNS_PORTE","fr":"Porte","en":"Door","de":"Tür","nl":""}
+{"k":"CATEGNS_PORTECOFFRE","fr":"Porte/Coffre","en":"Door/offer\n","de":"Tür/Kofferraum","nl":""}
+{"k":"CATEGNS_PORTES","fr":"Portes","en":"Doors","de":"Türen","nl":""}
+{"k":"CATEGNS_PORTESERRURERIE","fr":"Porte/Serrurerie","en":"Door/Locks","de":"Tür/Schloss","nl":""}
+{"k":"CATEGNS_POSITION","fr":"Position","en":"Position","de":"Standort","nl":""}
+{"k":"CATEGNS_POUBELLE","fr":"Poubelle","en":"Bin","de":"Mülleimer","nl":""}
+{"k":"CATEGNS_POUBELLES","fr":"Poubelles","en":"Dustbins","de":"Mülltonnen","nl":""}
+{"k":"CATEGNS_POUBELLEVERRE","fr":"Poubelle Verre","en":"Glass Recycling","de":"Glascontainer","nl":""}
+{"k":"CATEGNS_PRESSING","fr":"Pressing","en":"Dry cleaning","de":"Reinigung","nl":""}
+{"k":"CATEGNS_PROGRAMMEBBA","fr":"Programme BBA","en":"BBA Programme","de":"BBA-Programm","nl":""}
+{"k":"CATEGNS_PROJECTEUR","fr":"Projecteur","en":"Video projector","de":"Projektor","nl":""}
+{"k":"CATEGNS_PROPERT","fr":"Properté","en":"Cleanliness","de":"Sauberkeit","nl":""}
+{"k":"CATEGNS_PROPRET","fr":"Propreté","en":"Cleanliness","de":"Sauberkeit","nl":""}
+{"k":"CATEGNS_PROTECTION","fr":"Protection","en":"Safety measure","de":"Schutz","nl":""}
+{"k":"CATEGNS_PROTECTIONARBRE","fr":"Protection arbre","en":"Tree protection\n","de":"Baumschutz","nl":""}
+{"k":"CATEGNS_PRTERRENDRE","fr":"Prêter/Rendre","en":"Lend or give","de":"Ausleihe/Rückg.","nl":""}
+{"k":"CATEGNS_PUBLIER","fr":"Publier","en":"Publish\n","de":"Veröffentlichen","nl":""}
+{"k":"CATEGNS_PV","fr":"P&V","en":"P&V","de":"P&V","nl":""}
+{"k":"CATEGNS_QUAI","fr":"Quai","en":"Dock","de":"Anlegekai","nl":""}
+{"k":"CATEGNS_QUALITDELEAU","fr":"Qualité de l'eau","en":"Water quality","de":"Wasserqualität","nl":""}
+{"k":"CATEGNS_QUISAIT","fr":"Qui sait ?","en":"Who knows?","de":"Wer weiß es?","nl":""}
+{"k":"CATEGNS_RAISIN","fr":"Raisin","en":"Grapes\n","de":"Weintraube","nl":""}
+{"k":"CATEGNS_RAMPE","fr":"Rampe","en":"Ramp","de":"Rampe","nl":""}
+{"k":"CATEGNS_RANDOMTESTENTRY","fr":"random test entry","en":"random test entry","de":"random test entry","nl":""}
+{"k":"CATEGNS_RCEPTION","fr":"Réception","en":"Reception\n","de":"Empfang","nl":""}
+{"k":"CATEGNS_RCOMPENSE","fr":"Récompense","en":"Reward","de":"Belohnung","nl":""}
+{"k":"CATEGNS_RECRUTEMENT","fr":"Recrutement","en":"Recruitment\n","de":"Einstellung","nl":""}
+{"k":"CATEGNS_REDDHIPPO","fr":"Red d'Hippo","en":"Red d'Hippo\n","de":"Red d'Hippo","nl":""}
+{"k":"CATEGNS_RELAIS","fr":"Relais","en":"Clothes Recycling","de":"Kleidercontainer","nl":""}
+{"k":"CATEGNS_RELATIONOUVRIER","fr":"Relation Ouvrier","en":"Worker Relationship","de":"Verhältnis Arbeiter","nl":""}
+{"k":"CATEGNS_RESIDHOME","fr":"Residhome","en":"Residhome\n","de":"Residhome","nl":""}
+{"k":"CATEGNS_RESTAURANT","fr":"Restaurant","en":"Restaurant","de":"Restaurant","nl":""}
+{"k":"CATEGNS_RESTAURANTS","fr":"Restaurants","en":"Restaurants","de":"Restaurants","nl":""}
+{"k":"CATEGNS_RESTAURATION","fr":"Restauration","en":"Cafeteria","de":"Gastronomie","nl":""}
+{"k":"CATEGNS_RGLEMENT","fr":"Règlement","en":"Rules","de":"Ordnung","nl":""}
+{"k":"CATEGNS_RGLEMENTATION","fr":"Réglementation","en":"Regulations","de":"Regulierung","nl":""}
+{"k":"CATEGNS_ROUE","fr":"Roue","en":"Wheel\nGlass\nLighthouse\nDoor/offer\nBodywork\nBreakdown\nAccident\nWreck\nVendalism\nTheft\nFlooding\nLoDaVeille\nMultimedia","de":"Rad","nl":""}
+{"k":"CATEGNS_RSEAU","fr":"Réseau","en":"Network","de":"Netz","nl":""}
+{"k":"CATEGNS_RSEAUXWIFI","fr":"Réseaux/WiFi","en":"Networks/WiFi\n","de":"Netze/WLAN","nl":""}
+{"k":"CATEGNS_RSSFEED","fr":"RSS Feed","en":"RSS Feed\n","de":"RSS-Feed","nl":""}
+{"k":"CATEGNS_RSSRATP","fr":"RSS RATP","en":"RSS RATP\n","de":"RSS RATP","nl":""}
+{"k":"CATEGNS_RTROVISEUR","fr":"Rétroviseur","en":"Rear-view mirror\n","de":"Rückspiegel","nl":""}
+{"k":"CATEGNS_RUES","fr":"Rues","en":"Streets","de":"Straßen","nl":""}
+{"k":"CATEGNS_RVISIONEXAM","fr":"Révision/Exam","en":"Revision/Exams","de":"Lernen/Prüfung","nl":""}
+{"k":"CATEGNS_SAINT_TROPEZ","fr":"Saint-Tropez","en":"Saint-Tropez","de":"Saint-Tropez","nl":""}
+{"k":"CATEGNS_SALLE","fr":"Salle","en":"Room","de":"Raum","nl":""}
+{"k":"CATEGNS_SALLEAMPHI","fr":"Salle / Amphi","en":"Classroom/Lecture hall","de":"Raum/Hörsaal","nl":""}
+{"k":"CATEGNS_SALLEDEBAIN","fr":"Salle de bain","en":"Bathroom\n","de":"Badezimmer","nl":""}
+{"k":"CATEGNS_SALLEDESPORT","fr":"Salle de sport","en":"Gym","de":"Fitnessraum","nl":""}
+{"k":"CATEGNS_SAUNA","fr":"Sauna","en":"Sauna","de":"Sauna","nl":""}
+{"k":"CATEGNS_SCURISATION","fr":"Sécurisation","en":"Securing","de":"Schutz","nl":""}
+{"k":"CATEGNS_SCURIT","fr":"Sécurité","en":"Safety","de":"Sicherheit","nl":""}
+{"k":"CATEGNS_SECOLUXCAMPUS","fr":"Secolux CAMPUS","en":"","de":"","nl":""}
+{"k":"CATEGNS_SECRTARIAT","fr":"Secrétariat","en":"Secretariat\n","de":"Sekretariat","nl":""}
+{"k":"CATEGNS_SERVICES","fr":"Services","en":"Services","de":"Services","nl":""}
+{"k":"CATEGNS_SERVICESBIS","fr":"Services bis","en":"Additional services ","de":"Services bis","nl":""}
+{"k":"CATEGNS_SERVICESNAV","fr":"Services Nav.","en":"Shuttle services","de":"Navi-Service","nl":""}
+{"k":"CATEGNS_SHOPPING","fr":"Shopping","en":"Shopping","de":"Shopping","nl":""}
+{"k":"CATEGNS_SIGNALER","fr":"Signaler","en":"Notify","de":"Melden","nl":""}
+{"k":"CATEGNS_SIGNALISATION","fr":"Signalisation","en":"Signage","de":"Beschilderung","nl":""}
+{"k":"CATEGNS_SITEWEB","fr":"Site Web","en":"Website","de":"Website","nl":""}
+{"k":"CATEGNS_SOIRES","fr":"Soirées","en":"Parties","de":"Partys","nl":""}
+{"k":"CATEGNS_SOL","fr":"Sol","en":"Ground","de":"Boden","nl":""}
+{"k":"CATEGNS_SOLIDARIT","fr":"Solidarité","en":"Solidarity","de":"Solidarität","nl":""}
+{"k":"CATEGNS_SOLMURS","fr":"Sol/Murs","en":"Floor/Walls","de":"Boden/Wände","nl":""}
+{"k":"CATEGNS_SORTIES","fr":"Sorties","en":"Going out","de":"Ausgehen","nl":""}
+{"k":"CATEGNS_SOUTENIR","fr":"Soutenir","en":"Help with studies","de":"Unterstützung","nl":""}
+{"k":"CATEGNS_SPABIENTRE","fr":"SPA / Bien-être","en":"SPA / Wellness","de":"Spa / Wellness","nl":""}
+{"k":"CATEGNS_SPORT","fr":"Sport","en":"Sports","de":"Sport","nl":""}
+{"k":"CATEGNS_ST_TROPEZ","fr":"St-Tropez","en":"St-Tropez","de":"St.-Tropez","nl":""}
+{"k":"CATEGNS_STAGESETEMPLOI","fr":"Stages et emploi","en":"Employment & internships","de":"Praktika & Jobs","nl":""}
+{"k":"CATEGNS_STANHOPE","fr":"Stanhope","en":"Stanhope\n","de":"Stanhope","nl":""}
+{"k":"CATEGNS_STATIONDEMTRO","fr":"Station de métro","en":"Metro station","de":"U-Bahn-Station","nl":""}
+{"k":"CATEGNS_STATIONNEMENT","fr":"Stationnement","en":"Parking","de":"Anlegestelle","nl":""}
+{"k":"CATEGNS_STATIONSERVICE","fr":"Station service","en":"Filling station","de":"Tankstelle","nl":""}
+{"k":"CATEGNS_STOCKAGES","fr":"Stockages","en":"Storage areas","de":"Lager","nl":""}
+{"k":"CATEGNS_STUDENTCAR","fr":"Student car","en":"Student car","de":"Student car","nl":""}
+{"k":"CATEGNS_SUPERMARCH","fr":"Supermarché","en":"Supermarket","de":"Supermarkt","nl":""}
+{"k":"CATEGNS_SURETSECURIT","fr":"Sureté/Securité","en":"Security/Safety","de":"Sicherheit","nl":""}
+{"k":"CATEGNS_SUSHIPDF","fr":"Sushi PDF","en":"Sushi PDF","de":"Sushi PDF","nl":""}
+{"k":"CATEGNS_SUSHIRECETTE","fr":"Sushi recette","en":"Sushi recipe","de":"Sushi-Rezept","nl":""}
+{"k":"CATEGNS_SUSHIRESTAURANT","fr":"Sushi restaurant","en":"Sushi restaurant","de":"Sushi-Restaurant","nl":""}
+{"k":"CATEGNS_SUSHISHOP","fr":"Sushi Shop","en":"Sushi Shop","de":"Sushi","nl":""}
+{"k":"CATEGNS_TAN","fr":"Tan","en":"Tan\n","de":"Tan","nl":""}
+{"k":"CATEGNS_TAXI","fr":"Taxi","en":"Taxi","de":"Taxi","nl":""}
+{"k":"CATEGNS_TCL","fr":"TCL","en":"TCL","de":"TCL","nl":""}
+{"k":"CATEGNS_TEMP_SHIT","fr":"temp_shit","en":"temp_shit","de":"temp_shit","nl":""}
+{"k":"CATEGNS_TEMPRATURE","fr":"Température","en":"Temperature\n","de":"Temperatur","nl":""}
+{"k":"CATEGNS_TERRASSE","fr":"Terrasse","en":"Terrace","de":"Terrasse","nl":""}
+{"k":"CATEGNS_TERRASSEFAADE","fr":"Terrasse/Façade","en":"Terrace/Facade","de":"Terrasse/Fassade","nl":""}
+{"k":"CATEGNS_TESTCATEG_115867555","fr":"TESTCATEG_115867555","en":"TESTCATEG_115867555","de":"TESTCATEG_115867555","nl":""}
+{"k":"CATEGNS_TESTCATEG_115867555_2","fr":"TESTCATEG_115867555_2","en":"TESTCATEG_115867555_2","de":"TESTCATEG_115867555_2","nl":""}
+{"k":"CATEGNS_THONEU","fr":"Thon Eu","en":"Tuna Eu\n","de":"Thon Eu","nl":""}
+{"k":"CATEGNS_TIGERWOK","fr":"Tigerwok","en":"Tigerwok\n","de":"Tigerwork","nl":""}
+{"k":"CATEGNS_TIQUETTE","fr":"Étiquette","en":"Label\n","de":"Etikett","nl":""}
+{"k":"CATEGNS_TLPHONIE","fr":"Téléphonie","en":"Telephony","de":"Telefonie","nl":""}
+{"k":"CATEGNS_TOILETTE","fr":"Toilette","en":"Toilets","de":"Toilette","nl":""}
+{"k":"CATEGNS_TOILETTES","fr":"Toilettes","en":"Toilets","de":"Toiletten","nl":""}
+{"k":"CATEGNS_TOTAL","fr":"Total","en":"Total","de":"Total","nl":""}
+{"k":"CATEGNS_TOTAL_DEMO","fr":"Total_demo","en":"Total_demo","de":"Total_demo","nl":""}
+{"k":"CATEGNS_TOURISME","fr":"Tourisme","en":"Tourism","de":"Tourismus","nl":""}
+{"k":"CATEGNS_TRACTRUEGRENETTE","fr":"Tract Rue Grenette","en":"Tract Rue Grenette","de":"Tract Rue Grenette","nl":""}
+{"k":"CATEGNS_TRAFFIQUER","fr":"Traffiquer","en":"Trafficking\n","de":"Schmuggeln","nl":""}
+{"k":"CATEGNS_TRAFIC","fr":"Trafic","en":"Traffic\n","de":"Verkehr","nl":""}
+{"k":"CATEGNS_TRANSFORMATEUR","fr":"Transformateur","en":"Transformer","de":"Transformator","nl":""}
+{"k":"CATEGNS_TRANSPORTS","fr":"Transports","en":"Transportation","de":"Verkehrsmittel","nl":""}
+{"k":"CATEGNS_TRAVAUX","fr":"Travaux","en":"Construction works","de":"Arbeiten","nl":""}
+{"k":"CATEGNS_TRAVAUXACTUELS","fr":"Travaux actuels","en":"Current works","de":"Akt. Arbeiten","nl":""}
+{"k":"CATEGNS_TRAVELER","fr":"Traveler","en":"Traveller","de":"Traveler","nl":""}
+{"k":"CATEGNS_TRISLECTIF","fr":"Tri Sélectif","en":"Selective Sorting","de":"Mülltrennung","nl":""}
+{"k":"CATEGNS_TROTTOIR","fr":"Trottoir","en":"Pavement","de":"Gehweg","nl":""}
+{"k":"CATEGNS_TROUV","fr":"Trouvé !","en":"Spotted!","de":"Gefunden!","nl":""}
+{"k":"CATEGNS_TUDE","fr":"Étude","en":"Study\n","de":"Studium","nl":""}
+{"k":"CATEGNS_TURBINE","fr":"Turbine","en":"Turbine","de":"Turbine","nl":""}
+{"k":"CATEGNS_TWITTER","fr":"Twitter","en":"Twitter","de":"Twitter","nl":""}
+{"k":"CATEGNS_UBIANTSYNDICROOT","fr":"ubiant syndic root","en":"ubiant syndic root","de":"ubiant syndic root","nl":""}
+{"k":"CATEGNS_UNILIM","fr":"Unilim","en":"Unilim","de":"Unilim","nl":""}
+{"k":"CATEGNS_VACANCES","fr":"Vacances","en":"Holidays","de":"Ferien","nl":""}
+{"k":"CATEGNS_VEILLESINDUP","fr":"Veille Sindup","en":"Sindup Watch\n","de":"Veille Sindup","nl":""}
+{"k":"CATEGNS_VENDALISME","fr":"Vendalisme","en":"Vendalism\ni","de":"Vandalismus","nl":""}
+{"k":"CATEGNS_VENTILATION","fr":"Ventilation","en":"Ventilation","de":"Belüftung","nl":""}
+{"k":"CATEGNS_VENTILLATION","fr":"Ventilation","en":"Ventilation","de":"Lüftung","nl":""}
+{"k":"CATEGNS_VHICULES","fr":"Véhicules","en":"Vehicles","de":"Fahrzeuge","nl":""}
+{"k":"CATEGNS_VIDEDRESSING","fr":"Vide dressing","en":"Closet clean-out","de":"Trödelmarkt","nl":""}
+{"k":"CATEGNS_VIDEPLACARD","fr":"Vide placard","en":"Closet sale","de":"Trödelmarkt","nl":""}
+{"k":"CATEGNS_VIDOPROJECTEUR","fr":"Vidéo projecteur","en":"Video projector","de":"Videoprojektor","nl":""}
+{"k":"CATEGNS_VIETUDIANTE","fr":"Vie étudiante","en":"Student life","de":"Studentenleben","nl":""}
+{"k":"CATEGNS_VIGILANCE","fr":"Vigilance","en":"Vigilance","de":"Wachsamkeit","nl":""}
+{"k":"CATEGNS_VILLAGEDELOUEST","fr":"Village de l'Ouest","en":"Village de l'Ouest","de":"Village de l'Ouest","nl":""}
+{"k":"CATEGNS_VISIBILIT","fr":"Visibilité","en":"Visibility","de":"Sichtbarkeit","nl":""}
+{"k":"CATEGNS_VITRE","fr":"Vitre","en":"Glass\n","de":"Scheibe","nl":""}
+{"k":"CATEGNS_VLO","fr":"Vélo","en":"Bikes","de":"Fahrrad","nl":""}
+{"k":"CATEGNS_VMC","fr":"VMC","en":"Ventilation Sys.","de":"Lüftung","nl":""}
+{"k":"CATEGNS_VOIDCAMPUS","fr":"VOIDCAMPUS","en":"VOIDCAMPUS","de":"VOIDCAMPUS","nl":""}
+{"k":"CATEGNS_VOIEDEDISPA","fr":"Voie de dispa.","en":"Dispa track.\n","de":"Bedroht","nl":""}
+{"k":"CATEGNS_VOIEDEDISPARITION","fr":"Voie de disparition","en":"Endangered\n","de":"Bedroht","nl":""}
+{"k":"CATEGNS_VOIES","fr":"Voies","en":"Routes\n","de":"Straßen","nl":""}
+{"k":"CATEGNS_VOIESNAVIGABLES","fr":"Voies Navigables","en":"Navigable waterways","de":"Wasserstraßen","nl":""}
+{"k":"CATEGNS_VOITURE","fr":"Voiture","en":"Car-related","de":"Auto","nl":""}
+{"k":"CATEGNS_VOITURELEC","fr":"Voiture élec.","en":"Electric car","de":"E-Auto","nl":""}
+{"k":"CATEGNS_VOITUREPARTAGE","fr":"Voiture partagée","en":"Shared car\n","de":"Carsharing","nl":""}
+{"k":"CATEGNS_VOL","fr":"Vol","en":"Theft\n","de":"Diebstahl","nl":""}
+{"k":"CATEGNS_VOLIATOULOUSE","fr":"Véolia Toulouse","en":"Véolia Toulouse","de":"Véolia Toulouse","nl":""}
+{"k":"CATEGNS_VOTE","fr":"Vote","en":"Vote","de":"Abstimmung","nl":""}
+{"k":"CATEGNS_VOTECAMPUS","fr":"Vote Campus","en":"Campus vote","de":"Vote Campus","nl":""}
+{"k":"CATEGNS_VOTEFLASH","fr":"Vote flash","en":"Flash vote","de":"Flashvote","nl":""}
+{"k":"CATEGNS_VOTESUSHI","fr":"Vote Sushi","en":"Sushi vote","de":"Sushi-Abstimmung","nl":""}
+{"k":"CATEGNS_VOYAGE","fr":"Voyage","en":"Journey","de":"Reise","nl":""}
+{"k":"CATEGNS_VUDUWEB","fr":"Vu du web","en":"From the web","de":"Vu du web","nl":""}
+{"k":"CATEGNS_WEEK_END","fr":"Week-end","en":"Weekend","de":"Wochenende","nl":""}
+{"k":"CATEGNS_WIFI","fr":"Wifi","en":"Wifi","de":"WLAN","nl":""}
+{"k":"CATEGNS_YOUTUBE","fr":"Youtube","en":"Youtube","de":"Youtube","nl":""}
+{"k":"TRADCLINS__VERSION","fr":"TRADCLINS__VERSION","en":"1.0.0","de":"1.0.0","nl":""}
+{"k":"TRADCLINS_LYYTI_STATE_ANSWERED","fr":"Répondu","en":"Answered","de":"Beantwortet","nl":""}
+{"k":"TRADCLINS_LYYTI_STATE_CLOSED","fr":"Fermé","en":"Closed","de":"Geschlossen","nl":""}
+{"k":"TRADCLINS_LYYTI_STATE_ONGOING","fr":"En cours","en":"Ongoing","de":"In Bearbeitung","nl":""}
+{"k":"TRADCLINS_LYYTI_STATE_OPENED","fr":"Ouvert","en":"Open","de":"Offen","nl":""}
+{"k":"TRADCLINS_LYYTI_STATE_READ","fr":"Lu","en":"Read","de":"Gelesen","nl":""}
+{"k":"TRADCLINS_LYYTI_STATE_RESOLVED","fr":"Résolu","en":"Resolved","de":"Gelöst","nl":""}
+{"k":"TRADCLINS_LYYTI_STATE_STANDBY","fr":"En attente","en":"Pending","de":"Ausstehend","nl":""}
+{"k":"TRADCLINS_NOTIF_COPRO_SHARED","fr":"Votre gestionnaire a procédé au regroupement d'immeuble par copropriété","en":"Your manager has grouped the building by co-ownership\n","de":"Ihr Verwalter ist dazu übergegangen, Gebäude nach WEG zu ordnen","nl":""}
+{"k":"TRADCLINS_NOTIF_COPRO_UNSHARED","fr":"Votre gestionnaire est passé à la gestion par immeubles distincts","en":"Your manager has moved to separate building management\n","de":"Ihr Verwalter ist zur Verwaltung nach einzelnen Gebäuden übergegangen","nl":""}
+{"k":"TRADCLINS_NOTIF_LYYTI_FOLLOWED_COMMENT","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert","nl":""}
+{"k":"TRADCLINS_NOTIF_LYYTI_STATUS_CHANGED","fr":"Le statut de {{title}} est passé à {{state}}","en":"\"{{title}}\"'s status has changed to {{state}}","de":"Der Status von {{title}} wurde zu {{state}} geändert","nl":""}
+{"k":"TRADCLINS_NOTIF_MGR_ANSWER","fr":"{{username}} a publié un commentaire sur {{title}}","en":"{{username}} added a new comment to {{title}}","de":"{{username}} hat einen Kommentar zu {{title}} veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_MGR_ANSWER_FMLYYTI","fr":"{{username}} a publié un commentaire sur {{title}}","en":"{{username}} added a new comment to {{title}}","de":"{{username}} hat einen Kommentar zu {{title}} geändert","nl":""}
+{"k":"TRADCLINS_NOTIF_MGR_ANSWER_PRIVATE_LYYTI","fr":"{{username}} a répondu à votre demande {{title}}","en":"{{username}} responded to your request {{title}}","de":"{{username}} hat auf Ihre Frage {{title}} geantwortet","nl":""}
+{"k":"TRADCLINS_NOTIF_MODERATED_LYYTI","fr":"{{title}} a été modéré par la communauté","en":"{{title}} has been moderated by the community","de":"{{title}} wurde von der Community moderiert","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_COMMENT","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}}","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_CAMPUS","fr":"{{username}} a ajouté un nouveau document","en":"{{username}} added a new document","de":"{{username}} hat ein neues Dokument hinzugefügt","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_CITY","fr":"{{username}} a publié {{title}}","en":"{{username}} posted {{title}}","de":"{{username}} hat {{title}} veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_DOCUMENT_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_FLAT_ISSUE","fr":"{{username}} a signalé un incident de type {{type}} dans votre appartement du {{address}}","en":"{{username}} has reported an issue of type {{type}} in your flat {{address}}","de":"{{username}} hat einen Vorfall vom Typ {{type}} in Ihrer Wohnung mit der Adresse {{address}} gemeldet","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_FMLYYTI","fr":"{{username}} a publié {{title}}","en":"{{username}} has published {{title}}\n","de":"{{username}} hat {{title}} veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_ISSUE_BUILDING","fr":"{{username}} a signalé un incident de type {{type}} dans votre immeuble du {{address}}","en":"{{username}} has reported an issue of type {{type}} in your building {{address}}","de":"{{username}}hat einen Vorfall vom Typ {{type}} in Ihrem Gebäude mit der Adresse {{address}} gemeldet","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_MESSAGE","fr":"{{username}} vous a envoyé un nouveau message : {{title}}","en":"{{username}} sent you a new message: {{title}}","de":"{{username}} hat Ihnen eine neue Nachricht gesendet: {{title}}","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_MESSAGE_ON_LYYTI","fr":"{{username}} a commenté {{title}}","en":"{{username}} added a comment to {{title}}","de":"{{username}} hat {{title}} kommentiert","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_NOTE_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_NOTE_CAMPUS","fr":"{{username}} a ajouté une nouvelle note","en":"{{username}} added new information","de":"{{username}} hat eine Mitteilung hinzugefügt","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_NOTE_CITY","fr":"{{username}} a publié {{title}}","en":"{{username}} posted {{title}}","de":"{{username}} hat {{title}} veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_NOTE_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted  {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_OFFER_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier","en":"{{username}} posted a new ad in your building/neighbourhood","de":"{{username}} hat eine neue Anzeige in Ihrem Gebäude/Viertel veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_TOPIC_BUILDING","fr":"{{username}} a publié une nouvelle annonce dans votre immeuble / quartier","en":"{{username}} posted a new ad in your building/neighbourhood","de":"{{username}} hat in Ihrem Gebäude/Viertel eine neue Anzeige veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_USER_BUILDING","fr":"{{username}} vient de rejoindre votre communauté du {{address}}","en":"{{username}} has just joined your community {{address}}","de":"{{username}} ist Ihrer Community mit der Adresse {{address}} beigetreten","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_VOTE_CITY","fr":"{{username}} voudrait avoir votre avis","en":"{{username}} would like your opinion","de":"{{username}} bittet um Ihre Meinung","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_WORK_BUILDING","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_WORK_CAMPUS","fr":"{{username}} a ajouté un nouveau travaux","en":"{{username}} added new works","de":"{{username}} hat eine neue Arbeit hinzugefügt","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_WORK_CITY","fr":"{{username}} a signalé {{title}}","en":"{{username}} has reported {{title}}","de":"{{username}} hat {{title}} gemeldet","nl":""}
+{"k":"TRADCLINS_NOTIF_NEW_WORK_FLAT","fr":"{{username}} a publié {{title}} dans votre immeuble du {{address}}","en":"{{username}} posted {{title}} in your building {{address}}","de":"{{username}} hat {{title}} in Ihrem Gebäude mit der Adresse {{address}} veröffentlicht","nl":""}

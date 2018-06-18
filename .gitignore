@@ -1,2 +1,8 @@
 node_modules
 tools/differ/index.html
+.idea
+test-reports/
+tmp_de.json
+tmp_fr.json
+tmp_en.json
+tmp_nl.json

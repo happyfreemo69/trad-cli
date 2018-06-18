@@ -18,11 +18,11 @@ function main(){
         throw 'missing export LOCO_APIKEY=something';
     }
     var dic = {};
-    return Promise.all(['fr','en','de'].map(locale=>{
+    return Promise.all(['fr','en','de','nl'].map(locale=>{
         return loco.getExport({loco_apiKey:process.env.LOCO_APIKEY},locale).then(json=>{
             fs.writeFile('tmp_'+locale+'.json', JSON.stringify(json,null,1));
             Object.keys(json).forEach(assetId=>{
-                dic[assetId] = dic[assetId]||{fr:'', en:'', de:''};
+                dic[assetId] = dic[assetId]||{fr:'', en:'', de:'', nl:''};
                 if(typeof(json[assetId])!='string'){
                     throw 'should never happen, check your assetId '+assetId;
                 }

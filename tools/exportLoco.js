@@ -4,7 +4,7 @@ var optimist = require('optimist')
     .usage('$0: node app -o outputFileName')
     .options('l', {
         alias : 'language',
-        describe: 'fr, en or de'
+        describe: 'fr, en, de or nl'
     })
     .options('o', {
         alias : 'outFile',
@@ -27,7 +27,7 @@ var path = require('path');
 var trad = require('../');
 const NS = 'TRADCLINS_';
 function main(){
-    const defLanguages = ['fr','en','de'];
+    const defLanguages = ['fr','en','de','nl'];
     var languages = [];
     if(argv.all){
         languages = defLanguages;
