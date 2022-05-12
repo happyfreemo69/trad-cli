@@ -8,7 +8,7 @@
         "mocha": "3.4.2",
         "mocha-jenkins-reporter": "0.3.10",
         "optimist": "0.6.1",
-        "loco-client": "git://github.com:happyfreemo69/loco-client"
+        "loco-client": "git@github.com:happyfreemo69/loco-client"
     },
     "private": true,
     "license": "MIT"
