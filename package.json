@@ -1,15 +1,17 @@
 {
     "name": "trad-cli",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "description": "tradcli",
     "author": "mpech",
     "dependencies": {
         "mustache": "2.3.0",
-        "mocha": "3.4.2",
-        "mocha-jenkins-reporter": "0.3.10",
-        "optimist": "0.6.1",
-        "loco-client": "git@github.com:happyfreemo69/loco-client"
+        "yargs": "17.6.2",
+        "loco-client": "git@github.com:happyfreemo69/loco-client#y23"
     },
+    "devDependencies": {
+        "mocha": "3.4.2",
+        "mocha-jenkins-reporter": "0.3.10"
+	},
     "private": true,
     "license": "MIT"
 }

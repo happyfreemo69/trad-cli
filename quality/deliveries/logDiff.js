@@ -4,7 +4,7 @@
 var fs = require('fs');
 var path = require('path');
 
-var optimist = require('optimist')
+var optimist = require('yargs')
     .usage('$0: node app -o oldTag -n newTag')
     .options('o', {
         alias : 'old',

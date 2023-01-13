@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-var optimist = require('optimist')
+var optimist = require('yargs')
     .usage('$0: node app -o outputFileName')
     .options('l', {
         alias : 'language',

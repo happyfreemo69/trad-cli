@@ -1,5 +1,5 @@
 #!/usr/bin/node
-var optimist = require('optimist').usage(
+var optimist = require('yargs').usage(
 `$0 -o oldDic.jsonl -n oldDic.jsonl`)
     .options('o', {
         alias : 'old',
